@@ -14471,7 +14471,13 @@
         "111061": "Jika Anda mencoba menyalip di tengah balapan, Anda akan sedikit di depan untuk beberapa saat, lalu pada tahap akhir, jika Anda berada di kelompok tengah atau bawah menjelang akhir tikungan terakhir, kecepatan Anda akan meningkat untuk beberapa saat.",
         "111071": "Jika Anda berada di depan menjelang akhir balapan, tingkatkan kecepatan Anda sedikit. Jika Anda berada di posisi ketiga atau lebih tinggi, tingkatkan akselerasi Anda sedikit. (Jarak menengah)",
         "111091": "Di lintasan Triple Tiara,\\n Anda akan bergerak maju sedikit untuk beberapa saat di tikungan terakhir,\\n dan jika tikungan itu menurun,\\n akselerasi Anda akan sedikit meningkat.",
-        "111101": "Meningkatkan kecepatan secara signifikan dalam waktu singkat selama sprint terakhir, dan lebih efektif dalam balapan jarak menengah. <Strategi: Depan>"
+        "111101": "Meningkatkan kecepatan secara signifikan dalam waktu singkat selama sprint terakhir, dan lebih efektif dalam balapan jarak menengah. <Strategi: Depan>",
+        "201371": "Persempit sedikit bidang pandang bagi pelari di belakang saat berada di depan di akhir lomba. (Pengejar Kecepatan)",
+        "201372": "Sedikit mempersempit bidang pandang bagi pelari di belakang saat berada di depan di akhir lomba. (Pace Chaser)",
+        "201381": "Tingkatkan kecepatan secara moderat di jalan lurus. (Late Surger)",
+        "201382": "Menaikan Velocity pada trek lurus ( Late Surger )",
+        "201391": "Menaikan Velositas Pada Belokan ( Late )",
+        "201392": "Meningkatkan Velositas Saat Belokan ( Late )"
     },
     "49": {
         "1": "50 Jewels",

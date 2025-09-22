@@ -3227,5 +3227,10 @@
     "SingleMode418010": "Pembatalan semua reservasi ",
     "SingleMode418011": "Serius mau batalin semua reservasi race ?",
     "SingleMode418012": "Reservasi dibatalkan",
-    "SingleMode418013": "Tidak dipilih"
+    "SingleMode418013": "Tidak dipilih",
+    "SingleMode418005": "Batalkan semua",
+    "SingleMode418014": "Pilih race yang ingin dibatalkan sekaligus",
+    "SingleMode418018": "Tidak bisa menyimpan save , karena ga ada perubahan",
+    "SingleMode418019": "Ga ada Jadwal Sebelumnya",
+    "Shop0030": "Jika kamu setuju, centang kotak di sebelah kiri dan klik tombol OK."
 }

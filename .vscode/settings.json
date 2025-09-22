@@ -1,3 +1,4 @@
 {
-    "zokuzoku.enabled": true
+    "zokuzoku.enabled": true,
+    "commentTranslate.source": "Bing"
 }

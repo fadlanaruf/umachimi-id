@@ -1,4 +1,5 @@
 {
     "zokuzoku.enabled": true,
-    "commentTranslate.source": "Bing"
+    "commentTranslate.source": "Bing",
+    "commentTranslate.targetLanguage": "id"
 }

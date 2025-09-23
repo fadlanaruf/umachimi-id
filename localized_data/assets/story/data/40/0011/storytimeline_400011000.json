@@ -37,6 +37,43 @@
         {
             "name": "Sakura Chiyono O",
             "text": "\"Langsung kontak kita di ( SINI )\nSemangat Buat 3 Tahun Ini ! *Secara resmi disetujui oleh ketua.\"\n--Membangun fasilitas pelatihan?!"
+        },
+        {
+            "text": "\"Wah, pengalaman kayak gini jarang banget, kan? Apalagi bikin barang yang biasanya dipakai sehari-hari… Bisa belajar banyak hal juga nih!\"\n",
+            "name": "Sakura Chiyono O"
+        },
+        {
+            "text": "\"...Eh, iya sih, liat-liat juga.  \nTapi ini kan bukan liburan tropis, ya?  \nTulisannya jelas ‘pengembangan’ sama ‘bangunan’――\"\n",
+            "name": "Gold City"
+        },
+        {
+            "text": "\"Hah!? Udah daftar semua orang!?  \nJordaan, kamu seriusan nih…!\"\n",
+            "name": "Gold City",
+            "color_text_info_list": [
+                "Jordan"
+            ]
+        },
+        {
+            "text": "\"Pas lagi lihat poster yang bikin heboh seantero sekolah bareng <chrname>――\"\n",
+            "name": "monolog"
+        },
+        {
+            "name": "Direktur Akikawa",
+            "text": "\"Minat nggak, <username> Trainer!?\"\n",
+            "choice_data_list": [
+                "\"Direktur Akikawa! Ini apa nih?\""
+            ]
+        },
+        {
+            "name": "Direktur Akikawa",
+            "color_text_info_list": [
+                "URA"
+            ],
+            "text": "\"Hmm! Ini soal URA, tapi aku lihat semangat orang yang jadi penanggung jawab proyeknya,  \njadi aku juga pengen ikut kerja sama!\"\n"
+        },
+        {
+            "name": "Direktur Akikawa",
+            "text": "\"Ternyata ‘penanggung jawab’ itu nggak cuma mau andalkan murid,  \ntapi juga pengen banget pakai ilmu para trainer.  \nKalau kamu tertarik, jangan ragu ikut, ya!\"\n"
         }
     ]
 }

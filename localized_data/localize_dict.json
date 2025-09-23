@@ -3279,5 +3279,14 @@
     "SingleMode419107": "Faktor awal",
     "SingleMode419108": "Faktor yang diperoleh lagi",
     "SingleMode419109": "Pilih faktor yang akan didapat.",
-    "SingleMode419110": "Konfirmasi faktor"
+    "SingleMode419110": "Konfirmasi faktor",
+    "SingleMode419112": "Setelah dipilih, faktor tidak bisa diperoleh kembali.",
+    "SingleMode419113": "TP tidak cukup ({0}) → ingin restore?",
+    "SingleMode419115": "Pilih Faktor",
+    "SingleMode419116": "<color=#FF911C>“{0}”</color> telah diperbarui.",
+    "SingleMode419117": "Update Skenario",
+    "SingleMode419119": "Di giliran berikutnya, {0} meningkat <color=#FF6D26>{1}</color> dalam tingkat keahlian.",
+    "SingleMode424001": "Ke Race Terjadwal",
+    "SingleMode424002": "Batalkan Reservasi",
+    "SingleMode424003": "Duplikat My Rotation"
 }

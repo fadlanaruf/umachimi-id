@@ -74,6 +74,9 @@
         {
             "name": "Direktur Akikawa",
             "text": "\"Ternyata ‘penanggung jawab’ itu nggak cuma mau andalkan murid,  \ntapi juga pengen banget pakai ilmu para trainer.  \nKalau kamu tertarik, jangan ragu ikut, ya!\"\n"
+        },
+        {
+            "text": "\"Ya sudahlah, coba dulu aja hari pertama.  \nBegitu kita putuskan bareng <chrname>――\"\n"
         }
     ]
 }

@@ -1,6 +1,8 @@
 {
     "zokuzoku.enabled": true,
-    "commentTranslate.source": "Copilot",
+    "commentTranslate.source": "Bing",
     "commentTranslate.targetLanguage": "id",
-    "zokuzoku.useGameFont": false
+    "zokuzoku.useGameFont": false,
+    "commentTranslate.maxTranslationLength": 3000,
+    "commentTranslate.browse.enabled": true
 }

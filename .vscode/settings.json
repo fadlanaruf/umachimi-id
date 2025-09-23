@@ -1,5 +1,6 @@
 {
     "zokuzoku.enabled": true,
     "commentTranslate.source": "Bing",
-    "commentTranslate.targetLanguage": "id"
+    "commentTranslate.targetLanguage": "id",
+    "zokuzoku.useGameFont": false
 }

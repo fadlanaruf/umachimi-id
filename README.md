@@ -42,11 +42,11 @@ Kami ingin mempermudah player & komunitas lokal untuk memahami gameplay, sistem,
 ---
 
 ## 🛠️ Cara Instalasi
-1. Ambil JSON Di Release  
-   ```
+1. Download Reponya 
+   ``` Blm bisa download otomatis
 2. Masuk ke folder android/media/jp.co.cygamesumamusume/hachimi 
    ``
-   Reload Game dan Pilih English > UmachimiID
+   Reload Game dan Pilih English > UmachimiID / recplace loclaize_data dari repo yang di download
    ```
 3. Enjoy Playing 🚀  
 

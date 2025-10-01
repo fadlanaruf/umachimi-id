@@ -2,10 +2,10 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Balapan pertama musim gugur… Kyōto Daishōten dimenangkan oleh Mejiro McQueen dengan cara yang luar biasa."
+            "text": "Balapan pertama musim gugur… \nKyōto Daishōten dimenangkan oleh Mejiro McQueen dengan cara yang luar biasa."
         },
         {
-            "text": "Karena perkembangan yang stabil, rasa kagum dan simpati publik padanya terus meningkat."
+            "text": "Karena perkembangan yang stabil,\nrasa kagum dan simpati publik padanya terus meningkat."
         },
         {
             "text": "Hebat banget! Buku ini, buku itu, semua buku ada McQueen-nya!",
@@ -142,7 +142,7 @@
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Aku harus tetap sadar kapan harus sprint dan jaga posisi supaya bisa menyelesaikan balapan dengan nyaman.",
+            "text": "Aku harus tetap sadar kapan harus\nsprint dan jaga posisi supaya bisa menyelesaikan balapan dengan nyaman.",
             "name": "Mejiro McQueen"
         },
         {
@@ -190,29 +190,40 @@
         },
         {
             "text": "Woaah! Dia makin semangat! Yah, kayaknya aku harus gangguin dia.",
-            "name": "Gold Ship"
+            "name": "Gold Ship",
+            "choice_data_list": [
+                "Minna, hati hati"
+            ]
         },
         {
             "text": "Hei!! Jangan coba-coba tarik ekorku!",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Kesuksesan Mejiro McQueen memberi dampak positif pada anggota tim lainnya."
+            "text": "Oh-oh, lagi semangat banget nih~\nHmm, kalo gitu, aku bakal datang gangguin dikit ah",
+            "name": "Gold Ship"
         },
         {
-            "text": "Dia, tanpa diragukan lagi, adalah jantung tim ini."
+            "text": "EH ! jangan coba-coba pegang ekorku!",
+            "name": "Mejiro McQueen"
         },
         {
-            "text": "Trainer-san!",
+            "text": "Aksi Mejiro McQueen ternyata juga memberi pengaruh baik ke anggota lainnya."
+        },
+        {
+            "text": "Tidak diragukan lagi, dia adalah sosok utama dalam tim"
+        },
+        {
+            "text": "Trainner Saaaaan !.....",
             "name": "Hayakawa Tazuna"
         },
         {
-            "text": "Tazuna-san, ada apa?",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "Ada apa Tazuna , Tumben kemari"
         },
         {
-            "text": "Aku punya sesuatu untuk dibicarakan denganmu soal McQueen-san…",
-            "name": "Hayakawa Tazuna"
+            "name": "Tazuna Hayakawa",
+            "text": "Aku ingin ngomong sesuatu tentang kamu dan McQueen."
         }
     ]
 }

@@ -171,11 +171,11 @@
       "name": "Mejiro McQueen"
     },
     {
-      "text": "Kamu masih latihan bentuk lari,\njadi aku khawatir kalau terlalu berat\nbuat tubuh dan pikiranmu.\nKita harus pastikan kamu tidak memaksakan diri.",
+      "text": "Kamu masih latihan bentuk lari,jadi aku khawatir kalau terlalu berat\nbuat tubuh dan pikiranmu.\nKita harus pastikan kamu tidak memaksakan diri.",
       "name": "<username>"
     },
     {
-      "text": "Kamu masih latihan bentuk lari,\njadi aku khawatir kalau terlalu berat\nbuat tubuh dan pikiranmu.\nKita harus pastikan kamu tidak memaksakan diri.",
+      "text": "Kamu masih latihan bentuk lari,jadi aku khawatir kalau terlalu berat\nbuat tubuh dan pikiranmu.\nKita harus pastikan kamu tidak memaksakan diri.",
       "name": "<username>"
     },
     {
@@ -208,10 +208,16 @@
     },
     {
       "text": "Sepertinya dia memang belum sepenuhnya yakin, ya?",
-      "name": "<username>"
+      "name": "<username>",
+            "choice_data_list": [
+                "Aku yakin pasti bisa!"
+            ]
     },
     {
-      "text": "Kalau dibandingkan latihan dari Sensei,\nlatihanku ini mungkin masih kurang.\nAtau mungkin aku dan dia belum\nbenar-benar punya hubungan saling percaya…"
+      "text": "Kalau dibandingkan latihan dari Sensei,\nlatihanku ini mungkin masih kurang.Atau mungkin aku dan dia belum\nbenar-benar punya hubungan saling percaya…",
+            "choice_data_list": [
+                "Aku pasti bisa!"
+            ]
     },
     {
       "text": "Kemampuanku mengelola tim masih kurang.\nAkan sangat membantu kalau kita bisa dapat\nanggota baru lagi.",

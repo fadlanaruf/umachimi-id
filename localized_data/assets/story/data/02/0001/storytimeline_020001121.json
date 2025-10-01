@@ -23,19 +23,19 @@
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Setiap kali aku merasa terpuruk, kau selalu datang berlari untuk memberi semangat padaku, Trainer-san.",
+            "text": "Setiap kali aku merasa terpuruk, \nkau selalu datang berlari untuk memberi semangat padaku, Trainer-san.",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Kau sama sekali tidak berubah. Sikapmu pada kami selalu tulus dan sungguh-sungguh…",
+            "text": "Kau sama sekali tidak berubah.\nSikapmu pada kami selalu tulus dan sungguh-sungguh…",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Karena itu saja yang bisa kulakukan. Meski begitu, masih banyak hal yang sering luput dari perhatianku.",
+            "text": "Karena itu saja yang bisa kulakukan. \nMeski begitu, masih banyak hal yang sering luput dari perhatianku.",
             "name": "<username>"
         },
         {
-            "text": "Karena itu saja yang bisa kulakukan. Meski begitu, masih banyak hal yang sering luput dari perhatianku.",
+            "text": "Karena itu saja yang bisa kulakukan. \nMeski begitu, masih banyak hal yang sering luput dari perhatianku.",
             "name": "<username>"
         },
         {
@@ -55,15 +55,15 @@
             "name": "<username>"
         },
         {
-            "text": "Tapi… apa pun yang terjadi, aku dan anggota tim akan terus menaruh harapan pada dirimu.",
+            "text": "Tapi… apa pun yang terjadi, aku \ndan anggota tim akan terus menaruh harapan pada dirimu.",
             "name": "<username>"
         },
         {
-            "text": "Kau akan terus melakukan itu… untuk seseorang yang sering melakukan kesalahan ceroboh sepertiku?",
+            "text": "Kau akan terus melakukan itu… \nuntuk seseorang yang sering melakukan kesalahan ceroboh sepertiku?",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Kau akan tetap melakukan itu, untuk seseorang yang sudah menginjak-injak harapan para penggemarnya \ndan merepotkan pelatihnya sendiri!?",
+            "text": "Kau akan tetap melakukan itu, \nuntuk seseorang yang sudah menginjak-injak \nharapan para penggemarnya dan merepotkan pelatihnya sendiri!?",
             "name": "Mejiro McQueen"
         },
         {
@@ -127,11 +127,11 @@
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Apa… apa aku benar-benar bisa menjadi Uma Musume yang bisa kalian percaya seperti itu?",
+            "text": "Apa… apa aku benar-benar bisa menjadi \nUma Musume yang bisa kalian percaya seperti itu?",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Sebagai ace tim ini… apa aku benar-benar bisa mewujudkan mimpi itu untuk kalian semua?",
+            "text": "Sebagai ace tim ini… apa aku benar-benar \nbisa mewujudkan mimpi itu untuk kalian semua?",
             "name": "Mejiro McQueen",
             "choice_data_list": [
                 "Tentu saja bisa.",
@@ -158,7 +158,7 @@
             "name": "Mejiro Ryan"
         },
         {
-            "text": "Bisa gawat kalau Nenek tahu ada salah satu Uma Musume keluarga Mejiro yang keluyuran semalaman, tahu?",
+            "text": "Bisa gawat kalau Nenek tahu ada salah \nsatu Uma Musume keluarga Mejiro yang keluyuran semalaman, tahu?",
             "name": "Mejiro Dober"
         },
         {
@@ -194,7 +194,7 @@
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Tapi meskipun begitu, aku akan terus berlari sambil membawa harapan dan mimpi semua orang di pundakku! \nKarena itulah artinya menjadi ace tim ini!",
+            "text": "Tapi meskipun begitu, aku akan terus berlari\nsambil membawa harapan dan mimpi semua orang di pundakku! \nKarena itulah artinya menjadi ace tim ini!",
             "name": "Mejiro McQueen"
         },
         {
@@ -218,7 +218,7 @@
             "name": "Gadis kuda berambut bob hitam"
         },
         {
-            "text": "Sepertinya kau akhirnya berhasil mengubah semua ekspektasi itu jadi kekuatanmu, McQueen.",
+            "text": "Sepertinya kau akhirnya berhasil mengubah \nsemua ekspektasi itu jadi kekuatanmu, McQueen.",
             "name": "Oguri Cap"
         },
         {
@@ -266,7 +266,7 @@
             "text": "Arima Kinen tahun lalu adalah tempat di mana Oguri Cap mencetak keajaiban terakhirnya, \ndan juga tempat di mana kami memulai kembali."
         },
         {
-            "text": "Arima Kinen tahun lalu adalah tempat di mana Oguri Cap mencetak keajaiban terakhirnya, \ndan juga tempat di mana kami memulai kembali."
+            "text": "Arima Kinen tahun lalu adalah tempat di mana \nOguri Cap mencetak keajaiban terakhirnya, \ndan juga tempat di mana kami memulai kembali."
         },
         {
             "text": "Balapan besar terakhir tahun ini, Grand Prix Arima Kinen, akan segera dimulai!",

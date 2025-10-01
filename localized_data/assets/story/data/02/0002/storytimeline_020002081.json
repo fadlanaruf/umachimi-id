@@ -198,7 +198,18 @@
             "text": "Aku ngerti.\n\nKasih perintah, aku bakal jalankan keinginanmu."
         },
         {
-            "text": "Begitu kata Mihono Bourbon dengan ekspresi lembut,\n\nrasanya sangat menenangkan."
+            "text": "Begitu kata Mihono Bourbon dengan ekspresi lembut,\n\nrasanya sangat menenangkan.",
+            "choice_data_list": [
+                "Ada sesuatu , boleh tolong ?",
+                "Ih boleh dong minta tolong"
+            ]
+        },
+        {
+            "name": "Mihono Burbon",
+            "text": "Dipahami. Perintah… tidak, maksudku, keinginanku akan segera dilaksanakan"
+        },
+        {
+            "text": "Saat Mihono Bourbon mengucapkan itu sambil menampilkan\nekspresi lembut, aku merasa terbantu . itulah My....."
         }
     ]
 }

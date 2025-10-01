@@ -55,7 +55,7 @@
             "text": "Aku nggak sabar buat lari bareng Rice Shower di “Emperor Prize”.\nBener kan, Trainer-san."
         },
         {
-            "text": "Aku merasa harus ngobrol sama McQueen."
+            "text": "Aku merasa harus ngobrol sama dia ...."
         },
         {
             "text": "Tapi sepertinya itu juga ada maksud buat ngebiarin Rice Shower.\nJadi, yang bisa aku jawab cuma:",
@@ -65,7 +65,10 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Iya, aku juga percaya begitu."
+            "text": "Iya, aku juga percaya begitu.",
+            "choice_data_list": [
+                "Trus Gimana ? Katanya begitu"
+            ]
         },
         {
             "name": "Gold Ship",
@@ -272,7 +275,17 @@
             "text": "Siap!"
         },
         {
-            "text": "Dengan begitu, Rice Shower pun memutuskan buat naik ke panggung besar “Emperor’s Award” musim semi."
+            "text": "Dengan begitu, Rice Shower pun memutuskan\nbuat naik ke panggung besar “Emperor’s Award” musim semi.",
+            "choice_data_list": [
+                "Kalian Semangat Dong !!!"
+            ]
+        },
+        {
+            "name": "- (Mereka)",
+            "text": "Siap!"
+        },
+        {
+            "text": "Dan dengan begitu, Rice Shower akhirnya memutuskan\nuntuk naik ke panggung Spring Tenno-sho"
         }
     ]
 }

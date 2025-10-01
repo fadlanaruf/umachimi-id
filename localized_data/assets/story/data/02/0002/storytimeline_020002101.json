@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Komentator",
-      "text": "Ini dia Rice Shower! Rice Shower tampil maksimal! Menyentuh garis finis di posisi pertama!!"
+      "text": "Ini dia Rice Shower! Rice Shower tampil maksimal! \nMenyentuh garis finis di posisi pertama!!"
     },
     {
       "text": "Di “Nikkei Prize” sebagai persiapan untuk “Emperor's Award” musim semi,\nRice Shower kembali menunjukkan performa terbaiknya dan finis di posisi pertama."
@@ -93,7 +93,10 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Iya, bisa diandalkan."
+      "text": "Iya, bisa diandalkan.",
+            "choice_data_list": [
+                "Ya semangat deh , lakukan yang terbaik!"
+            ]
     },
     {
       "text": "Setelah ngobrol sama McQueen,\naku lari menuju Rice Shower yang sedang berjalan di depan."
@@ -103,7 +106,7 @@
       "text": "Ah, Trainer-san…"
     },
     {
-      "text": "Nervous ya?\nBuat rileks, sepertinya bagus kalau digambar gadis kuda berambut bob hitam 3 kali di telapak tangan lalu ditelan."
+      "text": "Nervous ya?\nBuat rileks, sepertinya bagus kalau digambar\ngadis kuda berambut bob hitam 3 kali di telapak tangan lalu ditelan."
     },
     {
       "name": "Rice Shower",
@@ -167,7 +170,11 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "……"
+      "text": "……",
+            "choice_data_list": [
+                "Ayo Rice !",
+                "Ayooo Rice ....!"
+            ]
     },
     {
       "name": "Mejiro McQueen",
@@ -192,6 +199,20 @@
     {
       "name": "Komentator",
       "text": "“Emperor Prize” musim semi,\ndengan jarak 3200m menuju kejayaan, baru saja dimulai!"
-    }
+    },
+        {
+            "name": "Mejiro McQueen",
+            "text": "(Meski begitu, sebagai Uma Musume dari keluarga Mejiro,\ndan juga sebagai seorang ace, yang bisa kulakukan \nhanyalah berlari dengan segenap kekuatan.)"
+        },
+        {
+            "text": ".........."
+        },
+        {
+            "name": "Komentator",
+            "text": "Akhirnya, Mejiro McQueen pun masuk dan siap di gate"
+        },
+        {
+            "text": "Spring Tenno-sho! Dengan 3200 meter menuju kejayaan…\nDan sekarang—START!"
+        }
   ]
 }

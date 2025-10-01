@@ -208,6 +208,29 @@
         },
         {
             "text": "Jeritan Rice Shower bergema di lintasan latihan, \nseakan tahu seberapa cepat dia harus berlari di masa depan."
+        },
+        {
+            "name": "<username>",
+            "text": "“Jujur aja, bentar lagi ada race 2400m.\nMasalahnya… hmm, bukan cuma sedikit sih, lawannya kali ini pada jago-jago semua.”"
+        },
+        {
+            "name": "Monolog",
+            "text": "“Begitu dia ngomong kayak gitu, semua anggota—kecuali Rice Shower—langsung berubah ekspresi. Kayak mereka ngeh ada sesuatu yang serius.”"
+        },
+        {
+            "text": "“Race berikutnya yang bakal dijalanin Rice Shower… itu bukan race biasa.\nBuat Uma Musume, ini race spesial—cuma sekali seumur hidup bisa ikutan.\nSebuah ajang yang nentuin siapa yang bener-bener ada di puncak— ya, race itu",
+            "choice_data_list": [
+                "Ooo ya pasti toh . Japan Derby",
+                "Iya lho... Japan Derby >-<"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "“Hah!? Rice Shower… ikut Japan Derby!?”"
+        },
+        {
+            "text": "Rice yang kaget dan panik , lalu meluncur melewati lintasan latihan.\nSeakan jadi pertanda, bahwa mulai dari sini dia bakal berlari lebih kencang lagi.",
+            "name": "Monolog"
         }
     ],
     "title": "Mejiro McQueen - Arc 1"

@@ -2,7 +2,7 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Pemenang balapan, Mejiro McQueen, sayangnya menghalangi gadis kuda di belakangnya \nsehingga mereka tidak bisa maju di lintasan…",
+            "text": "Pemenang balapan, Mejiro McQueen, sayangnya \nmenghalangi gadis kuda di belakangnya \nsehingga mereka tidak bisa maju di lintasan…",
             "name": "Penyiar"
         },
         {
@@ -10,13 +10,13 @@
             "name": "Penyiar"
         },
         {
-            "text": "Hari itu, Mejiro McQueen memulai dengan luar biasa \ndan langsung masuk ke sisi dalam lintasan agar bisa menjaga posisi yang bagus ke depan."
+            "text": "Hari itu, Mejiro McQueen memulai \ndengan luar biasa dan langsung masuk \nke sisi dalam lintasan agar bisa menjaga posisi yang bagus ke depan."
         },
         {
             "text": "Namun, tindakannya membuat gadis kuda di belakangnya tidak punya ruang, \nsehingga berisiko terjatuh."
         },
         {
-            "text": "Insiden mengerikan ini melibatkan Mejiro McQueen—yang waktu itu paling difavoritkan untuk menang. \nMaka dari itu, tindakannya ramai diberitakan di media."
+            "text": "Insiden mengerikan ini melibatkan \nMejiro McQueen—yang waktu itu paling difavoritkan untuk menang. \nMaka dari itu, tindakannya ramai diberitakan di media."
         },
         {
             "text": "McQueen… kamu baik-baik aja kan?",
@@ -39,7 +39,7 @@
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Kamu masih menyalahkan dirimu sendiri ya? Tolong jangan terlalu keras pada dirimu.",
+            "text": "Kamu masih menyalahkan\ndirimu sendiri ya? Tolong jangan terlalu keras pada dirimu.",
             "name": "Mejiro Dober"
         },
         {
@@ -82,7 +82,7 @@
             "name": "<username>"
         },
         {
-            "text": "Aku nggak masalah mereka ada di sini. \nMalah kalau mereka punya pertanyaan, aku dengan senang hati akan jawab dengan tulus.",
+            "text": "Aku nggak masalah mereka ada di sini. \nMalah kalau mereka punya pertanyaan,\naku dengan senang hati akan jawab dengan tulus.",
             "name": "Mejiro McQueen"
         },
         {
@@ -122,7 +122,7 @@
             "name": "Reporter B"
         },
         {
-            "text": "Aku sungguh meminta maaf sebesar-besarnya jika tindakanku merepotkan peserta lain di balapan itu.",
+            "text": "Aku sungguh meminta maaf \nsebesar-besarnya jika tindakanku \nmerepotkan peserta lain di balapan itu.",
             "name": "Mejiro McQueen"
         },
         {
@@ -130,7 +130,7 @@
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Apa yang sudah kamu lakukan untuk menebus orang-orang yang dirugikan karena tindakanmu?",
+            "text": "Apa yang sudah kamu lakukan \nuntuk menebus orang-orang yang dirugikan karena tindakanmu?",
             "name": "Reporter A"
         },
         {
@@ -146,7 +146,7 @@
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Tindakanku murni keputusan pribadiku! Trainer-san sama sekali tidak ada hubungannya dengan yang terjadi!",
+            "text": "Tindakanku murni keputusan pribadiku! \nTrainer-san sama sekali tidak ada hubungannya dengan yang terjadi!",
             "name": "Mejiro McQueen"
         },
         {
@@ -168,7 +168,7 @@
             ]
         },
         {
-            "text": "Tapi kalau kita pergi begitu saja, mereka bakal pikir kamu yang salah karena tindakanku…!",
+            "text": "Tapi kalau kita pergi begitu saja, \nmereka bakal pikir kamu yang salah karena tindakanku…!",
             "name": "Mejiro McQueen"
         },
         {
@@ -228,10 +228,10 @@
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Sepertinya Mejiro McQueen ingin segera menebus kesalahannya di Tennō Shō Musim Semi \ndengan ikut Japan Cup."
+            "text": "Sepertinya Mejiro McQueen ingin \nsegera menebus kesalahannya di Tennō Shō Musim Semi \ndengan ikut Japan Cup."
         },
         {
-            "text": "Dia ingin memakai balapan ini sebagai cara menebus kesalahannya pada orang-orang yang sudah percaya padanya, \ndan pada mereka yang sempat dia rugikan.",
+            "text": "Dia ingin memakai balapan ini \nsebagai cara menebus kesalahannya \npada orang-orang yang sudah percaya padanya, \ndan pada mereka yang sempat dia rugikan.",
             "choice_data_list": [
                 "<size=39>Baiklah… Kamu boleh ikut Japan Cup berikutnya.</size>",
                 "<size=39>Baiklah… Kamu boleh ikut Japan Cup berikutnya.</size>"

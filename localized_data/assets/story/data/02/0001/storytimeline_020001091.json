@@ -6,13 +6,16 @@
             "text": "Kau ingin aku ikut konferensi pers…?"
         },
         {
-            "text": "Aku dengar dari Tazuna, mereka kebanjiran \npermintaan wawancara denganmu."
+            "text": "Aku dengar dari Tazuna, mereka kebanjiran \npermintaan wawancara denganmu.",
+            "name": "<username>"
         },
         {
-            "text": "Aku dengar dari Tazuna, mereka kebanjiran \npermintaan wawancara denganmu."
+            "text": "Aku dengar dari Tazuna, mereka kebanjiran \npermintaan wawancara denganmu.",
+            "name": "<username>"
         },
         {
-            "text": "Soalnya kau kandidat terkuat buat menang di Tenno Shō musim gugur. \nSemua mata tertuju padamu."
+            "text": "Soalnya kau kandidat terkuat buat menang di Tenno Shō musim gugur. \nSemua mata tertuju padamu.",
+            "name": "<username>"
         },
         {
             "name": "Mejiro McQueen",
@@ -64,10 +67,12 @@
             "text": "Ragu apakah harus menjawab, Mejiro McQueen melirik ke arahku."
         },
         {
-            "text": "Seperti yang bisa dibayangkan, aku nggak bisa jelasin detail strategi kami."
+            "text": "Seperti yang bisa dibayangkan, aku nggak bisa jelasin detail strategi kami.",
+            "name": "<username>"
         },
         {
-            "text": "Tapi ya… akan sangat membantu kalau dapat nomor undian di sisi dalam."
+            "text": "Tapi ya… akan sangat membantu kalau dapat nomor undian di sisi dalam.",
+            "name": "<username>"
         },
         {
             "name": "Reporter C",
@@ -88,10 +93,12 @@
             ]
         },
         {
-            "text": "Padahal tim kami sempat di ambang bubar, \nMejiro McQueen berhasil menang di Tenno Shō musim semi. \nItulah yang membuka jalan buat anggota baru bergabung."
+            "text": "Padahal tim kami sempat di ambang bubar, \nMejiro McQueen berhasil menang di Tenno Shō musim semi. \nItulah yang membuka jalan buat anggota baru bergabung.",
+            "name": "<username>"
         },
         {
-            "text": "Karena itulah, McQueen benar-benar jadi jantung tim ini."
+            "text": "Karena itulah, McQueen benar-benar jadi jantung tim ini.",
+            "name": "<username>"
         },
         {
             "name": "Reporter C",
@@ -122,14 +129,14 @@
         },
         {
             "name": "Gold Ship",
-            "text": "Uhh, serius banget! Jawabanmu serius semua! Konferensi persnya jadi ngebosenin banget!"
+            "text": "Uhh, serius banget! Jawabanmu \nserius semua! Konferensi persnya jadi ngebosenin banget!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Aku hanya menjawab sesuai yang biasa kulakukan. Apa lagi yang kau harapkan?"
+            "text": "Aku hanya menjawab sesuai yang \nbiasa kulakukan. Apa lagi yang kau harapkan?"
         },
         {
-            "name": "Horsegirl with Straight-cut Bangs",
+            "name": "Horsegirl Straight-cut Bangs",
             "text": "Tapi setiap jawabanmu keren banget, loh!"
         },
         {
@@ -167,7 +174,7 @@
         },
         {
             "name": "Gold Ship",
-            "text": "Latihan lagi setelah itu semua? Hei, kamu nggak apa-apa? Jangan-jangan kamu latihan terlalu keras?"
+            "text": "Latihan lagi setelah itu semua? \nHei, kamu nggak apa-apa? Jangan-jangan kamu latihan terlalu keras?"
         },
         {
             "name": "Mejiro McQueen",
@@ -175,11 +182,15 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Tapi aku juga nggak mau kehilangan momentum sekarang, saat semuanya berjalan baik."
+            "text": "Tapi aku juga nggak mau\nkehilangan momentum sekarang, saat semuanya berjalan baik."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Bagaimana, Trainer-san? Apa boleh?"
+            "text": "Bagaimana, Trainer-san? Apa boleh?",
+            "choice_data_list": [
+                "Iya boleh , apapun buat McQueen",
+                "Iya boleh , apapun buat McQueen"
+            ]
         },
         {
             "name": "Mejiro McQueen",
@@ -200,23 +211,27 @@
         },
         {
             "name": "Gold Ship",
-            "text": "Dan itu artinya apa coba!? “Golshi Yakisoba” bakal laris manis! Aku harus cepat-cepat siapin!"
+            "text": "Dan itu artinya apa coba!?\n“Golshi Yakisoba” bakal laris manis! Aku harus cepat-cepat siapin!"
         },
         {
-            "text": "Jangan begitu, kita harus dukung McQueen. Eh, dia di mana?"
+            "text": "Jangan begitu, kita harus dukung McQueen. Eh, dia di mana?",
+            "name": "<username>"
         },
         {
-            "text": "Jangan begitu, kita harus dukung McQueen. Eh, dia di mana?"
+            "text": "Jangan begitu, kita harus dukung McQueen. Eh, dia di mana?",
+            "name": "<username>"
         },
         {
             "name": "Gold Ship",
             "text": "Dia sudah berangkat duluan, tau?"
         },
         {
-            "text": "Eh…? Padahal masih lama sebelum mulai… \nKenapa dia pergi secepat itu?"
+            "text": "Eh…? Padahal masih lama sebelum mulai… \nKenapa dia pergi secepat itu?",
+            "name": "<username>"
         },
         {
-            "text": "Eh…? Padahal masih lama sebelum mulai… \nKenapa dia pergi secepat itu?"
+            "text": "Eh…? Padahal masih lama sebelum mulai… \nKenapa dia pergi secepat itu?",
+            "name": "<username>"
         },
         {
             "name": "Mejiro McQueen",

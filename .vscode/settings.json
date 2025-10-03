@@ -1,6 +1,6 @@
 {
     "zokuzoku.enabled": true,
-    "commentTranslate.source": "Google",
+    "commentTranslate.source": "kitiho.chatgpt-comment-translate-chatgpt",
     "commentTranslate.targetLanguage": "id",
     "zokuzoku.useGameFont": false,
     "commentTranslate.maxTranslationLength": 30000,

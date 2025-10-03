@@ -2,75 +2,75 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Hmm Hmm H-Hmm♪ \nIt's time for a bath!",
+            "text": "Hmm Hmm H-Hmm♪ \nWaktunya mandi!",
             "name": "Curren Chan"
         },
         {
-            "text": "Have a second?",
+            "text": "Punya waktu?",
             "name": "Admire Vega"
         },
         {
-            "text": "Wah! Ayabe-san! \nDo you need something?",
+            "text": "Wah! Ayabe-san! Ada perlu apa?",
             "name": "Curren Chan"
         },
         {
-            "text": "Your hairband… You left it on my bed. \nStop leaving your things in weird places.",
+            "text": "Ikat rambutmu… ketinggalan di kasurku.\nJangan tinggalkan barangmu di tempat yang aneh.",
             "name": "Admire Vega"
         },
         {
-            "text": "Eh!? I dropped it? I didn't even notice. But \nthanks for bringing it to me♪ It would've been \na problem if I didn't have it after my bath!",
+            "text": "Waduh!? Aku jatuhin, ya? Gak sadar. Tapi makasih \nsudah membawakan ke sini♪ Akan repot kalau aku tidak pakai setelah mandi!",
             "name": "Curren Chan"
         },
         {
-            "text": "Ah, that's right! You never come here, so \nwhy don't we take a bath together, Ayabe-san?",
+            "text": "Ah, benar juga! Mumpung kamu di sini, mau gak mandi bareng, Ayabe-san?",
             "name": "Curren Chan"
         },
         {
-            "text": "I know you prefer showers, but your Selection Race is coming up \nsoon. Soaking in a bath and relaxing would be good for you♪",
+            "text": "Walau kamu biasanya suka shower-an, tapi kan Balapan Seleksimu sudah dekat.\nMandi sambil rileks bisa bikin badan enakan♪",
             "name": "Curren Chan"
         },
         {
-            "text": "No…",
+            "text": "Enggak…",
             "name": "Admire Vega"
         },
         {
-            "text": "Aghh… Hmm, guess that didn't work…",
+            "text": "Oalah. …Ehh, percuma ya.",
             "name": "Curren Chan"
         },
         {
-            "text": "Haa… Jeez, what's with her…",
+            "text": "Haa… Dia kenapa sih?…",
             "name": "Admire Vega"
         },
         {
-            "text": "But…",
+            "text": "Tapi…",
             "name": "Admire Vega"
         },
         {
-            "text": "<i>If you were still here… would you…?</i>",
+            "text": "<i>Kalau kamu masih di sini… apakah…?</i>",
             "name": "Admire Vega"
         },
         {
-            "text": "Would you… treat me like she does?",
+            "text": "Apakah kamu akan… memperlakukanku seperti dia?",
             "name": "Admire Vega"
         },
         {
-            "text": "\"You see those two stars? I heard that they'll be together \nforever since someone pleaded with God for it to happen.\"",
-            "name": "Young Ayabe"
+            "text": "\"Lihat dua bintang itu? Aku dengar mereka akan selalu bersama selamanya,\nkarena ada seseorang yang memohon pada Tuhan untuk itu.\"",
+            "name": "Ayabe Kecil"
         },
         {
-            "text": "\"Hehe… One day, when I become a star… \nI hope we'll be together forever too.\"",
-            "name": "Young Ayabe"
+            "text": "\"Hehe… Suatu hari nanti, saat aku jadi bintang… \naku juga berharap kita bisa bersama selamanya.\"",
+            "name": "Ayabe Kecil"
         },
         {
-            "text": "Sometimes I feel like someone is with me. I've had this feeling \nsince before I can remember. Someone so close that I could almost \ntouch them, yet so far that I can't even see them.",
+            "text": "Kadang aku merasa ada seseorang bersamaku. Perasaan ini ada sejak aku bisa ingat.\nSejak kecil aku merasakan kehadiran seseorang, terasa bisa kugapai, tapi tak terlihat.",
             "name": "Admire Vega"
         },
         {
-            "text": "As I stare up at that red star, the feeling only grows stronger. \nSo ever since I was a child, I would often speak with that \nsomeone under the starry sky.",
+            "text": "Saat aku menatap bintang merah itu, perasaan itu semakin kuat.\nJadi sejak kecil, aku sering berbicara dengan seseorang itu di bawah langit berbintang.",
             "name": "Admire Vega"
         },
         {
-            "text": "Whenever my mother would see me doing that… \nShe would laugh uncomfortably.",
+            "text": "Setiap kali ibuku melihatku melakukan itu… dia hanya tertawa canggung.",
             "name": "Admire Vega"
         },
         {
@@ -78,95 +78,95 @@
             "name": "Curren Chan"
         },
         {
-            "text": "You're going to end up oversleeping…",
+            "text": "Kalau begini kamu bisa kebablasan tidur…",
             "name": "Admire Vega"
         },
         {
-            "text": "But for some reason I can't sleep! \nAyabe-san, you have nights like that too, right?",
+            "text": "Tapi entah kenapa aku gak bisa tidur! Ayabe-san, \nkamu pernah ngalamin juga kan, malam-malam kayak gitu?",
             "name": "Curren Chan"
         },
         {
-            "text": "I do, but they're probably different than yours.",
+            "text": "Iya, tapi alasannya mungkin beda sama punyamu.",
             "name": "Admire Vega"
         },
         {
-            "text": "Is that so? Well hey… Since we both \ncan't sleep, why don't we have a little chat?",
+            "text": "Gitu ya? Hmm, yaudah… Kalau kita sama-sama gak bisa tidur, gimana kalau ngobrol aja?",
             "name": "Curren Chan"
         },
         {
-            "text": "No. Go to sleep.",
+            "text": "Gak. Tidur sana.",
             "name": "Admire Vega"
         },
         {
-            "text": "Ehh!? But I'm so lonely, Ayabe-san!",
+            "text": "Ehh!? Tapi aku kesepian banget, Ayabe-san!",
             "name": "Curren Chan"
         },
         {
-            "text": "Shut up.",
+            "text": "Diam.",
             "name": "Admire Vega"
         },
         {
-            "text": "No no no no! If you won't talk to me, \nthen I'll just have to sneak into bed with you.",
+            "text": "Enggak mau! Kalau kamu gak mau ngomong sama aku, \nya aku bakal nyelinap ke tempat tidurmu!",
             "name": "Curren Chan"
         },
         {
-            "text": "You better not do that…",
+            "text": "Jangan coba-coba…",
             "name": "Admire Vega"
         },
         {
-            "text": "What will we… even talk about?",
+            "text": "Emang mau ngobrol apa?",
             "name": "Admire Vega"
         },
         {
-            "text": "Yay♪ Well, we should talk about something simple…",
+            "text": "Yay♪ Hmm, gimana kalau hal yang simpel aja…",
             "name": "Curren Chan"
         },
         {
-            "text": "Ah, how about the first time you ran? \nI'd love to hear about your memories♪",
+            "text": "Ah, gimana kalau tentang pertama kali kamu lari?\nAku pengen banget dengar kenanganmu♪",
             "name": "Curren Chan"
         },
         {
-            "text": "The first time…",
+            "text": "Pertama kali…",
             "name": "Admire Vega"
         },
         {
-            "text": "Yes, yes! You were quite a spectacular racer! So please enter \nyour daughter, Admire Vega-chan, into the \"Pony Cup!\"",
-            "name": "Race Organiser"
+            "text": "Iya iya! Kamu kan kuda pacu yang hebat banget!\nJadi tolong ikutkan putrimu, Admire Vega-chan, ke dalam \"Pony Cup!\"",
+            "name": "Panitia Balapan"
         },
         {
-            "text": "So that's what you want… \nHey, Ayabe-chan… What do you think abou―",
-            "name": "Ayabe's Mom"
+            "text": "Jadi itu yang kalian mau… Hey, Ayabe-chan… apa pendapatmu ten―",
+            "name": "Ibu Ayabe"
         },
         {
-            "text": "I wanna enter!!",
-            "name": "Young Ayabe"
+            "text": "Aku mau ikut!!",
+            "name": "Ayabe Kecil"
         },
         {
-            "text": "I really, really wanna enter!! I… want to run!!",
-            "name": "Young Ayabe"
+            "text": "Aku benar-benar mau ikut!! Aku… ingin berlari!!",
+            "name": "Ayabe Kecil"
         },
         {
-            "text": "I still remember… I've always been a silent person, but I \nresponded in such an excited way… as if I was possessed by \nsomeone else. My mother seemed surprised, and frightened.",
+            "text": "Aku masih ingat… Biasanya aku anak yang pendiam, tapi saat itu aku menjawab dengan \nbegitu bersemangat… seakan aku dirasuki seseorang. Ibuku terlihat kaget, bahkan takut.",
             "name": "Admire Vega"
         },
         {
-            "text": "The \"Pony Cup!\" Hehe, so that was your first race!",
+            "text": "\"Pony Cup!\" Hehe, jadi itu balapan pertamamu!",
             "name": "Curren Chan"
         },
         {
-            "text": "How was it when you finally got to race? How did it feel?",
+            "text": "Gimana rasanya waktu akhirnya kamu bisa balapan? Apa yang kamu rasakan?",
             "name": "Curren Chan"
         },
         {
-            "text": "What I felt…",
+            "text": "Apa yang kurasakan…",
             "name": "Admire Vega"
         },
         {
-            "text": "The smell of the turf… made my heart race. The incredible \nsensation of moving forward, cutting through the wind.",
+            "text": "Aroma rumput… bikin jantungku berdegup kencang.\nSensasi luar biasa saat melaju ke depan, membelah angin.",
             "name": "Admire Vega"
         },
         {
-            "text": "My heart was beating like an alarm bell. The scenery \nflew behind me beautifully, almost like a meteor…",
+            "text": "Jantungku berdebar kencang seperti alarm. Pemandangan di \nbelakang saat ku berlari begitu indah, bagaikan meteor…",
             "name": "Admire Vega"
         },
         {
@@ -174,15 +174,15 @@
             "name": "Curren Chan"
         },
         {
-            "text": "What…?",
+            "text": "Apa…?",
             "name": "Admire Vega"
         },
         {
-            "text": "Eh! Ah, I'm sorry! Well… Umm…",
+            "text": "Eh! Ah, maaf!\nSoalnya…Ehmm.",
             "name": "Curren Chan"
         },
         {
-            "text": "\"Possessed by someone else…?\"",
+            "text": "\"Seperti dirasuki…?\"",
             "name": "Admire Vega"
         },
         {
@@ -190,52 +190,53 @@
             "name": "Curren Chan"
         },
         {
-            "text": "Yay, Yaay! Mom, I did it! I won! Ehe! Ehehe…",
-            "name": "Young Ayabe"
+            "text": "Yay, yaay! Mama, aku menang! Ehe! Ehehe…",
+            "name": "Ayabe Kecil"
         },
         {
-            "text": "Hic… H-Huh? Wh-Why am I… \nAre these… tears…? Why… won't they stop…!?",
-            "name": "Young Ayabe"
+            "text": "Hik… H-Hah? K-kenapa aku… I-ini… air mata…? Kenapa… gak berhenti…!?",
+            "name": "Ayabe Kecil"
         },
         {
-            "text": "Why…? I… I umm… I really liked racing. I… was having \nso much fun, it's almost like I wasn't me anymore…?",
-            "name": "Young Ayabe"
+            "text": "Kenapa…? Aku… aku tuh… aku benar-benar suka balapan. \nAku… sangat senang, rasanya seperti aku bukan diriku lagi…?",
+            "name": "Ayabe Kecil"
         },
         {
-            "text": "But still… I just feel so lonely… and so sad… \nMommy… Why… Why is this happening to me…?",
-            "name": "Young Ayabe"
+            "text": "Tapi tetap saja… aku merasa sangat sepi… dan sedih… \nMama… kenapa… kenapa ini terjadi padaku…?",
+            "name": "Ayabe Kecil"
         },
         {
             "text": "Ayabe-chan…",
-            "name": "Ayabe's Mom"
+            "name": "Ibu Ayabe"
         },
         {
-            "text": "This conversation is over… The dorm \nleader will be making her rounds soon anyways.",
+            "text": "Obrolannya selesai… Lagi pula, kepala asrama akan segera berkeliling.",
             "name": "Admire Vega"
         },
         {
-            "text": "Ah, but, Ayabe-san…",
+            "text": "Ah, tapi, Ayabe-san…",
             "name": "Curren Chan"
         },
         {
-            "text": "I said it's over. Now go to sleep…",
+            "text": "Aku bilang cukup. Sekarang tidur…",
             "name": "Admire Vega"
         },
         {
-            "text": "Okay…",
+            "text": "Baiklah…",
             "name": "Curren Chan"
         },
         {
-            "text": "Sometime after the \"Pony Cup\" my mother finally told me.",
+            "text": "Beberapa waktu setelah \"Pony Cup\" ibuku akhirnya memberitahuku.",
             "name": "Admire Vega"
         },
         {
-            "text": "Honey, you actually have a… little sister.",
-            "name": "Ayabe's Mom"
+            "text": "Sayang, sebenarnya kamu punya… seorang adik perempuan.",
+            "name": "Ibu Ayabe"
         },
         {
-            "text": "She was… your twin. But… she was stillborn.",
-            "name": "Ayabe's Mom"
+            "text": "Dia adalah… kembaranmu. Tapi… dia lahir dalam keadaan meninggal.",
+            "name": "Ibu Ayabe"
         }
-    ]
+    ],
+    "title": "Gemini yang Retak"
 }

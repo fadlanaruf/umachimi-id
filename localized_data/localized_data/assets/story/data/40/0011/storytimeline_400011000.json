@@ -1,0 +1,204 @@
+{
+    "title": "Project Pulau Dimulai!!",
+    "text_block_list": [
+        {
+            "text": "Di siang hari yang indah .....",
+            "name": "Monolog"
+        },
+        {
+            "name": "Ines Fuujin",
+            "text": "Hah? Liat 2x.. Ryan. Ada palang disini !",
+            "color_text_info_list": [
+                "Ryan"
+            ]
+        },
+        {
+            "name": "Ines Fuujin",
+            "text": "Proyek Pulau Terpencil ! Kita lagi cari uma untuk jadi pelopor!",
+            "color_text_info_list": [
+                "Proyek Pulau Terpencil"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "\" Larilah di alam bebas , Ikut Instingmu! . Ayo bangun fasilitas training terbaik untuk kita ! Wow! \""
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Nama \"The Ultimate Training Facility\"\nbikin lenganku gatal!\nInes, kamu mau ikut aku?",
+            "color_text_info_list": [
+                "Ines Fuujin"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Naon!? ``Pamilon bisa ngagunakeun fasilitas latihan anu urang bina saloba-lobana. Sareng tuangeun anu lezat disayogikeun!''"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "\"Langsung kontak kita di ( SINI )\nSemangat Buat 3 Tahun Ini ! *Secara resmi disetujui oleh ketua.\"\n--Membangun fasilitas pelatihan?!"
+        },
+        {
+            "text": "\"Wah, pengalaman kayak gini jarang banget, kan? Apalagi bikin barang yang biasanya dipakai sehari-hari… Bisa belajar banyak hal juga nih!\"\n",
+            "name": "Sakura Chiyono O"
+        },
+        {
+            "text": "\"...Eh, iya sih, liat-liat juga.  \nTapi ini kan bukan liburan tropis, ya?  \nTulisannya jelas ‘pengembangan’ sama ‘bangunan’――\"\n",
+            "name": "Gold City"
+        },
+        {
+            "text": "\"Hah!? Udah daftar semua orang!?  \nJordaan, kamu seriusan nih…!\"\n",
+            "name": "Gold City",
+            "color_text_info_list": [
+                "Jordan"
+            ]
+        },
+        {
+            "text": "\"Pas lagi lihat poster yang bikin heboh seantero sekolah bareng <chrname>――\"\n",
+            "name": "monolog"
+        },
+        {
+            "name": "Direktur Akikawa",
+            "text": "\"Minat nggak, <username> Trainer!?\"\n",
+            "choice_data_list": [
+                "\"Direktur Akikawa! Ini apa nih?\""
+            ]
+        },
+        {
+            "name": "Direktur Akikawa",
+            "color_text_info_list": [
+                "URA"
+            ],
+            "text": "\"Hmm! Ini soal URA, tapi aku lihat semangat orang yang jadi penanggung jawab proyeknya,  \njadi aku juga pengen ikut kerja sama!\"\n"
+        },
+        {
+            "name": "Direktur Akikawa",
+            "text": "\"Ternyata ‘penanggung jawab’ itu nggak cuma mau andalkan murid,  \ntapi juga pengen banget pakai ilmu para trainer.  \nKalau kamu tertarik, jangan ragu ikut, ya!\"\n"
+        },
+        {
+            "text": "\"Ya sudahlah, coba dulu aja hari pertama.  \nBegitu kita putuskan bareng <chrname>――\"\n"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ih Itu Teh Pulau Terpencil ! ---"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ieu téh nu sok disebut ‘TreSen Jang’ nyaah?\nHaaah~ ngan saukur teu aya nanaon kieu gé,\nbeuki ngahudangkeun sumanget atuh!",
+            "color_text_info_list": [
+                "‘TreSen Jang’"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Lautnya, bening banget ya~\nItu… karang kah?"
+        },
+        {
+            "name": "Gold City",
+            "text": "E-eh, maaf… dari arah hutan sana,\nkayaknya… ada suara binatang nggak sih?"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Rasanya kayak lagi perkemahan sekolah, jadi ikutan deg-degan seneng gini~!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Ahaha… ya ampun, kamu ini ada-ada aja~\nSebentar lagi sesi penjelasan bakal mulai, jadi setelah itu aja ya!"
+        },
+        {
+            "text": "Dan begitulah, sambil menunggu dimulainya sesi penjelasan,\naku bersama para Uma Musume yang sepertinya juga peserta proyek ini—"
+        },
+        {
+            "text": "Yoo~ yoo~ yooo!",
+            "name": "???"
+        },
+        {
+            "text": "Insting lo… udah dilepas belooom!?",
+            "name": "???",
+            "choice_data_list": [
+                "?!"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "“Insting… dileupaskeun…?\nHeh, saha atuh manehna ieu!?”"
+        },
+        {
+            "text": "Daaah-haha! Aku adalah Tucker Brian!\nSambil mendoakan lompatan lebih tinggi lagi bagi kalian, para Uma Musume—",
+            "name": "Tucker Brian",
+            "color_text_info_list": [
+                "Tucker Brian"
+            ]
+        },
+        {
+            "text": "Roda keberuntungan berputar~!\nDan akhirnya proyek ini resmi didirikan!\nAkulah penanggung jawab sekaligus pengawas lapangannya!!",
+            "name": "Tucker Brian"
+        },
+        {
+            "text": "Mulai sekarang pasti bakal sering merepotkan kalian!\nJadi, mohon kerjasamanya yaaa!!",
+            "name": "Tucker Brian"
+        },
+        {
+            "text": "Mo-mohon bimbingannya, ya!!",
+            "name": "Umamusume"
+        },
+        {
+            "text": "Baiklah――！\nAku sekarang…… SUNGGUH-SUNGGUH!! BAHAGIA!!\nKenapa begitu……!? ",
+            "name": "Tucker Brian"
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "Pembukaan lahan melawan ALAM RAYA!!\nPembangunan ini jadi perjalanan mencari jawaban!\nKerja teliti, kerja panjang—LET’S GO!!",
+            "color_text_info_list": [
+                "LET’S GO!!"
+            ]
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "Siapa sangka… di awal perjalanan panjang ini, bisa ngumpul SEBANYAK ini Uma Musume!!"
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "Jelas! Urusan teknis biar ahlinya!\nKalian cukup kasih tenaga, cinta balap,\ndan hati polos kalian buat dukung proyek ini"
+        },
+        {
+            "text": "Terdorong oleh semangatnya yang menggebu…\nbriefing Proyek Pulau Tak Berpenghuni pun dimulai!"
+        },
+        {
+            "text": "Baik! Tujuan dari Proyek Pulau Tak Berpenghuni ini adalah membangun fasilitas latihan terkuat",
+            "name": "Tucker Brian"
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "Artinya, lari bebas di padang! Panjat tebing! Seberangi lautan!\nLatih dirimu seirama dengan detak alam!\nKeluarkan kemampuan fisikmu 120%!\""
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "Itulah yang kuinginkan…\nfasilitas latihan terkuat!!"
+        },
+        {
+            "name": "Peserta PJ",
+            "text": "Ooooouuuhhhh......!"
+        },
+        {
+            "text": "Ja-jadi maksudnya… kalau aku naruh wortel di gunung pun… nggak masalah… gitu kah?",
+            "name": "Sakura Chiyono O"
+        },
+        {
+            "text": "“Uma Musume, gunakan tenagamu!\nBantu bangun pulau ini, dan bagikan ilmu dari latihanmu!”",
+            "name": "Tucker Brian"
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "Selain itu, kalian juga bakal jalani Shima Training Alias ‘ShimaTore’ yang bakal terus aku andalkan!!",
+            "color_text_info_list": [
+                "Shima Training",
+                "ShimaTore"
+            ]
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "Singkatnya, itu uji coba fasilitas!\nPakai semuanya, cek hasilnya!!"
+        }
+    ]
+}

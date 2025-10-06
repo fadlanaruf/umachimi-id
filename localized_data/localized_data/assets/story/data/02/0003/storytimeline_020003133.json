@@ -1,0 +1,151 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Cheers",
+      "text": "(Sorak-sorak!!)"
+    },
+    {
+      "name": "Cheers",
+      "text": "Tickezou! Tickezou!"
+    },
+    {
+      "name": "Narasi",
+      "text": "Setelah garis finish, dari tribun terdengar panggilan kemenangan “Tickezou call”."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Woah, gila sih ini…"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Tentu saja, ini Derby yang paling luar biasa."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Hiks… Derby…! Derby-ku sendiri… Derby, Derby…!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Hadeh, akhirnya keluar juga air matanya."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hanya ada satu, yaitu jalan kemenangan yang sudah kamu tapaki."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Taishin, Hayahide!!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ini balapan terbaik… Derby terbaik! Derby kita!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Tapi, lain kali nggak bakal semudah ini.\n\nGiliran ku buat nunjukin punggungku di “Kikkashou”."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Iya, tujuan kita bukan cuma Derby.\n\nMasih banyak balapan setelah ini."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Tentu saja!\n\nAyo kita terus lari bertiga mulai sekarang! Oke! Tujuan kita, lebih jauh dari Derby～～～!"
+    },
+    {
+      "name": "Narasi",
+      "text": "Sorakan yang memuliakan Winning Ticket bergema sampai ke bar bawah tanah di arena pacuan."
+    },
+    {
+      "name": "Hayakawa Tazuna",
+      "text": "Hebat banget ya. Sorakannya sampai kedengaran ke mana-mana di arena."
+    },
+    {
+      "name": "Narasi",
+      "text": "Mungkin memang perasaan Tickezou beneran tersampaikan ke semua orang yang mendukungnya."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ah, Trainer-san～!!",
+      "choice_data_list": [
+        "Selamat ya, Tickezou!"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Aku berhasil! Aku menang Derby!!\n\nSampai sekarang masih berasa kayak mimpi～!"
+    },
+    {
+      "name": "Hayakawa Tazuna",
+      "text": "Selamat ya, Winning Ticket-san.\n\nEhehe, apa kamu nggak pengen dapat lebih banyak sorakan lagi?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ehehe, mungkin iya sih, tapi kan habis ini masih ada wawancara."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Lagian, ini belum akhir kok.\n\nMasih banyak kesempatan buat dapet banyak sorakan lagi!"
+    },
+    {
+      "name": "Narasi",
+      "text": "Ya, “Menang Derby” bukan berarti akhir, meski mimpi sudah tercapai."
+    },
+    {
+      "name": "Narasi",
+      "text": "Balapan Winning Ticket masih akan terus berlanjutーKarena dramanya belum selesai.",
+      "choice_data_list": [
+        "Ayo kumpulin lebih banyak sorakan lagi di masa depan!"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Iya! Ayo berjuang bareng, Trainer-san!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Kalau gitu, Tazuna-san! Yuk kita ke wawancara!\n\nAku kan nolak wawancara sebelum Derby, jadi sekarang harus jawab!"
+    },
+    {
+      "name": "Interviewer",
+      "text": "Baik, inilah pemenang Derby yang luar biasa, Winning Ticket-san!!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ehehe, makasih banyak!"
+    },
+    {
+      "name": "Interviewer",
+      "text": "Setelah dengar sorakan besar tadi, apa yang kamu rasain?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Aku pengen bikin Derby ini jadi yang terbaik,\n\njadi seneng banget karena semua orang bisa ngerasain itu!"
+    },
+    {
+      "name": "Interviewer",
+      "text": "Apa kunci kemenanganmu melawan rival yang dikenal sebagai “BNW”?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Tentu aja latihan keras berperan besar…"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Tapi juga karena rasa cintaku ke Derby,\n\njanji dengan rival-rivalku,\n\ndan semangat buat nulis cerita persahabatan ini dengan cara terbaik, laluー"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Juga keinginanku supaya Trainer yang udah dukung aku bisa disebut “Derby Trainer”!"
+    },
+    {
+      "name": "Interviewer",
+      "text": "Dan terakhir, boleh satu kata tentang perasaanmu setelah menang Derby?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Akulah Uma musume yang memenangkan Derby luar biasa ini, Winning Ticket!!"
+    }
+  ]
+}

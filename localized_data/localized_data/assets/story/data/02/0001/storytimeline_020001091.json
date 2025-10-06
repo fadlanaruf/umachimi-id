@@ -1,0 +1,253 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Mejiro McQueen",
+            "text": "Kau ingin aku ikut konferensi pers…?"
+        },
+        {
+            "text": "Aku dengar dari Tazuna, mereka kebanjiran \npermintaan wawancara denganmu.",
+            "name": "<username>"
+        },
+        {
+            "text": "Aku dengar dari Tazuna, mereka kebanjiran \npermintaan wawancara denganmu.",
+            "name": "<username>"
+        },
+        {
+            "text": "Soalnya kau kandidat terkuat buat menang di Tenno Shō musim gugur. \nSemua mata tertuju padamu.",
+            "name": "<username>"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Sepertinya begitu, ya…"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Kenapa? Kalau nggak mau diwawancara, biar aku aja yang jawab!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Aku tinggal bilang, “Aku lagi diet jadi nggak bisa makan kue favoritku.”"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Kamu lihat aku galau di depan toko kue!?"
+        },
+        {
+            "text": "Aku nggak pernah ngasih batasan makan ke dia… apa jangan-jangan dia yang nahan diri sendiri…",
+            "choice_data_list": [
+                "Satu potong seharusnya nggak apa-apa."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Tidak, lengah sedikit saja bisa berakibat buruk."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Bagaimanapun juga, aku akan terima permintaan wawancara itu."
+        },
+        {
+            "name": "Reporter A",
+            "text": "Sekarang ini kau dijagokan menang di Tenno Shō musim gugur. Apakah kau yakin bisa menang?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Tentu aku percaya diri, tapi apa pun bisa terjadi. \nKarena itu aku akan menghadapi balapan ini dengan hati-hati dan optimis."
+        },
+        {
+            "name": "Reporter B",
+            "text": "Akan ada banyak lawan tangguh di balapan ini. Bagaimana kau berencana mengalahkan mereka?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Itu…"
+        },
+        {
+            "text": "Ragu apakah harus menjawab, Mejiro McQueen melirik ke arahku."
+        },
+        {
+            "text": "Seperti yang bisa dibayangkan, aku nggak bisa jelasin detail strategi kami.",
+            "name": "<username>"
+        },
+        {
+            "text": "Tapi ya… akan sangat membantu kalau dapat nomor undian di sisi dalam.",
+            "name": "<username>"
+        },
+        {
+            "name": "Reporter C",
+            "text": "Ngomong-ngomong, kudengar dulu Mejiro McQueen sempat jadi satu-satunya anggota timmu."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Benar. Tapi kami berhasil merekrut anggota baru dan akhirnya bisa kembali ke jalur yang benar…"
+        },
+        {
+            "name": "Reporter C",
+            "text": "Apakah itu gara-gara kemenanganmu di Tenno Shō musim semi?"
+        },
+        {
+            "text": "Mejiro McQueen terlihat kesulitan menjawab, lalu kembali menatapku.",
+            "choice_data_list": [
+                "Ya, memang begitu."
+            ]
+        },
+        {
+            "text": "Padahal tim kami sempat di ambang bubar, \nMejiro McQueen berhasil menang di Tenno Shō musim semi. \nItulah yang membuka jalan buat anggota baru bergabung.",
+            "name": "<username>"
+        },
+        {
+            "text": "Karena itulah, McQueen benar-benar jadi jantung tim ini.",
+            "name": "<username>"
+        },
+        {
+            "name": "Reporter C",
+            "text": "Begitu ya. McQueen-san, semua orang menaruh harapan besar padamu!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "…",
+            "choice_data_list": [
+                "McQueen?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Eh? Ahh, umm… Memang begitu, ya."
+        },
+        {
+            "name": "Reporter B",
+            "text": "Kalau begitu, apa ada pesan untuk para penggemarmu?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Aku sungguh merasa terhormat dinilai sebagai kandidat terkuat untuk menang."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Demi memenuhi harapan semua orang, aku akan terus berlatih sekeras mungkin sampai hari balapan tiba."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Uhh, serius banget! Jawabanmu \nserius semua! Konferensi persnya jadi ngebosenin banget!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Aku hanya menjawab sesuai yang \nbiasa kulakukan. Apa lagi yang kau harapkan?"
+        },
+        {
+            "name": "Horsegirl Straight-cut Bangs",
+            "text": "Tapi setiap jawabanmu keren banget, loh!"
+        },
+        {
+            "name": "Droopy-eyed Horsegirl",
+            "text": "McQueen-san, aku nggak sabar nunggu balapanmu berikutnya!"
+        },
+        {
+            "text": "Mejiro McQueen bukan hanya berhasil membakar semangat penggemar, \ntapi juga semua anggota timnya."
+        },
+        {
+            "text": "Dia benar-benar jadi tumpuan tim ini, dan sosok yang bisa diandalkan."
+        },
+        {
+            "text": "Baiklah semuanya! Ayo kita cari makanan enak!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Wooah! Serius!? Mantap, ayo makan sepuasnya Ise Ebi—lobster khas Jepang!"
+        },
+        {
+            "name": "Horsegirl with Straight-cut Bangs",
+            "text": "Aku pengen banget ke toko permen yang terkenal sama manisan wortelnya!"
+        },
+        {
+            "name": "Horsegirl with Black Bob-cut",
+            "text": "Aduh, kan McQueen-chan bintangnya. Kenapa nggak ke tempat yang dia mau aja?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Umm… Aku nggak ikut, deh…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Seharian tadi sudah dihabiskan untuk konferensi pers. \nSekarang aku lebih ingin berlatih."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Latihan lagi setelah itu semua? \nHei, kamu nggak apa-apa? Jangan-jangan kamu latihan terlalu keras?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Tenang saja, aku selalu pastikan tidak berlebihan. \nApalagi setelah kejadian aku pingsan waktu itu."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Tapi aku juga nggak mau\nkehilangan momentum sekarang, saat semuanya berjalan baik."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Bagaimana, Trainer-san? Apa boleh?",
+            "choice_data_list": [
+                "Iya boleh , apapun buat McQueen",
+                "Iya boleh , apapun buat McQueen"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Terima kasih. Kalau begitu, aku berangkat dulu."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Dia tetap se-serius biasanya, ya…?"
+        },
+        {
+            "text": "Lalu tibalah Tenno Shō musim gugur, panggung besar \nyang jadi sorotan untuk Mejiro McQueen."
+        },
+        {
+            "text": "Wah, tribun penuh banget. Banyak sekali orang."
+        },
+        {
+            "text": "Wah, tribun penuh banget. Banyak sekali orang."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Dan itu artinya apa coba!?\n“Golshi Yakisoba” bakal laris manis! Aku harus cepat-cepat siapin!"
+        },
+        {
+            "text": "Jangan begitu, kita harus dukung McQueen. Eh, dia di mana?",
+            "name": "<username>"
+        },
+        {
+            "text": "Jangan begitu, kita harus dukung McQueen. Eh, dia di mana?",
+            "name": "<username>"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Dia sudah berangkat duluan, tau?"
+        },
+        {
+            "text": "Eh…? Padahal masih lama sebelum mulai… \nKenapa dia pergi secepat itu?",
+            "name": "<username>"
+        },
+        {
+            "text": "Eh…? Padahal masih lama sebelum mulai… \nKenapa dia pergi secepat itu?",
+            "name": "<username>"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Woo…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Harapan dari keluarga Mejiro, harapan para penggemar yang mendukungku…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Harapan rekan-rekan tim yang mengandalkanku, dan harapan Trainer-san…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Semuanya… Aku akan menang demi kalian…"
+        }
+    ]
+}

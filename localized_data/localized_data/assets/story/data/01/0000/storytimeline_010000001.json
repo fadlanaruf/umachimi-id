@@ -1,0 +1,59 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Pada suatu hari, di bulan tertentu\nDi Pacuan Kuda Tokyo."
+        },
+        {
+            "name": "???",
+            "text": "Trainer yang baru! Aku di sini~!"
+        },
+        {
+            "name": "???",
+            "text": "Lintasan balapnya sangat ramai hari ini~!\nHati-hati, jangan sampai tersesat, ya."
+        },
+        {
+            "name": "???",
+            "text": "Kalau begitu, izinkan aku memperkenalkan diri."
+        },
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "Aku Tazuna Hayakawa, sekretaris Presiden \nTracen Academy, sekaligus penanggung jawab \nbagian informasi.",
+            "choice_data_list": [
+                "Senang bisa bekerja sama denganmu."
+            ],
+            "color_text_info_list": [
+                "Tracen Academy",
+                "Hayakawa",
+                "Tazuna"
+            ]
+        },
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "Ya ♪ Sangat senang bisa bertemu Trainer baru \nyang berbakat seperti kamu!"
+        },
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "Baiklah, mari kita mulai panduan \nseputar akademi ini."
+        },
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "Pertama-tama, silakan lihat ke sana,\nbalapannya akan segera dimulai!"
+        },
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "Lihat… dengarkah kamu? Sorakan yang \nsangat meriah itu!"
+        },
+        {
+            "text": "(AHHHHHHHH!!!)"
+        },
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "Sebuah balapan di mana para 'horsegirl' bertanding, \nyang sangat dicintai oleh orang di seluruh dunia…"
+        },
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "Inilah mars pembukaan balapan, panggung mimpi-mu,\ntempat di mana kamu dan para 'horsegirl'-mu akan berjuang!"
+        }
+    ]
+}

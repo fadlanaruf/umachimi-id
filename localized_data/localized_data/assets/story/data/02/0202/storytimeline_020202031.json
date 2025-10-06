@@ -1,0 +1,193 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Cesario",
+            "text": "Lebih cepat――"
+        },
+        {
+            "name": "Cesario",
+            "text": "Lebih kuat――"
+        },
+        {
+            "name": "Cesario",
+            "text": "Untuk berlari satu langkah lebih jauh!"
+        },
+        {
+            "name": "Symboli Kris S",
+            "text": "Ikuti aku, Cesario!",
+            "choice_data_list": [
+                "Cesario, berikan yang terbaik!",
+                "Cesario, berikan yang terbaik!"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "(――!! Tetaplah dekat! Tidak peduli betapa tidak enak dilihat,\ntetaplah mengejarnya, dan pertahankan!)"
+        },
+        {
+            "name": "Cesario",
+            "text": "Uwaaaaaaaaaaaaaaaaaa!!"
+        },
+        {
+            "name": "Cesario",
+            "text": "Haa……Haa……Kuu……Haaa……!"
+        },
+        {
+            "name": "Symboli Kris S",
+            "text": "Kerja bagus……bisa mengikutiku.\nTrainer, ini regimen yang luar biasa. Semuanya berjalan sesuai rencana."
+        },
+        {
+            "text": "Iya. Symboli Kris S, terima kasih atas kerjasamanya.\nIni berkat kamu.",
+            "choice_data_list": [
+                "",
+                ""
+            ]
+        },
+        {
+            "text": "Iya. Symboli Kris S, terima kasih atas kerjasamanya.\nIni berkat kamu.",
+            "choice_data_list": [
+                "",
+                ""
+            ]
+        },
+        {
+            "text": "Pertemuan itu――adalah kebetulan murni.\nHampir seperti takdir untuk membebaskan Cesario dari belenggunya sendiri."
+        },
+        {
+            "name": "Symboli Kris S",
+            "text": "――Aku Symboli Kris S.\n……Aku datang untuk berdoa. Kamu――"
+        },
+        {
+            "name": "Cesario",
+            "text": "(Symboli Kris S. Meski berada di kelas Classic,\nmenang 『Tenno Sho (Fall)』. Tahun berikutnya, dia\nmenjadi Uma Musume pertama yang menang secara berturut-turut)"
+        },
+        {
+            "name": "Cesario",
+            "text": "(Ini pertama kalinya kami bertemu…… Tapi kenapa……rasanya\nseperti ini bukan pertama kalinya? Kenapa bisa……?)"
+        },
+        {
+            "name": "Symboli Kris S",
+            "text": "Hmmm……tatapan itu……\nKamu sedang khawatir tentang sesuatu?"
+        },
+        {
+            "name": "Cesario",
+            "text": "A-ada……iya……\nTentang lariku, hanya sedikit……"
+        },
+        {
+            "name": "Symboli Kris S",
+            "text": "Tentang larianmu, ya?\nKalau begitu――"
+        },
+        {
+            "name": "Symboli Kris S",
+            "text": "Aku setidaknya bisa mendengarkan.\nTapi aku――bukan dewa lho."
+        },
+        {
+            "name": "Symboli Kris S",
+            "text": "Begitu rupanya, kekuatan baru……begitu?\nKamu benar."
+        },
+        {
+            "name": "Symboli Kris S",
+            "text": "Sejak datang ke negara ini, aku telah berubah.\nPertemuan――membawa evolusi."
+        },
+        {
+            "name": "Symboli Kris S",
+            "text": "Mereka memberiku――kekuatan untuk memenangkan 『Tenno Sho (Fall)』"
+        },
+        {
+            "name": "Cesario",
+            "text": "Kris S-san, um……aku ada permintaan!\nAku tahu ini tidak sopan karena kami baru bertemu."
+        },
+        {
+            "name": "Cesario",
+            "text": "Bisakah kamu bertemu dengan trainerku?\nMungkin, jika kamu mau membantu……!"
+        },
+        {
+            "text": "Symboli Kris S adalah partner latihan yang ideal.\nBisa dibilang tenaga di mesin mereka benar-benar berbeda."
+        },
+        {
+            "text": "Dengan membuat Cesario mengejarnya,\nhal itu membuat lari Cesario menjadi lebih kuat."
+        },
+        {
+            "name": "Cesario",
+            "text": "Haa, haa……perasaan……ini…… Trainer, dengan berlari bersama\nKris S-san, aku bisa merasakan inti diriku banyak berubah."
+        },
+        {
+            "name": "Cesario",
+            "text": "Hanya berlari dengan cara ideal saja tidak cukup. Dan terkadang,\nkamu harus menghancurkan yang ideal, dan hanya mendorong maju dengan nekat."
+        },
+        {
+            "text": "Iya, aku senang kamu menemukan partner yang baik.\nKamu bisa membidik lebih tinggi lagi.",
+            "choice_data_list": [
+                "",
+                ""
+            ]
+        },
+        {
+            "text": "Iya, aku senang kamu menemukan partner yang baik.\nKamu bisa membidik lebih tinggi lagi.",
+            "choice_data_list": [
+                "",
+                ""
+            ]
+        },
+        {
+            "text": "Maka, persiapan telah selesai\nuntuk menghadapi Air Messiah di 『Oaks』"
+        },
+        {
+            "text": "Dan kemudian――hari 『Oaks』 tiba"
+        },
+        {
+            "name": "Cesario",
+            "text": "Kalau begitu――aku pergi, Trainer."
+        },
+        {
+            "text": "Iya, percaya diri. Kalau kamu yang sekarang, saat kamu\ndalam kondisi terbaik, tidak ada balapan yang bisa kamu kalahkan!",
+            "choice_data_list": [
+                "",
+                ""
+            ]
+        },
+        {
+            "text": "Iya, percaya diri. Kalau kamu yang sekarang, saat kamu\ndalam kondisi terbaik, tidak ada balapan yang bisa kamu kalahkan!",
+            "choice_data_list": [
+                "",
+                ""
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "……Iya.\nAku akan percaya pada kakiku――dan pasti――!"
+        },
+        {
+            "name": "Cesario",
+            "text": "――Air Messiah-san."
+        },
+        {
+            "name": "Cesario",
+            "text": "Auramya benar-benar berbeda――hari ini."
+        },
+        {
+            "name": "Air Messiah",
+            "text": "(『Oaks』…… Saat ibuku paling dekat\ndengan Tiara……balapan di mana dia finish posisi 2……)"
+        },
+        {
+            "name": "Air Messiah",
+            "text": "(Cesario-san, aku akan mengalahkanmu, dan mendapatkan tempatku! Di hari itu,\nibuku hampir meraih kemuliaan……tapi hari ini, pasti!)"
+        },
+        {
+            "text": "Banyak orang datang untuk menonton,\nmasing-masing dengan emosi yang berbeda. Dan kemudian――"
+        },
+        {
+            "name": "Cesario",
+            "text": "Aku bisa mendengarnya……\nTunas dari pohon oak besar."
+        },
+        {
+            "name": "Penyiar",
+            "text": "Sekarang, akhirnya tiba lagi tahun ini. Untuk para gadis muda ini,\n2400m yang kejam. Kompetisi sengit di musim semi, 『Oaks』――"
+        },
+        {
+            "name": "Penyiar",
+            "text": "Akhirnya dimulai!"
+        }
+    ]
+}

@@ -1,0 +1,263 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "“Tidak ada tirai untuk sang ratu.” \nSaat melihat opini publik itu, dia pasti hanya bisa tertawa."
+    },
+    {
+      "text": "Dengan rambut hitamnya berkibar, langkahnya seolah ringan melayang, \norang-orang pun tak punya pilihan selain mengakuinya."
+    },
+    {
+      "text": "Nama sang ratu itu adalah Vodka."
+    },
+    {
+      "text": "Ia mengubah panggung mimpinya jadi panggung solo yang megah, \ndan di matanya tergambar jelas pemandangan masa depan yang belum pernah dilihat siapa pun."
+    },
+    {
+      "text": "Musim gugur pun tiba, hari “Festival Tapal Kudus” akhirnya datang."
+    },
+    {
+      "text": "Pameran Derby yang kupersiapkan bersama Winning Ticket sudah siap, \ntapi sambutannya tidak terlalu baik."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Setelah itu, setelah itu! \nDerby waktu itu juga berkesan banget kan! \nIya nggak, Trainer-san!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Iya iya, aku ngerti. \nPelan-pelan ceritain ke aku."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Tapi kamu persiapannya lumayan juga \npadahal kamu punya balapan sendiri."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Capek banget～. \nUntung ada bantuan Trainer-san juga, jadi masih bisa kelar!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ah iya! Aku belum sempet ngenalin Trainer-san ke kalian berdua ya!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ini lho Trainer-san! \nDan ini Taishin sama Hayahide!"
+    },
+    {
+      "text": "Narita Taishin dan Biwa Hayahide—teman sekelasnya, \nkatanya mereka juga “satu angkatan” yang debut bareng.",
+      "choice_data_list": [
+        "Senang kenal kalian, aku trainernya."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "…Senang kenal. \nTapi kayaknya kamu repot banget ya."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Iya… gampang dibayangin perjuanganmu bantu Ticket di pameran itu."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Hadeh! Jadi menurut kalian aku gimana sih!?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Kalian salah! Sebenarnya Trainer yang datang duluan buat bantu aku siapin pameran!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Dua orang ketemu di pameran Derby, \nterus sama-sama ngincer Derby… ini namanya takdir, takdir!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Oh iya, ngomongin takdir! \nMasih inget nggak janji yang kita buat pertama kali ketemu?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Itu pas kelas pertama kamu kan?"
+    },
+    {
+      "name": "Instruktur",
+      "text": "Baik, pertama aku akan ukur waktumu. \nPilih jarak dan waktu yang sesuai."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Siap, Instruktur! \nBoleh aku lari 2400m kayak Derby～?"
+    },
+    {
+      "name": "Instruktur",
+      "text": "E-Eh… ya nggak apa-apa sih, \ntapi biasanya Uma Musume yang baru masuk sekolah mulai dari setengah jarak itu."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Tetep aja! Tujuan aku kan Derby!"
+    },
+    {
+      "name": "Instruktur",
+      "text": "Ba-Baiklah… \nuntuk jaga-jaga, ada yang mau lari 2400m juga?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Aku…"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Aku juga, tolong set di 2400m."
+    },
+    {
+      "name": "Instruktur",
+      "text": "Hah!? Kalian serius!?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Heh… heh… A-Aduh～! \nWaktuku jelek banget～!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Heh… heh…"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "…Keh!"
+    },
+    {
+      "name": "Instruktur",
+      "text": "2400m… jarak klasik, \nbukan hal yang bisa lari sembarangan."
+    },
+    {
+      "name": "Instruktur",
+      "text": "Pertama, lakukan yang bisa kamu lakukan sekarang. \nNanti kita latihan biar bisa lari sejauh itu suatu hari."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Heh… heh… Baik, aku ngerti～."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Suatu hari aku pasti bisa."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Jarak ini, bakal aku taklukkan."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Eh, haha! Heh, makasih ya kalian berdua udah lari bareng aku!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "…Nggak usah, aku nggak ngelakuin apa-apa. \nIni memang jarak yang harus aku coba suatu saat."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Kalau mau makin kuat, harus bisa lewatin jarak ini."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Jadi, kalian berdua juga ngincer Derby kan! \nTiga orang dari kelas yang sama ngincer Derby…"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Waaa～～! Ini kayak drama～～! \nYuk pastiin kita bertiga beneran lari di Derby～～!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Berisik!… Eh, kenapa kamu malah nangis!?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Yuk kita bikin sejarah baru bertiga! \nDi Derby yang panas dan dramatis!!"
+    },
+    {
+      "text": "Saat Winning Ticket ngomongin hari pertemuan mereka, matanya bersinar. \nKetiga gadis itu sejak pertama kali bertemu sudah melangkah bareng menuju mimpi mereka."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Oke, yuk ulang janji kita waktu itu sekali lagi! \nAyo bareng-bareng, satu-duaーDerby!!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Eh, hah? Kok cuma aku!?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Yang ribut di sini kamu doang. \nAyo pindah ke tempat lain."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Kayaknya ada acara di panggung luar."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Eh!? Tunggu!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Tadi cuma bercanda. \nTapi sebentar lagi aku harus latihan."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Latihan? Di tengah “Festival Tapal Kudus” gini?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Taishin, balapan berikutmu udah ditetapkan."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Oh, gitu ya! Taishin, aku bakal dukung kamu!"
+    },
+    {
+      "text": "Meski balapannya masih jauh, dia tetap kerja keras latihan sampai hari acara sekolah."
+    },
+    {
+      "text": "Gadis bernama Narita Taishin itu ternyata punya sifat stoik banget, \nkebalikan dari kesan awalnya yang agak keras."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Kalau gitu, biar makin semangat, sekali lagi! \nDerby!!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Aduh, ribut lagi!"
+    },
+    {
+      "text": "Beberapa hari kemudianー"
+    },
+    {
+      "name": "Komentator",
+      "text": "Masuk tikungan ke-4 dan Narita Taishin ada di posisi 2! \nWah, tiba-tiba! Uma Musume lain langsung merapat!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Taishin! Ayo! Gas!!"
+    },
+    {
+      "text": "Narita Taishin akhirnya finish di posisi 6, \nmeski sudah dapat dukungan penuh."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Taishin!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "…Ticket."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Jangan dipikirin! \nBuat balapan berikutnya, kita latihan bareng yuk!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Maaf, tapi nggak usah. \nUntuk sekarang biar aku sendiri dulu."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ah… M-Maaf…"
+    },
+    {
+      "text": "Tiga sahabat yang sama-sama ngincer panggung besar Derbyー \nHasil kali ini bikin aku sadar jalan mereka bakal penuh duri."
+    }
+  ]
+}

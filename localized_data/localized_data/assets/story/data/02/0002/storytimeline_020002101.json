@@ -1,0 +1,218 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Komentator",
+      "text": "Ini dia Rice Shower! Rice Shower tampil maksimal! \nMenyentuh garis finis di posisi pertama!!"
+    },
+    {
+      "text": "Di “Nikkei Prize” sebagai persiapan untuk “Emperor's Award” musim semi,\nRice Shower kembali menunjukkan performa terbaiknya dan finis di posisi pertama."
+    },
+    {
+      "text": "Dan seakan membalas performa itu,\nMejiro McQueen juga menang di “Osaka Cup” dengan rekor baru lintasan."
+    },
+    {
+      "text": "McQueen dan Rice Shower latihan lebih keras dari sebelumnya,\nsambil saling memikirkan satu sama lain."
+    },
+    {
+      "text": "Dan akhirnya datanglah hari “Emperor's Award”."
+    },
+    {
+      "name": "Komentator",
+      "text": "Di frame ke-2, nomor 3.\nJet Black Stayer, Rice Shower yang pernah menghalangi triple crown Mihono Bourbon."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Aku harus ikuti McQueen-san… Ikuti dia…"
+    },
+    {
+      "text": "Di depan banyak orang,\nmata Rice Shower tak pernah lepas dari McQueen."
+    },
+    {
+      "text": "Rasa ingin menang melawan Mejiro McQueen terpancar jelas dari matanya."
+    },
+    {
+      "text": "Dan kemudian, nomor 1 yang paling populer…"
+    },
+    {
+      "name": "Komentator",
+      "text": "Di frame ke-8, nomor 14.\nFavorit nomor 1 untuk menang di “Emperor's Award” musim semi,\njuara Mejiro McQueen, siap menantang untuk 3 kemenangan beruntun!"
+    },
+    {
+      "name": "Cheers",
+      "text": "(Sorak-sorai!!)"
+    },
+    {
+      "text": "Meski sorakan terbesar hari itu, McQueen tetap tenang."
+    },
+    {
+      "text": "Karena dia juga punya tekad kuat untuk menang."
+    },
+    {
+      "text": "Sorakannya luar biasa."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ara, Trainer-san.\nBukankah kamu harus ke Rice?"
+    },
+    {
+      "text": "Ini juga lombanya McQueen."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Heh, itu sudut pandang seorang trainer.\nTapi tolong pergi ke Rice-san."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Aku yakin kamu puas dengan latihan itu,\ntapi pasti masih ada sedikit kekhawatiran."
+    },
+    {
+      "text": "Kamu benar-benar andalan kami.\nMengutamakan dan memikirkan Rice."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Benar di sini, tapi di lintasan berbeda."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Aku akan jalani lomba ini sepenuh hati.\nTak ada yang kubiarkan setengah-setengah."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "3 kemenangan berturut-turut di “Emperor Prize” yang semua orang tunggu…\nHarapan itu justru memberi kekuatanku."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Aku pasti jadi yang pertama melewati garis finis."
+    },
+    {
+      "text": "Dari ekspresi McQueen, terlihat tak ada keraguan sama sekali.\nMcQueen pasti bakal lari sepenuh tenaga.",
+      "choice_data_list": [
+        "Aku tunggu, McQueen."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Iya, bisa diandalkan.",
+            "choice_data_list": [
+                "Ya semangat deh , lakukan yang terbaik!"
+            ]
+    },
+    {
+      "text": "Setelah ngobrol sama McQueen,\naku lari menuju Rice Shower yang sedang berjalan di depan."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ah, Trainer-san…"
+    },
+    {
+      "text": "Nervous ya?\nBuat rileks, sepertinya bagus kalau digambar\ngadis kuda berambut bob hitam 3 kali di telapak tangan lalu ditelan."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Haha, aku baru denger cara itu."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Aku nggak terlalu tegang sih.\nTapi… agak takut juga."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Banyak yang sorak buat McQueen,\ndan aku tahu banyak yang pengin lihat 3 kemenangan beruntun."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Kalau Rice menang, semua bakal kecewa lagi, marah,\nbilang “Jangan lakukan hal nggak perlu”.\nAku tahu itu."
+    },
+    {
+      "text": "Tampaknya kamu punya semangat menang yang cukup,\nsampai mikirin hal seperti itu."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "…Iya, tapi Rice tetap pengin menang."
+    },
+    {
+      "text": "Ekspresinya sekuat McQueen."
+    },
+    {
+      "text": "McQueen adalah orang pertama yang bilang Rice bakal ikut “Emperor Prize”."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "McQueen-san…?"
+    },
+    {
+      "text": "Sepertinya ada “Pemandangan” yang ingin dia tunjukkan ke Rice,\nyang cuma bisa dilihat pelari."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Untuk tunjukin “Pemandangan” ke Rice…"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "…Oke, aku akan lihat pemandangan itu dengan sungguh-sungguh.",
+      "choice_data_list": [
+        "Menang, Rice!",
+        "Menang, Rice!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "…Iya, aku berangkat sekarang, Trainer-san."
+    },
+    {
+      "name": "Komentator",
+      "text": "Setiap gadis kuda berambut bob hitam masuk gerbang.\nSiapa yang akan jadi pemenang “Emperor Prize” musim semi!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Aku harus ikuti McQueen-san… Ikuti dia…\nAku harus ikuti McQueen-san… Ikuti dia…"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "……",
+            "choice_data_list": [
+                "Ayo Rice !",
+                "Ayooo Rice ....!"
+            ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "(Aku nggak nyangka….\nTekanan Rice-san segini besar…)"
+    },
+    {
+      "name": "Komentator",
+      "text": "Ups, Mejiro McQueen yang ngincer gelar No. 1 dan 3 kemenangan beruntun,\nberhenti di depan gerbang."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "(Tapi, sebagai gadis kuda berambut bob hitam keluarga Mejiro\n dan sebagai Ace, aku harus lari sepenuh tenaga)."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "……"
+    },
+    {
+      "name": "Komentator",
+      "text": "Akhirnya Mejiro McQueen masuk gerbang."
+    },
+    {
+      "name": "Komentator",
+      "text": "“Emperor Prize” musim semi,\ndengan jarak 3200m menuju kejayaan, baru saja dimulai!"
+    },
+        {
+            "name": "Mejiro McQueen",
+            "text": "(Meski begitu, sebagai Uma Musume dari keluarga Mejiro,\ndan juga sebagai seorang ace, yang bisa kulakukan \nhanyalah berlari dengan segenap kekuatan.)"
+        },
+        {
+            "text": ".........."
+        },
+        {
+            "name": "Komentator",
+            "text": "Akhirnya, Mejiro McQueen pun masuk dan siap di gate"
+        },
+        {
+            "text": "Spring Tenno-sho! Dengan 3200 meter menuju kejayaan…\nDan sekarang—START!"
+        }
+  ]
+}

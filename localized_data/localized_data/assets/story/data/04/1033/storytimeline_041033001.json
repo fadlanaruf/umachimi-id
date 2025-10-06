@@ -1,0 +1,201 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Berlari adalah caraku berdoa…</i>",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "Hah… hah… haa.\nEgh… gekh.",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "<i>Aku kesulitan bernapas. Saat itu terjadi,\naku harus tarik napas dalam-dalam.</i>",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "……",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "<i>Pollux, bintang merah yang bersinar. Salah satu dari 21 bintang terang\npembentuk Hexagon Musim Dingin.</i>",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "<i>Aku yakin saat kamu menatap\nke sana… malam itu…</i>",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "Aku harus pergi…",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "<i>Aku berdoa, bukan dengan tangan menyatu, tapi dengan kakiku\nmenendang tanah. Aku berdoa agar hal-hal indah\nyang menanti di ujung jalan ini…</i>",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "<i>suatu hari bisa sampai padamu…</i>",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "“Balapan Seleksi” segera dimulai,\najang pelatih menilai Uma Musume baru."
+        },
+        {
+            "text": "Saat mengunjungi lintasan, ada banyak pelatih lain juga yang datang untuk\nmelihat para Uma Musume berlatih menghadapi lomba sebenarnya.",
+            "choice_data_list": [
+                "(Siapa saja hari ini, ya)"
+            ]
+        },
+        {
+            "text": "Wah! Larinya di akhir luar biasa!",
+            "name": "Trainer Senior A"
+        },
+        {
+            "text": "Dia tahu kapan harus melesat.\nAdmire Vega, makin kulihat,\nmakin tak sabar rasanya.",
+            "name": "Trainer Senior A",
+            "choice_data_list": [
+                "<i>Admire Vega!</i>"
+            ]
+        },
+        {
+            "text": "Aku mendengar namanya disebut\ndan segera menoleh ke lintasan."
+        },
+        {
+            "text": "Hah, hah, hau……\nTerima kasih sudah berlari bersamaku!",
+            "name": "Meisho Doto"
+        },
+        {
+            "text": "Terima kasih juga.\nApa kamu sudah selesai…?",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "Y-ya, aku ada janji makan dengan\nUrara-san dan teman-temannya.\nKalau mau, ikut juga, Ayabe-san.",
+            "name": "Meisho Doto"
+        },
+        {
+            "text": "Tidak. Aku masih mau berlari lagi.",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "Ah! Umm… jangan terlalu memaksa…!",
+            "name": "Meisho Doto"
+        },
+        {
+            "text": "Hah, haa, haaa―!",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "Di saat semakin banyak yang mulai berkembang, dia menolak \najakan teman dengan tenang, dan terus berlatih sendirian dengan disiplin."
+        },
+        {
+            "text": "Haaaah…!!",
+            "name": "Admire Vega",
+            "choice_data_list": [
+                "<size=38>Sesuai laporan, kecepatannya luar biasa!</size>",
+                "<size=38>Sesuai laporan, kecepatannya luar biasa!</size>"
+            ]
+        },
+        {
+            "text": "Bakat dari kakinya membuatku merinding."
+        },
+        {
+            "text": "Admire Vega: Uma Musume dengan\nkemampuan besar dan potensi luar biasa…",
+            "choice_data_list": [
+                "<i>Seperti apa dia sebenarnya?</i>",
+                "<i>Seperti apa dia sebenarnya?</i>"
+            ]
+        },
+        {
+            "text": "Setelah itu aku kembali ke ruang pelatih, membongkar \narsip lama tentang Admire Vega. Aku begitu tenggelam \nsampai tak sadar malam sudah larut."
+        },
+        {
+            "text": "Sepertinya saatnya kembali ke asrama.\nSaat keluar, aku melihat sesuatu…",
+            "choice_data_list": [
+                "Hmm? Ada sosok samar di lintasan?"
+            ]
+        },
+        {
+            "text": "―Feeh.\n…Haa, haah…!",
+            "name": "Admire Vega",
+            "choice_data_list": [
+                "<i>Dia masih latihan!?</i>",
+                "<i>Dia masih latihan!?</i>"
+            ]
+        },
+        {
+            "text": "Seorang diri, dia tetap berlatih.\nWajahnya terlihat sangat lelah."
+        },
+        {
+            "text": "Aku… tidak bisa… berhenti…!",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "Tanpa melambat, dia terus berlari.\nSeakan ada sesuatu yang mendorongnya…",
+            "choice_data_list": [
+                "Sesuatu memaksanya maju…"
+            ]
+        },
+        {
+            "text": "Haah haaah… Ugh…",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "…………………………",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "Tiba-tiba ia berhenti, sangat lelah.\nDalam hening, matanya menatap bintang."
+        },
+        {
+            "text": "Langit penuh bintang. Keindahannya\nmembuatnya berdiri terpaku…",
+            "choice_data_list": [
+                "Apa kau baik-baik saja?",
+                "Apa kau baik-baik saja?"
+            ]
+        },
+        {
+            "text": "Eh?",
+            "name": "Admire Vega",
+            "choice_data_list": [
+                "Ah!"
+            ]
+        },
+        {
+            "text": "Aku sendiri tidak tahu kenapa kujawab begitu…"
+        },
+        {
+            "text": "Aku baik-baik saja… Aku sering begini.",
+            "name": "Admire Vega",
+            "choice_data_list": [
+                "Selalu selarut ini!?"
+            ]
+        },
+        {
+            "text": "Sudah terbiasa.",
+            "name": "Admire Vega",
+            "choice_data_list": [
+                "Bukankah itu berat bagimu?",
+                "Bukankah itu berat bagimu?"
+            ]
+        },
+        {
+            "text": "Tidak. Karena aku perlu untuk menang…",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "Aku menang. Aku berlari, lalu menang lagi.\nItu saja.",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "Kalau mau bicara soal jadi pelatihku, tunggu sampai \nSelection Race selesai. Sampai jumpa.",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "Pada saat itu, lampu lintasan untuk latihan malam akhirnya padam—\ndalam cahaya bintang, dia pun pergi, seolah melebur ke dalam gelapnya malam."
+        },
+        {
+            "text": "Penampilan Admire Vega, seolah memikul tekad yang \nbegitu berat hingga seperti mengikis dirinya sendiri,\nterus membekas di hatiku…"
+        }
+    ],
+    "title": "Nova yang Bersinar"
+}

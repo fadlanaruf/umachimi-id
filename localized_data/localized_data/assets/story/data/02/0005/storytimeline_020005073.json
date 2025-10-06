@@ -1,0 +1,91 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "(Tok tok tok)"
+    },
+    {
+      "text": "Trainer-san, maaf ganggu ya.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Datang jam segini, ada apa? \nKamu pasti capek abis balapan, apa ini penting banget?",
+      "name": "<username>"
+    },
+    {
+      "text": "Aku nggak tau ini bisa dibilang penting nggak, \ntapi aku pengen bilang secepatnya aja.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Abis menang hari ini, aku sadar sesuatu. \nSampai sekarang, aku belum bener-bener ngucapin terima kasih ke Trainer-san.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Ngucapin terima kasih…?",
+      "name": "<username>"
+    },
+    {
+      "text": "Walau aku bukan anggota timmu, \nTrainer-san udah baik banget dengerin curhatanku.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Dan waktu aku egois minta pindah ke timmu, \nTrainer-san nerima aja.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Kalau itu… biasanya sih nggak aneh kalo dibilang aku ikut campur urusan tim lain.",
+      "name": "<username>"
+    },
+    {
+      "text": "Fufuu…",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Sejak gabung ＜Sirius＞, cuma liat anggota lain aja aku udah tau \nTrainer-san itu orang kayak gimana.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Kamu orang yang percaya dan dengan baik dukung kita.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Berpikir begitu, aku pengen bener-bener bilang terima kasih, tapi… \nTrainer-san mau nunggu sebentar lagi nggak?",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Jangan ngomong soal nunggu, nggak usah kok makasih-makasih…",
+      "name": "<username>"
+    },
+    {
+      "text": "Nggak, aku harus bener-bener bilang makasih.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "…Mulai sekarang, yuk liat pemandangan itu bareng, gimana?",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Ngomong gitu, ekspresi wajah Silence Suzuka lembut banget, \ndan penuh kebahagiaan, sama kayak waktu dia lari."
+    },
+    {
+      "text": "…Kalau maksudnya makasih kayak gitu, ya beda cerita. \nAku pasti bakal terima makasih macam itu.",
+      "name": "<username>",
+      "choice_data_list": [
+        "<size=40>Ayo kita terus cari pemandangan itu bareng!</size>"
+      ]
+    },
+    {
+      "text": "Iya…!",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Dengan cara dia mau, \nSilence Suzuka raih kemenangan pertamanya sebagai anggota ＜Sirius＞."
+    },
+    {
+      "text": "Dengan kondisinya yang prima dan semangat tinggi, \npemandangan macam apa yang bakal dia tunjukin ke aku nanti ya?"
+    },
+    {
+      "text": "Dengan kondisi sekarang, aku yakin mimpinya bakal terus meluap \ndengan emosi bahagia ini."
+    }
+  ]
+}

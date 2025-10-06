@@ -1,0 +1,251 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Tahun baru udah lewat. Cesario udah\nikut 『Kanchiku Sho』――dan dia menang!"
+        },
+        {
+            "text": "(Oke……! Dia menang di balapan sama beberapa\npeserta Triple Crown, dan ini balapan jarak menengah 2000m.\nDengan ini……!)",
+            "name": "<username>"
+        },
+        {
+            "text": "Selamat ya menang 『Kanchiku Sho』, Cesario.\nTernyata, kekuatanmu memang lebih ke jarak agak panjang.",
+            "name": "<username>"
+        },
+        {
+            "text": "Aku pengen kamu ikut balapan besar lain sebagai persiapan\ntujuan utama 『Oka Sho』. Jadi, ayo ikut 『Flower Cup』 1800m berikutnya!",
+            "name": "<username>"
+        },
+        {
+            "text": "Terus Kraft. Kamu bisa tunjukkin kemampuanmu di balapan\njarak pendek. Jadi, ikut 『Fillies' Review』 1400m ya.",
+            "name": "<username>",
+            "choice_data_list": [
+                "Ayo capai tujuan berikutnya!"
+            ]
+        },
+        {
+            "text": "Yes!!",
+            "name": "Kraft & Cesario"
+        },
+        {
+            "text": "(Abis Fillies' Review, 『Oka Sho』 bulan berikutnya……\nDan itu pertama kalinya……aku bakal hadapin Cesario di balapan resmi)",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "(Pertama kalinya, pake semua kemampuan! Bisa\nlawan Cesario……! Aku nggak sabar……!)",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Oke! Aku harus latihan total――\nEh, huh? ……Disitu, itu……",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Haa, haa, haa……\nOke……――Haaaaaaaaa!!",
+            "name": "Special Week"
+        },
+        {
+            "text": "!! ――Aaaaaaahh!!",
+            "name": "Cesario"
+        },
+        {
+            "text": "(Cesario!? Hebat……lawan Special Week-san……\nsenpai dari Golden Generation, dia bisa ngimbangin……!?)",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Belum, belum……!\nYaaaaaaaaaーーーー!!",
+            "name": "Special Week"
+        },
+        {
+            "text": "(Spe-san……! Sekejap banget……itulah kekuatan finishing Uma Musume yang disebut \"Supreme Command of Japan\"……! ……Tapi――)",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Haa, haa, haa――!\nHaaaaaaaaaaa!!",
+            "name": "Cesario"
+        },
+        {
+            "text": "(Lawan kekuatan itu! Lawan kecepatan itu,\ndia masih bertahan……! Dia berkembang!\nDengan ngejar Spe-san dan belajar terus――)",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Bisa nggak ya……sebagai leader, aku bisa\nngalahin itu? Lawan……finishing kayak gitu――",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "(Gak boleh! 『Nggak sabar nih』? Sekarang bukan waktunya\npikir naif……Aku harus lebih serius!)",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "(Lawan sprint terakhir itu……\naku harus lakukan sesuatu biar bisa lawan balik……!)",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "……Berarti, aku harus cari Uma Musume yang punya\nfinishing kuat juga――……betul, dalam hal ini!!",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Hmm, hmm, hmmmmm~……♪ Sibuk banget, sibuk. \nCek deh, bahan berikutnya yang aku butuhin sekarang~……",
+            "name": "???"
+        },
+        {
+            "text": "Ah, ketemu deh……!\nUm, permisi!! ――Sweep Tosho-san!!",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Tau ini mendadak banget! K-kamu mau……!\nMau latihan lari bareng aku!?",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Ha? Tiba-tiba ngomong apa sih? Nggak mungkin!",
+            "name": "Sweep Tosho"
+        },
+        {
+            "text": "Cepet banget!? U-um, bisa dipikirin dulu nggak……?\nAku bener-bener mau……Aku harus lebih kuat……!",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Nggak deh. Kedengerannya nyebelin.\nDan sekarang aku lagi sibuk banget.",
+            "name": "Sweep Tosho"
+        },
+        {
+            "text": "Au……I-itu gitu ya?\nUuu……nggak……tapi, bisa nggak dipikirin lagi?",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Hei, kamu dengerin aku nggak!? Aku bilang nggak kan!? Nggak deh!!",
+            "name": "Sweep Tosho"
+        },
+        {
+            "text": "Tapi, tapi! Nggak bisa dibantuin nggak!? Tolong, Sweep-saaaaa~~~n!!",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Nggak ya berarti nggak! Kamu keras kepala banget!\nAda apa sih sama kamu～～～～!?",
+            "name": "Sweep Tosho"
+        },
+        {
+            "text": "――Sekarang, taruh bunga biru kecil sini, terus umbi-umbinya\nmasukin ke botol yang itu. Sekarang!",
+            "name": "Sweep Tosho"
+        },
+        {
+            "text": "Oke! ……Um, jadi, abis aku bantu ini……!",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Aku ngerti. Aku cuma perlu lari buat kamu kan!? Duh-……\nkamu keras kepala banget tau. Bilang nggak aja capek!",
+            "name": "Sweep Tosho"
+        },
+        {
+            "text": "Ahaha, iya deh, sering dibilang gitu……maaf ya~.\nJadi, bunga-bunga ini……dan umbi-umbinya……!",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Oke, selesai semua! ……ini semua, persiapan buat\nmagic skala besar baru ya?",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Hm? Hmm, kayaknya bener juga……\nOh, jadi kamu tau soal ini ya?",
+            "name": "Sweep Tosho"
+        },
+        {
+            "text": "Tentu……! Sweep Tosho-san.\n……kamu Uma Musume yang udah nunjukin kita apa itu 『Race Magic』.",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Tahun lalu……sebelum ikut Triple Tiara, kamu bilang gini:\n『Dunia membosankan ini, aku bakal ubah』.",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "『Triple Crown Uma Musume lebih kuat daripada Triple\nTiara Uma Musume, itu maksudmu~?』",
+            "name": "Sweep Tosho"
+        },
+        {
+            "text": "『Pas balapan bareng di Senior class, Tiara girls selalu kalah.\nKalau dipikir logis, kayak gitu kan?』",
+            "name": "Sweep Tosho"
+        },
+        {
+            "text": "『Apa-apaan tuh, ngebosenin banget!\nItu kesimpulan orang idiot!』",
+            "name": "Sweep Tosho"
+        },
+        {
+            "text": "『Kalau gitu, aku bakal tunjukin semua! Pertama, aku\nmulai dari Triple Tiara――』",
+            "name": "Sweep Tosho"
+        },
+        {
+            "text": "『Terus, di Senior Class! Bahkan di Grand Prix, Takarazuka Kinen!\nAku bakal lawan Triple Crown girls, dan menang!』",
+            "name": "Sweep Tosho"
+        },
+        {
+            "text": "『Dan untuk idiot kayak kalian, aku bakal pakai magicku.\nBalapan itu nggak tempat membosankan!』",
+            "name": "Sweep Tosho"
+        },
+        {
+            "text": "『Nggak peduli Triple Crown atau Triple Tiara!\nUma Musume kuat ya kuat! Aku bakal tunjukin semua!』",
+            "name": "Sweep Tosho"
+        },
+        {
+            "text": "Press conference itu……aku udah nonton berkali-kali.\nTerus……setiap kali, nempel di hati aku.",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "『Triple Crown atau Triple Tiara, nggak masalah』\n『Uma Musume kuat ya kuat』……! Aku juga percaya itu.\nAku pengen buktiin juga. Makanya……!",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Tolong! Aku harus terus berkembang sekarang.\nBuat 『Oka Sho』……biar bisa kalahin rivalku……!",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Hmmm? ……jadi, kamu bukan cuma keras kepala,\nkamu juga gadis yang menarik.",
+            "name": "Sweep Tosho"
+        },
+        {
+            "text": "Jadi, maksudmu aku udah kena pesonamu?\n……Kalau gitu, ngebiarinmu lemah bakal masalah!",
+            "name": "Sweep Tosho"
+        },
+        {
+            "text": "Kayaknya nggak ada cara lain.\nYa udah, boleh lah mulai latihan lari bareng!",
+            "name": "Sweep Tosho"
+        },
+        {
+            "text": "Haaaaaaaaaa!\nYaaaaaーーーー!",
+            "name": "Kraft & Sweep"
+        },
+        {
+            "text": "(Kuu……! Nggak……dia bakal nyalip aku……!!)",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Fuuu……! Wah, lumayan juga. Start-mu tepat, dan bertahan di akhir cukup oke.",
+            "name": "Sweep Tosho"
+        },
+        {
+            "text": "T-ternyata terima kasih banyak.\nTapi, akhirnya kamu masih bisa nyalip aku……",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Mu. Sekarang kamu bilang itu……Lawan Sweepy, wajar lah!\nApalagi, aku debut setahun lebih awal darimu!",
+            "name": "Sweep Tosho"
+        },
+        {
+            "text": "Mungkin bener tapi……! Itu nggak cukup. Kalau aku nggak bisa\nngimbangin yang bisa finish kayak kamu……!",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Haaaaaa……!!",
+            "name": "Spe & Cesario"
+        },
+        {
+            "text": "(Lawan finishing itu……lawan ketajaman itu!\nKalau aku tetap gini……jujur aja, seberapa jauh aku di depan, kayaknya nggak cukup……!)",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "(Aku nggak bisa bayangin!!\nAku nggak bisa bayangin menang lawan Cesario……!)",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Sekali lagi……tolong, Sweep-san.\nDengan gini, kayaknya nggak bakal cukup……!",
+            "name": "Rhein Kraft"
+        }
+    ]
+}

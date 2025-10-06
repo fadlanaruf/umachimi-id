@@ -1,0 +1,211 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Bahkan setelah babak terakhir Triple Tiara, 『Shuuka Sho』, \nberakhir, Rhein Kraft tetap terus berlari dengan serius."
+        },
+        {
+            "name": "Penyiar",
+            "text": "『Mile Championship』! \nRhein Kraft finis di peringkat 3! Posisi ketiga!"
+        },
+        {
+            "name": "Komentator",
+            "text": "Larinya nggak buruk. Ini penampilan pertamanya melawan \nlawan kelas Senior, tapi kurasa dia bisa tunjukkan kekuatannya."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Haa, haa, haa……"
+        },
+        {
+            "name": "Penyiar",
+            "text": "Wah, ada apa dengan Rhein Kraft? Finis ke-4 sebagai favorit! \nKan ini cuma G2, kukira dia bisa lari lebih bebas."
+        },
+        {
+            "name": "Komentator",
+            "text": "Biasanya, dia pasti bisa bertarung \nlebih meyakinkan…… Ada apa ya."
+        },
+        {
+            "name": "Rekan Tim",
+            "text": "Aduhhh, Kraft～……"
+        },
+        {
+            "name": "King Halo",
+            "text": "Kayaknya kondisinya makin memburuk……Trainer. \nKita udah lakukan yang terbaik, tapi tetap aja……"
+        },
+        {
+            "text": "Iya, pasti ada masalah mental…… \nAyo kita revisi menu latihan supaya bisa terus dukung dia.",
+            "choice_data_list": [
+                "Iya, pasti ada masalah mental…… \nAyo kita revisi menu latihan supaya bisa terus dukung dia."
+            ]
+        },
+        {
+            "text": "Kondisinya memburuk tiap hari. Dia jelas terpengaruh \ngagal meraih Triple Crown Alternatif. Tim akan \nterus bekerja sama buat bantu dia lewati masa sulit ini."
+        },
+        {
+            "text": "Kraft, untuk sekarang kita fokus ke latihan mental. \nSambil tubuhmu istirahat, kita akan fokus ke materi……"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Mental……? N-nggak, nggak usah khawatir. \nAku baik-baik aja! Aku baik-baik aja jadi……"
+        },
+        {
+            "text": "Kraft, ada yang mau aku kasih. \nKing……"
+        },
+        {
+            "text": "Kraft, ada yang mau aku kasih. \nKing……"
+        },
+        {
+            "name": "King Halo",
+            "text": "Iya, ini. Ini yang udah disusun Trainer \ndan aku selama beberapa hari terakhir."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Ini……buat bantu aku keluar dari masa sulit……"
+        },
+        {
+            "text": "Iya. Ini peta jalan yang kami buat dengan nonton rekaman balapan \ndan riset terbaru dari ilmu kedokteran olahraga."
+        },
+        {
+            "text": "Iya. Ini peta jalan yang kami buat dengan nonton rekaman balapan \ndan riset terbaru dari ilmu kedokteran olahraga."
+        },
+        {
+            "name": "King Halo",
+            "text": "Kalau ikuti ini, pasti kamu bisa bangkit lagi. \nKraft-san, ayo tetap semangat. Oke?"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Uu, ugh, Uuuu……",
+            "choice_data_list": [
+                "Ada apa, Kraft!?",
+                "Ada apa, Kraft!?"
+            ]
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Maaf…… Trainer dan King-san \nudah berusaha keras, tapi aku……"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Tapi aku nggak bisa…… Aku menyedihkan banget…… \nMaaf, maaf, aku……"
+        },
+        {
+            "name": "King Halo",
+            "text": "Kraft-san……"
+        },
+        {
+            "text": "Sebanyak apa pun kami ingin mendukungnya, tetap saja \nRhein Kraft sekarang terlihat kewalahan."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "…………"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Tempat……apa ini……?"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Ada cahaya……dari atas sana…… \nKalau aku ke sana……"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Eh……nutup, nutup……"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "――!? Dunia serem apa ini? \n……Apa aku terjebak di sini?"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Ugh……pikiranku……kosong…… \nA-apa ini……?"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Rasanya kayak ditelan……!? \nUntuk sekarang, aku harus pergi dari sini! Kuu……!"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Hah? Hah?"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Hah!? Kenapa!? \nKenapa aku balik lagi ke sini!? Ugh!"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "(Pemandangan ini……terus berulang……)"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "(Berapa pun kali aku coba, atau apa yang kulakukan, \nnggak ada yang berubah…… Sama aja…… Sama aja……)"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Takdir――nggak bisa diubah."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Haa!"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Mimpi……? Ini……kenyataan, kan……?"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "(Tempat tidur kosong Cesario…… \nPastinya, ini kenyataan……)"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Tempat apa tadi……? \nBahkan sekarang, di pikiranku……"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Pemandangan yang menghantui itu…… \nSuasananya……berat banget."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "(Itu apa sih……? Apa yang terjadi di sana……? \nYang jelas, perasaan aneh ini mulai sejak……)"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "(Aku kalah di 『Shuuka Sho』…… Aku nggak punya tujuan lagi, \ndan tubuhku rasanya aneh…… kayak……mulai memudar……)"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "(Rasanya……kayak menghilang…… \nBener sih, aku nggak bisa capai prestasi \nbersejarah…… Aku bahkan……nggak punya alasan buat ada……)"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "(Berlari sekeras apa pun, aku nggak akan menang…… Pastinya, \nlarianku akan dilupakan dalam 10 tahun ke depan……)"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Meski bintang-bintang akan bersinar selama puluhan tahun, \nratusan tahun, sinarku……nggak akan sampai ke siapa-siapa, ya……?"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Aku penasaran……apa aku bisa tidur……"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Bahkan kalau aku tertidur……"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "(Hah!? Tadi juga……dunia ini……)"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "(Eh……bunga itu……)"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Ah……"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Kyaaaaaaa!?"
+        }
+    ]
+}

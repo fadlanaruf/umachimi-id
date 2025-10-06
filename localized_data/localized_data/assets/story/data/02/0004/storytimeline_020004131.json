@@ -1,0 +1,154 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Komentator",
+      "text": "Hari ini di “Hanshin Grand Prize” banyak banget pemain besar yang turun.\nLomba 3000m rumput Shiba siap dimulaiー"
+    },
+    {
+      "name": "Komentator",
+      "text": "Sorotan hari ini jelas ada di duel “Kuda Perempuan Perwakilan Tahunan”\nantara Narita Brian dan Mayano Top Gun!"
+    },
+    {
+      "name": "Komentator",
+      "text": "Jumlah fans yang datang ke Hanshin kali ini luar biasa banyak,\nsemua pengen lihat akhir dari pertandingan ini!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Suasananya agak beda ya,\ngak kayak balapan Brian biasanya…"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ya, soalnya selama ini kita cuma bisa jadi penonton\nyang kagum sama larinya Brian."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Tapi… sekarang beda, kan."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Brian-san, tolong lari sekuat tenaga ya.\nKami bakal dukung kamu sepenuh hati."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…Iya, aku andalkan kalian."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Kalau gitu ayo kita ke tribun!\nAku udah rebut tempat paling jauh biar lega!"
+    },
+    {
+      "text": "Ya udah, mari kita juga turun ke jalur bawah tanah.\nAku bakal nganterin."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Baik. …Aku berangkat dulu."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Semangat ya, Brian!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Hati-hati di lintasan."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Oh! Dia datang!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Sepertinya semangatmu nggak ada masalah.\nMasih ada perasaan ingin terus berlari seperti biasa."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Soalnya aku pengen ngerasain hasil lari bareng Kakak dan Amazon,\nsampai nggak bisa tidur semalaman."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Mayano Top Gunー kemampuannya emang gak bisa diragukan,\ntapi lawan terbesarmu sekarang itu dirimu sendiri."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Pergi dan menanglah, kalahin waktumu sendiri…!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Iya, lihat aja aku."
+    },
+    {
+      "text": "Brian, kamu udah sering banget bikin semua orang kaget.\nCatatan kemenangan telak, menang besar di panggung besarー"
+    },
+    {
+      "text": "Brian, kamu udah sering banget bikin semua orang kaget.\nCatatan kemenangan telak, menang besar di panggung besarー"
+    },
+    {
+      "text": "Dan aku yakin ke depannya pengakuan buatmu bakal makin banyak.\nPerasaanmu nggak pernah berubah sejak pertama kali kita ketemu.",
+      "choice_data_list": [
+        "Semangat ya, Brian!!"
+      ]
+    },
+    {
+      "text": "Dan aku yakin ke depannya pengakuan buatmu bakal makin banyak.\nPerasaanmu nggak pernah berubah sejak pertama kali kita ketemu.",
+      "choice_data_list": [
+        "Semangat ya, Brian!!"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…Hmph, aku bakal berusaha sebaik mungkin…!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "……"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Banyak juga fansnya ya. Mereka keliatan antusias banget\nsama duel “Kuda Perempuan Perwakilan Tahunan” ini!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Maya juga sama semangatnya! Aku bisa lari bareng Brian-san!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…Oh, begitu."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "…Kalau tebakan Maya bener, Brian udah nggak bisa lagi\nlari kayak dulu sebelum kamu cedera."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Tapi, meskipun begitu, api semangatku nggak pernah padam!\nPerasaan Brian-san juga nggak beda dari dulu!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Makanya, Maya bakal lari sepenuh hati…!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Hmph… Bukan berarti nggak berubah,\ntapi agak beda rasanya sekarang."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Aku udah nggak bisa lagi lari alami kayak dulu.\nKemenangan terasa makin jauh, bukannya ngisi hatiku yang haus."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Tapi makin jauh kemenangan itu, makin besar juga rasa hausnya.\nSetiap kali hampir bisa meraihnya, aku malah makin terpacu."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Keinginan buat terus berlari… itu kekuatan terbesarku sekarang!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Iya! Iya! Aku nggak bakal kalah, Brian-san!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Baiklah, ayo hadapi aku…!"
+    }
+  ]
+}

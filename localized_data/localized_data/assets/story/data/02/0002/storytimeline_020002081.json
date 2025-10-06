@@ -1,0 +1,215 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Mejiro McQueen",
+            "text": "Aku udah menang 3 kali berturut-turut di “Emperor Award”.\n\nRice juga bakal ikut."
+        },
+        {
+            "text": "Rice ikut “Emperor Award”?"
+        },
+        {
+            "text": "Emperor Award itu target Mejiro McQueen,\n\ntapi kenapa dia pengin Rice Shower juga lari di situ?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Booing waktu (Kikkashou Award)…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Padahal itu momen yang seharusnya dipuji karena ngehentikan Triple Crown Bourbon,\n\ntapi suara fans malah kayak kebalik."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Kebetulan, situasi mirip kayak di (Kikkashou Award) bisa terjadi di “Emperor Award”.",
+            "choice_data_list": [
+                "Makanya aku pengin Rice ikut lomba itu."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Ada ‘pemandangan’ yang pengin aku tunjukin ke Rice di sana."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Aku bakal tanggung jawab buat hal-hal yang cuma bisa dirasain sama yang lari di turf."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Trainer-san, karena kamu Trainer, bisa dong bawa Rice sampai level “Emperor Award”."
+        },
+        {
+            "text": "Ini lomba besar buat Mejiro McQueen."
+        },
+        {
+            "text": "Buat bikin Rice Shower ikut, pasti butuh mikir panjang dan perjuangan keras."
+        },
+        {
+            "text": "Tapi, apakah ini ide yang bener?\n\nAku cuma mikirin Rice Shower. Tapi kalau McQueen nggak bisa lari maksimal…",
+            "choice_data_list": [
+                "Ini lomba yang bisa bikin 3 kemenangan beruntun gagal, aman nggak ya?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Hehe, Trainer-san kira aku bakal kalah ya.\n\nSakit juga hati ini."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Aku bilang nih, aku nggak ada niat kalah.\n\nSebagai gadis kuda keluarga Mejiro, aku bakal raih 3 kemenangan berturut-turut di “Emperor Award”."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Trainer-san bakal ribet.\n\nSiapa pun yang menang, kamu harus hibur yang kalah."
+        },
+        {
+            "text": "McQueen senyum sambil ngelawak, tapi tekadnya buat menang “Emperor Award” nyata banget."
+        },
+        {
+            "text": "Tapi kalau ada perasaan yang pengin disampein ke Rice Shower lewat lari kamu.",
+            "choice_data_list": [
+                "Aku juga bakal bikin Rice ikut lari."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Iya, makasih banget udah bantu."
+        },
+        {
+            "text": "Besoknya pas latihan――"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "he… he…\n\nHmm, gimana waktu lari Rice?"
+        },
+        {
+            "text": "Waktunya nggak buruk.\n\nTapi kalau lomba, nggak bisa asal menang."
+        },
+        {
+            "text": "Soalnya booing waktu (Kikkashou Award) nunjukin mereka cuma pasrah buat bersaing dan menang."
+        },
+        {
+            "text": "Waktu lari bagus.\n\nKalau gini, sepertinya kita bisa menang juga di panggung besar."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Panggung besar….\n\nLomba Rice berikutnya udah diputusin?"
+        },
+        {
+            "text": "Aku udah putusin, tapi Rice Shower pasti bakal nolak.\n\nTapi kalau dia pengin menang lagi―",
+            "choice_data_list": [
+                "Aku pengin kamu ikut “Emperor Award”."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "heh, “Emperor Award”!?"
+        },
+        {
+            "text": "Rice punya kemampuan buat menang.\n\nUdah terbukti di (Kikkashou Award)."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Tapi, “Emperor Award” buat McQueen-san bakal jadi 3 kemenangan berturut-turut."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Di lomba penting kayak gitu, Rice nggak bisa ikut.\n\nMeski menang, Rice bakal…"
+        },
+        {
+            "text": "Yang aku bilang sampe sekarang, liat muka Rice Shower sedih, rasanya kayak denger booing waktu itu lagi."
+        },
+        {
+            "text": "Akhirnya, Rice Shower nggak ngasih izin ikut “Emperor Award”."
+        },
+        {
+            "text": "Memikirkan perasaan Rice Shower.\n\nAku nggak mau maksa dia ikut. Tapi, nggak bisa diem aja…"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Trainer-nya Rice-san?"
+        },
+        {
+            "text": "Itu suara Mihono Bourbon yang lagi latihan sendiri."
+        },
+        {
+            "text": "Eh, Bourbon, lagi latihan sendiri ya?"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Iya, cedera abis (Kikkashou Award) akhirnya sembuh."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Gimana kabar Rice-san?\n\nMasih kepikiran hari itu?"
+        },
+        {
+            "text": "Waktu itu, aku liat Rice Shower kena boo pas menang.\n\nTapi sekarang yang aku liat cuma Mihono Bourbon."
+        },
+        {
+            "text": "Dia mungkin lebih peduli sama Rice Shower daripada siapa pun.",
+            "choice_data_list": [
+                "Rice belum pulih sepenuhnya."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Aku ngerti…"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Alasan aku latihan sendiri bukan buat perintah “Menang”,\n\ntapi buat diriku sendiri."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "“Aku pengin lari, nggak bisa nahan” itu yang aku pikirkan setelah kalah sama Rice."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Aku pengin lari sekali lagi sama Rice, dan aku pengin menang.\n\nLatihan sendiri ini buat tujuan itu."
+        },
+        {
+            "text": "Buat gadis kuda Mihono Bourbon, Rice Shower adalah lawan pertama yang menangin dia."
+        },
+        {
+            "text": "Dia pengin lari sekali lagi sama lawan itu, dan lagi latihan keras."
+        },
+        {
+            "text": "Dulu Rice Shower dan sekarang Mihono Bourbon mirip.\n\nCara mereka kerja keras buat lawan yang pengin dikalahin."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Ada yang bisa aku bantu?\n\nAku pengin lari sekali lagi sama Rice."
+        },
+        {
+            "text": "Bourbon…"
+        },
+        {
+            "text": "“Aku pengin menang” Rice Shower sempat kehilangan rasa itu.\n\n“Pengin menang” perasaan baru Mihono Bourbon."
+        },
+        {
+            "text": "Kalau liat Rice Shower di dalam Mihono Bourbon sekarang.",
+            "choice_data_list": [
+                "Aku butuh bantuanmu."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Aku ngerti.\n\nKasih perintah, aku bakal jalankan keinginanmu."
+        },
+        {
+            "text": "Begitu kata Mihono Bourbon dengan ekspresi lembut,\n\nrasanya sangat menenangkan.",
+            "choice_data_list": [
+                "Ada sesuatu , boleh tolong ?",
+                "Ih boleh dong minta tolong"
+            ]
+        },
+        {
+            "name": "Mihono Burbon",
+            "text": "Dipahami. Perintah… tidak, maksudku, keinginanku akan segera dilaksanakan"
+        },
+        {
+            "text": "Saat Mihono Bourbon mengucapkan itu sambil menampilkan\nekspresi lembut, aku merasa terbantu . itulah My....."
+        }
+    ]
+}

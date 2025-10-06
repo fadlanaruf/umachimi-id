@@ -1,0 +1,205 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "………",
+            "name": "Special Week"
+        },
+        {
+            "text": "Di baris ketiga teks, kata \"retainer\" itu maksudnya siapa? \nSpecial Week-san?",
+            "name": "Guru"
+        },
+        {
+            "text": "Eh? Ah, iya! …… iya?",
+            "name": "Special Week"
+        },
+        {
+            "text": "…\"diriku sendiri\", maksudnya itu ke \"diriku sendiri\".",
+            "name": "King Halo"
+        },
+        {
+            "text": "Dirimu sendiri……? Aaah! \nOh, itu King-chan maksudnya!",
+            "name": "Special Week"
+        },
+        {
+            "text": "Bukan itu maksudku!",
+            "name": "King Halo"
+        },
+        {
+            "text": "Special Week-san, King Halo-san, kalian berdua dapat PR tambahan.",
+            "name": "Guru"
+        },
+        {
+            "text": "Fuu～, makasih makanannya～. \nEmang ubi tuh yang paling top ya～?",
+            "name": "Seiun Sky"
+        },
+        {
+            "text": "………",
+            "name": "Special Week"
+        },
+        {
+            "text": "Spe-chan, kamu nggak apa-apa…?",
+            "name": "Seiun Sky"
+        },
+        {
+            "text": "Ah, nggak! Aku baik-baik aja! Udah, jangan dipikirin! \nSebelum makananku dingin aku harus habisin!",
+            "name": "Special Week"
+        },
+        {
+            "text": "…h-hah?! Makananku udah habis total?!",
+            "name": "Special Week"
+        },
+        {
+            "text": "Lho, bukannya kamu sendiri tadi lahap banget \nsampe selesai lebih cepet dari aku…?",
+            "name": "Seiun Sky"
+        },
+        {
+            "text": "………",
+            "name": "Special Week"
+        },
+        {
+            "text": "Oke deh, ayo mulai latihan hari ini!",
+            "name": "Winning Ticket"
+        },
+        {
+            "text": "Asik! Kalau Spe segini semangatnya, kita juga harus kasih tenaga dong?!",
+            "name": "Gold Ship"
+        },
+        {
+            "text": "Iya iya! Kalau dia sampai pakai seragam balap pas latihan, \njelas banget Spe-chan serius banget!",
+            "name": "Winning Ticket"
+        },
+        {
+            "text": "Seragam balap……?",
+            "name": "Special Week"
+        },
+        {
+            "text": "Eh?! Aku salah pakai baju!",
+            "name": "Special Week"
+        },
+        {
+            "text": "Itu salah?! \nBeneran salah?!",
+            "name": "Keduanya"
+        },
+        {
+            "text": "Spe-chan……",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "Kayaknya kamu udah ngomong sama Spe soal pergi ke luar negeri.",
+            "name": "<username>"
+        },
+        {
+            "text": "Iya, semalem. \nDia kaget banget sih……",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "Kelihatan jelas kan kenapa dia jadi segitu paniknya.",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "Aku udah denger dari Silence Suzuka kalau dia pengen ke luar negeri sekitar Tahun Baru."
+        },
+        {
+            "text": "Liat dia kayak gini, gampang ditebak kalau kemenangan di Twinkle Series \nbikin dia penasaran sama tantangan yang nunggu di luar negeri."
+        },
+        {
+            "text": "Karena dia pengen naik lebih tinggi lagi, sebagai Trainer aku nggak ada alasan buat nahan. \nAku harus dukung semampuku, tapi―"
+        },
+        {
+            "text": "Berpisah sama Suzuka-san yang dari awal udah bareng pas dia pindahan, \nwajar banget kalau Spe sampai goyah kayak gini…",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "………",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "……Um, Trainer-san……",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "Wajah Silence Suzuka jelas nunjukin kalau dia ngerasa ini salahnya. \nTapi dia juga punya perasaan dan keinginan sendiri yang harus dipikirin―"
+        },
+        {
+            "text": "Aku ngerti kok apa yang mau kamu bilang Suzuka, tapi aku dan tim bakal dukung Spe. \nJadi semuanya bakal baik-baik aja.",
+            "name": "<username>",
+            "choice_data_list": [
+                "Dan juga Suzuka.",
+                "Dan juga Suzuka."
+            ]
+        },
+        {
+            "text": "Aku ngerti kok apa yang mau kamu bilang Suzuka, tapi aku dan tim bakal dukung Spe. \nJadi semuanya bakal baik-baik aja.",
+            "name": "<username>",
+            "choice_data_list": [
+                "Dan juga Suzuka.",
+                "Dan juga Suzuka."
+            ]
+        },
+        {
+            "text": "………",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "Oke deh, karena Spe udah keburu pakai seragam balap, \nhari ini semua orang latihan pakai seragam balap juga ya!",
+            "name": "<username>"
+        },
+        {
+            "text": "Fufuu, kedengerannya seru, kan? \nPaling nanti pada bilang kamu mulai hal aneh lagi.",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "Suzuka-san… nge-dukung Uma Musume biar mereka bisa raih mimpinya, \nitu inti dari sebuah tim.",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "Ngedukung, biar bisa raih mimpi……",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "Kalau gitu, Suzuka-san ayo kita ganti ke seragam balap juga. \nBiar kamu bener-bener siap buat petualangan luar negeri.",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "……Iya, bener juga.",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "Aku juga bakal liat semua \"pemandangan\" itu.",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "Oke kalau gitu, ayo tutup latihan dengan satu putaran lagi.",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "Fuu～, hari ini kita lari lumayan banyak juga!",
+            "name": "Winning Ticket"
+        },
+        {
+            "text": "Semuanya, kerja bagus……",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "………",
+            "name": "Special Week"
+        },
+        {
+            "text": "Haa…… haa…… haa…… haa……",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "(Larinya Suzuka-san, masih sama kayak pertama kali aku liat……)",
+            "name": "Special Week"
+        },
+        {
+            "text": "(Aku juga pengen jadi kayak Suzuka-san…… \nMakanya, aku pengen lihat lebih banyak lagi larinya Suzuka-san)",
+            "name": "Special Week"
+        },
+        {
+            "text": "(…… tapi, Suzuka-san bakal ke luar negeri……)",
+            "name": "Special Week"
+        }
+    ]
+}

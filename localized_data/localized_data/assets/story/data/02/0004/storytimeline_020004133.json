@@ -1,0 +1,48 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Selamat ya, Brian. Larinya bagus banget."
+    },
+    {
+      "text": "Selamat ya, Brian. Larinya bagus banget."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…Benar juga. Dari semua balapan yang pernah aku jalani,\nini mungkin yang paling nomor satu buatku."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Soalnya, ini pertama kalinya aku bisa benar-benar\nhidup dalam perasaan ingin menang sampai sejauh ini."
+    },
+    {
+      "text": "Jadi balapan satu lawan satu yang kamu menangkan ini\nternyata segitu berharganya buatmu."
+    },
+    {
+      "text": "Jadi balapan satu lawan satu yang kamu menangkan ini\nternyata segitu berharganya buatmu."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Tapi aku nggak bakal puas cuma sampai di sini.\nKeinginan buat lari masih terus mendorongku maju."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Masih ada lawan yang pengen aku lampauiー\nPunggung Kakakku masih menungguku di depan."
+    },
+    {
+      "text": "Betul, di mata Narita Brian ada sesuatu\nyang bersinar sangat kuat.",
+      "choice_data_list": [
+        "Teruslah berlari, Brian!",
+        "Teruslah berlari, Brian!"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…Itu udah jelas."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Sekarang, balapan berikutnya… belum selesai!"
+    }
+  ]
+}

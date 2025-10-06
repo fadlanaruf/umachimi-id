@@ -1,0 +1,170 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Derby dengan susunan peserta paling gokil sepanjang sejarah. \nBegitu kata orang-orang."
+    },
+    {
+      "text": "Dia bukanlah yang paling menonjol di antara deretan bintang \nyang berkilau waktu itu."
+    },
+    {
+      "text": "Tapi, “Aku ya aku”."
+    },
+    {
+      "text": "Nggak peduli kalah di masa lalu, yang penting sekarang. \nSaat dia lepaskan semuanya di lurusan terakhir \ndan ambil alih posisi depan, dia bersinar kayak cahaya."
+    },
+    {
+      "text": "Nama cahaya itu adalah Eishin Flash."
+    },
+    {
+      "text": "“Aku akan jalan di jalanku sendiri.” \nKarena orang kuat percaya sama dirinya sendiri."
+    },
+    {
+      "text": "Putaran pertama Winning Ticket di ajang klasik, “SatsukiShou”, \nberakhir dengan kekalahan."
+    },
+    {
+      "text": "Keesokan harinyaー"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Heh… heh… heh～～"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Trainer, latihan tanjakan abis ini ya?"
+    },
+    {
+      "text": "Padahal baru aja selesai balapan. Aku bilang kalau istirahat sebentar \nnggak apa-apa, tapi Winning Ticket masih aja latihan hari ini.",
+      "choice_data_list": [
+        "Kamu nggak capek?",
+        "Kamu nggak capek?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Hah…? Enggak kok, aku baik-baik aja."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Lagipula aku ngerasa nggak bisa leha-leha sehari pun… hehe."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Jadi, dengan begitu, aku mau latihan tanjakan!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Dia itu kan gampang kebawa emosi. \nKukira pas kalah dia bakal nangis…"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Aku nggak ngerasain semangat tanpa batasnya seperti biasa. \nKekalahan di “SatsukiShou” itu bener-bener bikin dia down banget."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Yah, kalau gitu kekalahan berikutnya ya di Derby."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Trainer, tolong awasi Ticket baik-baik ya.",
+      "choice_data_list": [
+        "Tentu saja."
+      ]
+    },
+    {
+      "text": "Walaupun aku jawab begitu, sebenarnya aku sendiri bingung \nharus gimana menghadapi Winning Ticket yang sekarang."
+    },
+    {
+      "text": "Habis latihan, aku balik ke ruang pelatih, \ndan di sana Winning Ticket berdiri sendirian."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ah, Trainer!"
+    },
+    {
+      "text": "Apa ada yang kelupaan?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Enggak, aku cuma mau nonton video balapan."
+    },
+    {
+      "text": "Yang ditonton Winning Ticket adalah rekaman Derby, \nyang biasa aku tonton juga. Dia emang sering lihat rekaman balapan di sini."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "……"
+    },
+    {
+      "text": "Biasanya dia selalu teriak-teriak penuh emosi, \ntapi kali ini dia cuma menatap layar dengan tenang.",
+      "choice_data_list": [
+        "Sekarang giliran Tickezou yang tampil di panggung Derby.",
+        "Sekarang giliran Tickezou yang tampil di panggung Derby."
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Eh!? Y-ya… benar juga. \nDi panggung yang udah sering aku lihat ini, aku juga…"
+    },
+    {
+      "text": "Winning Ticket yang biasanya susah banget nahan rasa excited \nkalau ngomong soal Derby, tapi kali ini keliatan agak berat."
+    },
+    {
+      "text": "“SatsukiShou” kemarin bener-bener bikin nyesek."
+    },
+    {
+      "text": "“SatsukiShou” kemarin bener-bener bikin nyesek."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Trainer, boleh nggak aku ngomong sesuatu yang agak egois?"
+    },
+    {
+      "text": "Tentu aja…?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Balapan itu kan, ada kalanya kalah juga kan?"
+    },
+    {
+      "text": "Iya, tapi kamu kan udah berusaha keras supaya nggak kalah, kan?"
+    },
+    {
+      "text": "Iya, tapi kamu kan udah berusaha keras supaya nggak kalah, kan?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Aku udah berusaha buat menang di “SatsukiShou”. \nAku lakuin apa yang aku bisa."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Tapi… tetep aja kalah. Sekarang aku ngerti, balapan itu \nnggak semudah itu."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Terus, rekaman yang biasanya bikin aku excited banget, \nkali ini keliatan beda…"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Aku juga ikut terkesan sama penampilan orang yang kalah. \nDramanya tetep kerasa banget."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Aku dulu nggak ngerti sama sekali perasaan orang yang kalah… \nperasaan orang yang mimpinya hancur…",
+      "choice_data_list": [
+        "Tickezou…"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ah, ahaha… aku malah keliatan gugup ya!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Kalau aku nggak balik ke asrama sekarang, nanti ibu asrama bisa marah! \nSampai besok, Trainer!"
+    },
+    {
+      "text": "Di ruang pelatih yang udah ditinggalkan Winning Ticket, \ncuma suara rekaman Derby yang masih terus mengalun."
+    }
+  ]
+}

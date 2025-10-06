@@ -1,0 +1,331 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "King Halo",
+            "text": "Halo, semuanya! Makasih ya udah dukung Tim <Ascella> sepanjang musim semi ini."
+        },
+        {
+            "name": "King Halo",
+            "text": "Buat Rhein Kraft dan Cesario, yang udah menang G1——Bersulang!"
+        },
+        {
+            "name": "Kraft&Cesario",
+            "text": "Bersulang~!!"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Cesario, ini kayak mimpi jadi kenyataan, ya? Nggak nyangka mereka ngadain pesta segini meriah."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Ayo kita tetap berlari di musim gugur juga! Di 『Shuuka Sho』!"
+        },
+        {
+            "name": "Cesario",
+            "text": "Iya, ayo kita lakukan, Kraft! Nanti di sana, kita bakal jadi rival lagi."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Yeah! Aku bakal tunjukin kemampuanku di panggung itu! 『Oka Sho』, 『NHK Mile C』, terus menangin 『Shuuka Sho』——"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "\"Triple Crown yang Nggak Biasa\"! Aku bakal buka jalur baru ke Tiara!"
+        },
+        {
+            "name": "Cesario",
+            "text": "Triple Crown... yang nggak biasa..."
+        },
+        {
+            "name": "Cesario",
+            "text": "(Oh gitu ya. Jalur Kraft nggak berhenti cuma di dua kemenangan. Dia udah lihat ke depan, ke Triple Crown yang nggak biasa...)"
+        },
+        {
+            "name": "Vodka",
+            "text": "Waaah!! Triple Crown yang nggak biasa! Beneran nih, Kraft!?"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Hyaa!? Ah... Vodka-san!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Wih, padahal aku aja belum debut... Emang dasarnya Kraft~!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Double Crown yang nggak biasa aja udah keren banget, apalagi Triple Crown yang nggak biasa!? Itu baru level Juara!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Wuuuuuh, aku juga pengen ngelakuin sesuatu yang hebat kayak gitu!! Mungkin aku bakal minta saran dari Gim-senpai!"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Iya, iya, kami bakal berusaha keras biar Vodka-san juga jadi semangat!"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Iya kan, Cesario?"
+        },
+        {
+            "name": "Cesario",
+            "text": "I-iya..."
+        },
+        {
+            "name": "Cesario",
+            "text": "(Kraft udah melangkah ke Triple Crown yang nggak biasa. Tapi, gimana dengan aku? Tentu aja, 『Shuuka Sho』 itu balapan yang selalu aku impikan, tapi...)"
+        },
+        {
+            "name": "Cesario",
+            "text": "(Di 『Shuuka Sho』, apa bener ada sesuatu yang... cuma bisa dilakukan Uma Musume Oaks kayak aku? Aku kan nggak bisa jadi Uma Musume Triple Tiara)"
+        },
+        {
+            "text": "…………"
+        },
+        {
+            "name": "King Halo",
+            "text": "...? Ada apa? Kamu memperhatikan Cesario dengan cukup intens."
+        },
+        {
+            "text": "Bukan apa-apa, cuma agak khawatir sama dia."
+        },
+        {
+            "text": "Bukan apa-apa, cuma agak khawatir sama dia."
+        },
+        {
+            "text": "Ada sesuatu yang pengen aku bicarain sama Cesario. Tapi..."
+        },
+        {
+            "text": "Awalnya dia keliatannya senang, tapi tiba-tiba ekspresinya jadi rumit. Kenapa ya?"
+        },
+        {
+            "name": "Cesario",
+            "text": "(Huu... kenapa ya aku rasanya agak capek... Mungkin butuh udara segar...)"
+        },
+        {
+            "name": "Cesario",
+            "text": "(………… Aku harus gimana, dari sini...?)"
+        },
+        {
+            "text": "Cesario, ternyata kamu di sini."
+        },
+        {
+            "text": "Cesario, ternyata kamu di sini."
+        },
+        {
+            "name": "Cesario",
+            "text": "Ah, Trainer..."
+        },
+        {
+            "text": "Kenapa nih? Keliatannya agak murung."
+        },
+        {
+            "text": "Kenapa nih? Keliatannya agak murung."
+        },
+        {
+            "name": "Cesario",
+            "text": "...Sebenarnya... ada sesuatu yang aku khawatirin. Sekarang musim semi udah berakhir, jalur Kraft dan aku udah berpisah jadi dua..."
+        },
+        {
+            "name": "Cesario",
+            "text": "Dan sekarang setelah berpisah, aku nggak tahu harus kemana..."
+        },
+        {
+            "name": "Cesario",
+            "text": "Kraft udah milih buat buka jalur baru ke Tiara. Cara baru lewat 『NHK Mile C』—— ngecapai Double Crown yang nggak biasa."
+        },
+        {
+            "name": "Cesario",
+            "text": "Dan sekarang dia lanjut buat mencoba Triple Crown. Itu bener-bener jalur baru buat Tiara."
+        },
+        {
+            "name": "Cesario",
+            "text": "Di sisi lain, setelah ngerasain kekuatan Symboli Kris S, aku belajar. Dengan menang 『Oaks』, aku udah buktiin kekuatanku."
+        },
+        {
+            "name": "Cesario",
+            "text": "Tapi sekarang, setelah ini, aku nggak punya target kayak Triple Crown nggak biasa-nya Kraft yang bisa aku incar. Soalnya aku kalah di 『Oka Sho』, jadi nggak bisa jadi Uma Musume Triple Tiara..."
+        },
+        {
+            "name": "Cesario",
+            "text": "Kaya gini, rasanya aku nggak bakal bisa berdiri sejajar sama Kraft lagi... Dan sekarang, yang lagi rame di putaran Triple Crown itu \"Uma Musume itu\"."
+        },
+        {
+            "text": "Putaran Triple Crown... \"Uma Musume itu\", ya..."
+        },
+        {
+            "name": "Announcer",
+            "text": "Dan terlahirnya Uma Musume Double Crown yang tak terkalahkan!"
+        },
+        {
+            "name": "Announcer",
+            "text": "Sudah lama banget sejak yang terakhir!! Jadi, di musim gugur nanti di Kyoto, di 『Kikka Sho』, legenda lain mungkin akan tercipta!"
+        },
+        {
+            "text": "Selama musim semi, ada seorang Uma Musume yang menang 『Satsuki Sho』 dan 『Japan Derby』. Keduanya adalah bagian dari Classic Triple Crown, pasangan dari Tiara."
+        },
+        {
+            "name": "Cesario",
+            "text": "Aku pengen——ninggalin jejak tanpa kalah! Bukti yang nggak goyah, demi Tiara!"
+        },
+        {
+            "name": "Cesario",
+            "text": "Tapi... gimana caranya ya?"
+        },
+        {
+            "text": "Cesario keliatannya bingung. Mungkin sekarang saatnya buat nunjukkin."
+        },
+        {
+            "text": "Aku taruh surat itu di saku dada, bingung harus diapakan. Mungkin semua ini untuk momen ini——"
+        },
+        {
+            "text": "Cesario, aku mau kamu lihat surat ini. Mungkin ini jawaban yang kamu cari."
+        },
+        {
+            "text": "Cesario, aku mau kamu lihat surat ini. Mungkin ini jawaban yang kamu cari."
+        },
+        {
+            "name": "Cesario",
+            "text": "——!? Ini...!!"
+        },
+        {
+            "text": "Ini undangan. Untuk——",
+            "choice_data_list": [
+                "The 『American Oaks』"
+            ]
+        },
+        {
+            "text": "Ini undangan. Untuk——",
+            "choice_data_list": [
+                "The 『American Oaks』"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "『American Oaks』... Beneran... untukku..."
+        },
+        {
+            "text": "『American Oaks』. Sebuah G1 yang diadain di pesisir barat Amerika. Itu balapan besar tempat Uma Musume Tiara kelas Classic dari seluruh dunia berkumpul."
+        },
+        {
+            "text": "Ini nggak terduga, tapi tetep sebuah kehormatan besar. Kayaknya lari Cesario di 『Oaks』 udah narik perhatian asosiasi balap Amerika."
+        },
+        {
+            "text": "Sampai sekarang, banyak Uma Musume dari negara ini yang menantang balapan G1 luar negeri. Seeking the Pearl yang pertama kali menang G1 Eropa, tapi..."
+        },
+        {
+            "text": "Sejauh ini, belum ada Uma Musume yang berhasil menang G1 di tanah Amerika. Itu sesuatu yang bahkan \"Sang Kaisar\" Symboli Rudolf aja nggak bisa capai."
+        },
+        {
+            "name": "Cesario",
+            "text": "Ini bener-bener... sebuah kehormatan, ya? Kalau aku bisa menang, itu akan jadi pencapaian yang sebanding sama Kraft. Tapi——"
+        },
+        {
+            "name": "Cesario",
+            "text": "Kalau ingat, di 『American Oaks』 tahun lalu... itu balapan yang nggak bisa dimenangin sama salah satu Uma Musume terbaik negara kita, kan?"
+        },
+        {
+            "name": "Cesario",
+            "text": "Bahkan Trainer 『Genius』 dan Uma Musume-nya aja cuma dapet posisi 2 di balapan itu..."
+        },
+        {
+            "text": "Iya, bener..."
+        },
+        {
+            "text": "Iya, bener..."
+        },
+        {
+            "text": "Apa yang Cesario bilang bener. Itu balapan yang bahkan Duo Terkuat aja nggak bisa menangin. Apa dia punya kekuatan dan kemauan buat ngalahin mereka...?"
+        },
+        {
+            "text": "Aku pikir——ini layak buat dicoba."
+        },
+        {
+            "text": "Aku pikir——ini layak buat dicoba."
+        },
+        {
+            "name": "Cesario",
+            "text": "Layak... Tapi apa aku bener-bener bisa...?"
+        },
+        {
+            "text": "Kamu nggak sendirian. Kita semua ada buat kamu."
+        },
+        {
+            "text": "Kamu nggak sendirian. Kita semua ada buat kamu."
+        },
+        {
+            "name": "Cesario",
+            "text": "Trainer..."
+        },
+        {
+            "text": "Aku yakin sama kata-kataku. Ini nggak bakal cuma jadi pertarungan Cesario doang, ini pertarungan Tim <Ascella>."
+        },
+        {
+            "text": "Mana mungkin aku biarin dia hadapin ini sendirian. ——Ini sesuatu yang harus kita hadapi bareng-bareng."
+        },
+        {
+            "name": "Cesario",
+            "text": "Terima kasih banyak, Trainer. Kalau kamu sampe bilang segitunya, ya pasti dong!"
+        },
+        {
+            "text": "Walaupun awalnya ragu, Cesario mutusin buat terima undangannya. Dan begitu musim semi berakhir. Dan, seolah-olah mendukung tekad itu——"
+        },
+        {
+            "name": "Announcer",
+            "text": "Apa ini!? Sweep Tosho! Sweep Tosho! Itu Sweep Tosho!!"
+        },
+        {
+            "name": "Announcer",
+            "text": "Padahal dia peringkat favorit ke-11, dia menang 『Takarazuka Kinen』!! Uma Musume Tiara emang kuat!!!!!!!!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Uuuuu~, Legerica Paprika, Radimarihoo!!!!!!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Gimana tuh!? Liat tuh kan!? Nggak ada yang mustahil buat aku♪"
+        },
+        {
+            "text": "Keajaiban terbesar tercipta. Untuk pertama kalinya dalam 39 tahun, seorang Uma Musume dari putaran Tiara menang 『Takarazuka Kinen』. Tapi ini bukan kemenangan biasa."
+        },
+        {
+            "text": "Ini kemenangan yang mengejutkan di mana dia ngalahin juara tahun lalu, Tap Dance City, dan pemenang Triple Crown Senior Musim Gugur, Zenno Rob Roy."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Sweep-san berhasil!!!"
+        },
+        {
+            "name": "Cesario",
+            "text": "Nggak mungkin..."
+        },
+        {
+            "name": "Cesario",
+            "text": "(Lawan sekuat itu... dia menang... Semua orang di putaran Tiara lagi pada ngehasilin keajaiban terus... Kalo gitu... aku juga!)"
+        },
+        {
+            "name": "Cesario",
+            "text": "Trainer, aku nggak bakal ragu lagi. Aku percaya aku juga bisa, aku bakal terima tantangan itu."
+        },
+        {
+            "name": "Cesario",
+            "text": "Kemenangan G1 Amerika yang belum pernah terjadi sebelumnya! Di 『American Oaks』!!"
+        },
+        {
+            "text": "Iya, ayo kita wujudkan! Sebuah pencapaian besar buat Jepang."
+        },
+        {
+            "text": "Iya, ayo kita wujudkan! Sebuah pencapaian besar buat Jepang."
+        },
+        {
+            "name": "Cesario",
+            "text": "——Iya!!"
+        },
+        {
+            "text": "Hati kami tertuju ke Amerika. Pertarungan terberat Cesario akan dimulai, membidik prestasi bersejarah."
+        }
+    ]
+}

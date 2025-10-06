@@ -1,0 +1,185 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Narator OP",
+            "text": "Uma Musume TV!"
+        },
+        {
+            "name": "MC",
+            "text": "Tamu hari ini adalah-! Pemenang 『Oka Sho』\ndan 『NHK Mile C』 musim semi ini,\nperaih double crown unik pertama dalam sejarah――"
+        },
+        {
+            "name": "MC",
+            "text": "Rhein Kraft-san! Dan timnya,\nTrainer Team <Ascella>! Terima kasih sudah hadir!"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Trainer-san, Trainer-san!\nKita di TV! TV nasional!"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Penampilanku oke kan!?\nWajah TV-ku kelihatan bagus kan～?"
+        },
+        {
+            "text": "W-wajah kayak gimana itu!? Santai dulu……!\nHari ini coba ngomong yang sopan ya.",
+            "choice_data_list": [
+                "",
+                ""
+            ]
+        },
+        {
+            "text": "Di depan Rhein Kraft, aku berusaha tenang.\nTapi sebenarnya aku grogi banget tampil di acara gede\nsetelah sekian lama!"
+        },
+        {
+            "text": "Timku, Team <Ascella>, diwarisin dari ayahku yang dulu\ntrainer terkenal. Tim ini dibangun ulang dari nol,\ndimulai dari King Halo, putri Uma Musume legendaris, tapi――",
+            "choice_data_list": [
+                "",
+                ""
+            ]
+        },
+        {
+            "text": "Awalnya semua gak mulus dan kita sempet susah……\nSuatu saat, kita bahkan gak punya jumlah anggota minimum\nyang dibutuhin biar tim gak bubar……"
+        },
+        {
+            "text": "Tapi sekarang, kita punya Rhein Kraft yang baru aja\nmenang dua balapan besar. Kita juga punya Cesario,\ncalon kuat untuk 『Oaks』 yang bakal datang"
+        },
+        {
+            "text": "Dengan dua bintang baru Uma Musume yang lagi naik daun,\ntim kita tiba-tiba berubah dari catatan kaki\njadi penantang serius.",
+            "choice_data_list": [
+                "",
+                ""
+            ]
+        },
+        {
+            "name": "MC",
+            "text": "Rhein Kraft-san, mari mulai dari kemenangan G1 pertamamu.\nGimana rasanya 『Oka Sho』?"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "『Oka Sho』!\nWaktu itu…… dari langkah pertama, rasanya spesial banget!"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Akhirnya aku bisa berdiri di panggung yang udah lama kukagumi!\nTrek penuh bunga sakura! Saat lari, rasanya kayak……"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Aku lari bareng sejarah, bareng senpai Tiara.\nSambil lihat bunga sakura beterbangan, hatiku penuh sukacita!"
+        },
+        {
+            "name": "MC",
+            "text": "Jadi itu yang kamu rasain.\nTrainer-san, dari sisi balapannya sendiri gimana?"
+        },
+        {
+            "text": "Harus mulai dari mana……\nDengan posisi start yang bagus, kurasa dia bisa lari hampir sempurna."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Benar banget!\nTrainer-san ngajar banyak hal sebelum balapan!"
+        },
+        {
+            "name": "MC",
+            "text": "Oh gitu. Sebelumnya kamu sering lari dari tengah-tengah pelari,\ntapi kali ini strategi agresif ofensif, itu instruksi Trainer-san kan?"
+        },
+        {
+            "name": "MC",
+            "text": "Lanjut ke 『NHK Mile C』 beberapa hari lalu……"
+        },
+        {
+            "name": "MC",
+            "text": "Balapan itu, Cesario yang posisi 2 di 『Oka Sho』 dan Air Messiah,\nrival dari tim Trainer \"Jenius\", nggak ikut."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Iya……! Tapi Cesario dan dia bukan satu-satunya rivalku.\nDaring Heart-san dan Uma Musume lain yang nggak kejar Tiara juga ada!"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Jaraknya sama kayak 『Oka Sho』 yang menang. Tapi aku nggak boleh lengah.\nIni balapan Mile, semua gadis kejar posisi teratas, nggak peduli Tiara atau Triple Crown."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Itu sesuatu yang nggak bisa kuberikan ke orang lain!\nMeski dia kejar 『Oaks』, aku janji sama Cesario aku bakal menang."
+        },
+        {
+            "name": "MC",
+            "text": "Begitu…… Rhein Kraft menang di 『NHK Mile C』,\ndan Cesario menang di 『Oaks』……"
+        },
+        {
+            "name": "MC",
+            "text": "Trainer-san, itu bagian dari strategi awal Team <Ascella>?"
+        },
+        {
+            "text": "Ya. Kita mikir matang-matang, tapi……\nmengingat bakat Rhein Kraft dan Cesario,\nbalapan ini yang terbaik buat mereka."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Aku bisa dapetin double crown ini!\nMakanya, 『Oaks』 berikutnya――"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Aku serahin ke rekan timku……\nGak, sahabatku, Cesario!"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Kalau begitu, Cesario! Aku percayain padamu.\nKita kejar masa depan di mana Uma Musume Tiara lebih diakui!"
+        },
+        {
+            "name": "Cesario",
+            "text": "Iya――Kraft.\nUntuk masa depan yang kita impikan, tanpa gagal――!"
+        },
+        {
+            "name": "Kraft & Cesario",
+            "text": "Baton Touch!"
+        },
+        {
+            "name": "Cesario",
+            "text": "Trainer, tanganku masih bergetar.\nPerasaan dari tos tadi, sampai sekarang hangatnya masih terasa."
+        },
+        {
+            "name": "Cesario",
+            "text": "Apa yang nempel di telapak tanganku, penuh emosi……"
+        },
+        {
+            "name": "Cesario",
+            "text": "Pertama, \"Rasa Pencapaian\". Kebanggaan dapetin double crown unik. Terus――"
+        },
+        {
+            "name": "Cesario",
+            "text": "――\"Mimpi yang Belum Tercapai\". Masa depan Tiara yang kita bangun bareng. Dan――"
+        },
+        {
+            "name": "Cesario",
+            "text": "Meski samar…… \"Penyesalan\" yang tak tergoyahkan."
+        },
+        {
+            "name": "Cesario",
+            "text": "Sebagai orang yang kagum sama Tiara kayak Kraft,\naku ngerti gimana rasanya milih 『NHK Mile C』 daripada 『Oaks』"
+        },
+        {
+            "name": "Cesario",
+            "text": "Tapi justru karena itu, aku warisin perasaan Kraft terhadap 『Oaks』…… tanpa ragu!"
+        },
+        {
+            "text": "Iya, aku juga…… ngerasain hal yang sama.\nDemi Kraft, kita gak boleh kalah.",
+            "choice_data_list": [
+                "",
+                ""
+            ]
+        },
+        {
+            "text": "Aku sadar banget betapa emosional dan pentingnya\n'estafet' yang Kraft kasih ke kita."
+        },
+        {
+            "text": "\"Ini keputusan yang benar\". Kita bakal buktiin.\nTeam <Ascella> pasti bakal ambil kedua Tiara musim semi.",
+            "choice_data_list": [
+                "Ayo kita berusaha, Cesario!"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "Ya――kita bakal menang. 2400m jarak terbaikku.\nItu satu-satunya senjata yang kubawa sejak lahir."
+        }
+    ]
+}

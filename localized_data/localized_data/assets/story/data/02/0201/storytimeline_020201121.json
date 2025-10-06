@@ -1,0 +1,231 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Trainer-san. ……maaf sudah lama membuatmu menunggu.\nSoal balapan berikutnya――",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Tujuanku adalah meraih posisi pertama di 『NHK Mile Cup』!\nAku tunggu bimbingannya!!",
+            "name": "Rhein Kraft",
+            "choice_data_list": [
+                "Kraft……! Begitu rupanya, kamu sudah putuskan!",
+                "Kraft……! Begitu rupanya, kamu sudah putuskan!"
+            ]
+        },
+        {
+            "text": "Iya. Aku pikir ada sesuatu yang bisa kutunjukkan,\nsesuatu yang bisa kutinggalkan dengan kedua kakiku ini.",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Karena Trainer-san dan semua orang percaya pada kecepatanku……\naku pasti akan menangkan gelar 『Yang Tercepat di Generasiku』!",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Iya. ……『Uma Musume yang Kuat itu Memang Kuat』.\nKamu akan membuktikannya dengan caramu sendiri,\ndengan cara yang hanya bisa kamu lakukan!",
+            "name": "<username>"
+        },
+        {
+            "text": "Iya. ……『Uma Musume yang Kuat itu Memang Kuat』.\nKamu akan membuktikannya dengan caramu sendiri,\ndengan cara yang hanya bisa kamu lakukan!",
+            "name": "<username>"
+        },
+        {
+            "text": "……Begitu rupanya. Jadi kamu juga sudah putuskan.\n……Oke, sekarang kita sudah putuskan, waktunya mepet!",
+            "name": "King Halo"
+        },
+        {
+            "text": "Sesuatu yang belum pernah ada yang capai sebelumnya.\nMeraih double crown yang tidak biasa dari 『Oka Sho』 dan 『NHK Mile C』.\nKita harus pastikan untuk latihan dan persiapan dengan benar!",
+            "name": "King Halo",
+            "choice_data_list": [
+                "Benar!",
+                "Benar!"
+            ]
+        },
+        {
+            "text": "Dan dengan itu――!"
+        },
+        {
+            "text": "Wah~, jadi kita kemah latihan di sini, ya!?\nUfufu, dikelilingi hutan begini,\naku bisa tidur nyeeenyak banget~.",
+            "name": "Uma Musume Berambut Antena"
+        },
+        {
+            "text": "Bodoh! Kamu ini bodoh! Kita ke sini untuk kemah latihan, tahu!?\nApalagi buat mereka yang di kelas Classic!\nMereka harus betul-betul latihan keras!",
+            "name": "Uma Musume Kepang Satu"
+        },
+        {
+            "text": "Trainer-san, King-san, terima kasih atas sarannya yang bagus!\nAku akan menaruh barang dan ganti baju dulu, ya?\nAyo kita mulai segera!",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Maka, dikelilingi hutan, gunung, dan alam,\nhari-hari latihan intensif pun dimulai……!"
+        },
+        {
+            "text": "Kraft! Ada tanjakan curam di dekat sini.\nMungkin tempat bagus untuk latihan dash.\nMau cek nanti?",
+            "name": "<username>"
+        },
+        {
+            "text": "Kraft! Ada tanjakan curam di dekat sini.\nMungkin tempat bagus untuk latihan dash.\nMau cek nanti?",
+            "name": "<username>"
+        },
+        {
+            "text": "Waaah……! Terima kasih banyak!\nTolong tambahkan ke menu latihan!",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Dan, Cesario. Untuk persiapan 『Oaks』\nkita akan fokus pada latihan stamina.",
+            "name": "<username>"
+        },
+        {
+            "text": "Dan, Cesario. Untuk persiapan 『Oaks』\nkita akan fokus pada latihan stamina.",
+            "name": "<username>"
+        },
+        {
+            "text": "Aku paham.\nDengan senang hati, terima kasih atas perhatiannya.",
+            "name": "Cesario"
+        },
+        {
+            "text": "Uhii-, kru Classic berat banget……!!\nTapi, lihat mereka kerja keras di dekat sini, jadi ikut termotivasi!",
+            "name": "Uma Musume Kepang Satu"
+        },
+        {
+            "text": "Yah, bikin mikir harus kerja keras juga sih……\nNnnnnnaa~~, kayaknya kita harus lari satu putaran lagi, ya!?",
+            "name": "Uma Musume Berambut Antena"
+        },
+        {
+            "text": "Fufuu……bagus kan?\nKayaknya kemah latihan ini akan berfaedah!",
+            "name": "King Halo"
+        },
+        {
+            "text": "Kami kerja keras dari pagi buta sampai matahari terbenam.\nKelas Classic berusaha keras mempersiapkan\nacara sekali seumur hidup ini, agar tidak menyesal."
+        },
+        {
+            "text": "Dan kemudian, setelah semua latihan keras itu――"
+        },
+        {
+            "text": "Fuuuu……api untuk panggangan ini sudah menyala. Sudah siap\ndipakai, jadi silakan atur sayurannya sesukamu.",
+            "name": "Cesario"
+        },
+        {
+            "text": "Hebat~……Kamu memang bisa diandalkan dan\nefisien saat mode serius, Cesario……!",
+            "name": "Uma Musume Kepang Satu"
+        },
+        {
+            "text": "Iya, iya… tapi, Cesario, kamu juga makan yang bener kan?\nKamu nggak harus terus ngurusin kita semua~.",
+            "name": "Uma Musume Berambut Antena"
+        },
+        {
+            "text": "Mereka benar, Cesario-san.\nNutrisi cukup penting untuk membangun tubuh!",
+            "name": "King Halo"
+        },
+        {
+            "text": "Benar sekali! Wortel besar yang dibungkus foil dan\nkita panggang itu sudah hampir matang kan? Aku ambil!",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Fufu, terima kasih. Tapi, biar aku yang potong, mau dibagi?\nKraft, kamu mungkin bakal kepanasan soalnya.",
+            "name": "Cesario"
+        },
+        {
+            "text": "Ehh!? Jangan-jangan aku diperlakukan kayak anak kecil!? Aduh-……!",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Heey, semuanya! Aku beli banyak apel untuk pencuci mulut.\nSekarang waktunya aku mulai mengupas?",
+            "name": "<username>"
+        },
+        {
+            "text": "Heey, semuanya! Aku beli banyak apel untuk pencuci mulut.\nSekarang waktunya aku mulai mengupas?",
+            "name": "<username>"
+        },
+        {
+            "text": "Oh, baik sekali!",
+            "name": "King Halo"
+        },
+        {
+            "text": "Trainer…… kamu bakal baik-baik saja?\nBahaya kalau sampai terpotong, mau aku saja yang kupas?",
+            "name": "Cesario",
+            "choice_data_list": [
+                "Hah? Sekarang aku juga diperlakukan kayak anak kecil!?",
+                "Hah? Sekarang aku juga diperlakukan kayak anak kecil!?"
+            ]
+        },
+        {
+            "text": "Ahahaha!\nTrainer-san, sekarang sama kayak aku, ya?",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Tawa ceria tim memenuhi udara.\nSetelah kelelahan dengan latihan intensif,\nsaatnya mengisi kembali nutrisi yang hilang――"
+        },
+        {
+            "text": "Dan besok, mereka akan melanjutkan latihan intensif mereka,\nmengejar kemenangan. Dan begitulah mereka\nmenghabiskan sisa kemah latihan――"
+        },
+        {
+            "text": "Haaa, hari ini juga capek banget~……!\nKayaknya kemah latihan sudah mau selesai, ya?",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Iya……tapi aku merasa sudah membuat kemajuan baik\nmenuju 『Oaks』. Stamina ku rasanya lumayan meningkat.",
+            "name": "Cesario"
+        },
+        {
+            "text": "Aku juga! Karena aku berusaha meningkatkan kekuatan dash,\nstart ku terasa lebih lancar dan lebih mudah memimpin.",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Iya――Ini bagus. Aku merasakan perbedaannya.\nAku rasa aku sudah siap, untuk menang di 『NHK Mile C』!",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "……Aku ingin tahu apakah ada yang memperhatikanku.\nApakah aku bisa…… meninggalkan sesuatu.\n……Aku ingin meninggalkan sesuatu.",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "――Hei, kamu tahu kan soal 『Rasanya seperti takdir』?",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Iya……apa itu sesuatu yang unik untuk Uma Musume?\nTapi, aku ngerti maksudmu. Susah diungkapkan……\nseperti perasaanku terhadap Spe-san.",
+            "name": "Cesario"
+        },
+        {
+            "text": "Benar! Seperti ada kekuatan misterius yang menarikmu……\natau menuntunmu. Seperti saat bersama mereka,\nada cahaya hangat di dadamu.",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Menjadi 『Sesuatu』 itu untuk seseorang. Itu yang kuinginkan juga.",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Buat seseorang merasakan takdir seperti itu…… begitu.\nKamu benar, mimpi yang selalu kamu bicarakan itu agak mirip.",
+            "name": "Cesario"
+        },
+        {
+            "text": "Iya! Jika larianku bisa bikin seseorang merasakan takdir……\njika cita-citaku menjadi penghubung untuk seseorang, itu bagus.",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "……Cesario.\nAku akan menang di 『NHK Mile C』.",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "……Iya.\nPasti ada yang akan memperhatikanmu.",
+            "name": "Cesario"
+        },
+        {
+            "text": "……Oke, besok pagi-pagi jadi kita harus tidur.\nAyo istirahat yang cukup dan kerja keras lagi besok, Kraft.",
+            "name": "Cesario"
+        },
+        {
+            "text": "Iya. Selamat malam, Cesario!",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "(Aku akan terus berusaha, dan berlari.\nAgar bisa meninggalkan sesuatu.\n……Aku pasti akan meninggalkan sesuatu.)",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "(Warisan ku, tanpa keraguan.)",
+            "name": "Rhein Kraft"
+        }
+    ]
+}

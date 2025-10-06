@@ -1,0 +1,300 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Rhein Kraft",
+            "text": "Selamat datang kembali, Cesario! \nSekarang, waktunya Training Camp Musim Panas!"
+        },
+        {
+            "name": "Cesario",
+            "text": "Iya……balapan emang penting, tapi aku juga harus maksimal di sini. \nSoalnya ini acara penting."
+        },
+        {
+            "text": "――Ini adalah kepulangannya yang penuh kemenangan dari Amerika. Dia \nberhasil melewati berbagai wawancara, dan sekarang tim <Ascella> \nmemulai Training Camp Musim Panas."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Waaai, ayo kita berenang!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Kalian berdua, jangan terlalu semangat. \nKita ke sini bukan untuk main-main, lho?"
+        },
+        {
+            "text": "Santai aja. Cesario juga baru aja pulang dari ekspedisi luar negeri."
+        },
+        {
+            "name": "King Halo",
+            "text": "Kamu terlalu memanjakan mereka. Tapi……bener juga. Cesario-san, \nsalah satu tema utama musim panas ini adalah menghilangkan rasa lelahmu."
+        },
+        {
+            "name": "Cesario",
+            "text": "Iya, Trainer, King-san. \nMakasih banyak."
+        },
+        {
+            "text": "Obrolan di pantai ini bikin suasana jadi santai. \nTapi, tiba-tiba――"
+        },
+        {
+            "name": "Daring Heart",
+            "text": "Hai, Kraft! Cesario!"
+        },
+        {
+            "name": "Daring Heart",
+            "text": "Cesario, selamat ya menang 『American Oaks』! \nAku senang kamu bisa ikut training camp."
+        },
+        {
+            "name": "Cesario",
+            "text": "Ah……Heart-san. \nMakasih banyak."
+        },
+        {
+            "name": "Air Messiah",
+            "text": "Cesario-san, aku juga mau kasih selamat."
+        },
+        {
+            "name": "Air Messiah",
+            "text": "Selamat. Sekali lagi, kamu ingatkan aku. \nKalau aku pernah lari bersama Uma Musume yang luar biasa."
+        },
+        {
+            "name": "Cesario",
+            "text": "Makasih, Air Messiah-san."
+        },
+        {
+            "text": "Bahkan rivalnya datang buat kasih selamat. Interaksi hangat \nkayak gini juga jadi bagian dari training camp……"
+        },
+        {
+            "name": "Daring Heart",
+            "text": "Hm～hmm, aku mungkin sering kalah di balapan, tapi \ndi pantai ini, kayaknya aku bisa balas dendam!"
+        },
+        {
+            "name": "Daring Heart",
+            "text": "Ayo kita adu! Oke, ini battle dance! Hari ini hari di mana \naku dan Messiah akhirnya ngalahin Tim <Ascella>!"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Battle dance! Seru nih! \nKalau gitu, Trainer-san, kamu jadi jurinya!"
+        },
+        {
+            "text": "……ini sebenernya bukan interaksi yang hangat \nsih. Bahkan dalam hal bermain, keempat Uma \nMusume ini penuh dengan semangat kompetitif――"
+        },
+        {
+            "name": "Daring Heart",
+            "text": "Hey! Hey! Ayo kalian bertiga, lebih semangat! \nKraft, Cesario, kayaknya kalian masih malu-malu!"
+        },
+        {
+            "name": "Daring Heart",
+            "text": "Ini kesempatanku! Aku bisa lanjut terus! \nTrainer, berapa skorku?",
+            "choice_data_list": [
+                "Tim Heart & Messiah, +3!"
+            ]
+        },
+        {
+            "name": "Daring Heart",
+            "text": "Makasih♪ Kita bakal terus lanjut pose-nya! Cesario, padahal \nkamu baru pulang dari Amerika sebagai pahlawan, cuma segini?"
+        },
+        {
+            "name": "Cesario",
+            "text": "I-ini dan itu beda hal…… Tapi…… \nHmph! Kira-kira kayak gini?"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Wawaa, aku harus lebih usaha! \nPose, pose……jadi kayak, gini!",
+            "choice_data_list": [
+                "Tim <Ascella>, +1"
+            ]
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Eeeeh, cuma 1 point～? Trainer-san, kamu terlalu keras～"
+        },
+        {
+            "name": "Daring Heart",
+            "text": "Iya, iya, jurinya harus adil. Messiah, ini \nkesempatan kita! Kumpulin poin! Sekarang, tutup dengan keren!"
+        },
+        {
+            "name": "Air Messiah",
+            "text": "K-kayak gini……? \nAku lebih jago dance berkelompok, tapi pose……",
+            "choice_data_list": [
+                "Tim Heart & Messiah, nol poin"
+            ]
+        },
+        {
+            "name": "Daring Heart",
+            "text": "Aduh! Kalau gitu, aku yang akan! \nYaaah!",
+            "choice_data_list": [
+                "Tim Heart & Messiah, +3"
+            ]
+        },
+        {
+            "text": "Battle dance-nya malah jadi pertunjukan satu orang Daring Heart. \nKayak gini, dia mungkin bakal bawa timnya menang……"
+        },
+        {
+            "name": "King Halo",
+            "text": "Hmmmm, jadi kamu suka yang kayak gini ya?"
+        },
+        {
+            "text": "Eh, maksudnya apa?"
+        },
+        {
+            "name": "King Halo",
+            "text": "Maksudku 'maksudnya apa?' Kamu dari tadi nonton. \nHmph, kayak gini, wajar aja kalau Tim <Ascella> kalah."
+        },
+        {
+            "name": "King Halo",
+            "text": "Baiklah. Aku akan tunjukkin siapa \nyang paling bersinar!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Ayo, semuanya! Sekarang, minggir!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Sekarang liat tarian kelas satu King!"
+        },
+        {
+            "name": "Daring Heart",
+            "text": "Eh……nggak mungkin!? Si pelatih ikut nimbrung juga!?"
+        },
+        {
+            "name": "King Halo",
+            "text": "Aku bukan pelatih. Simbol Tim <Ascella>, yang senior. \nTapi, itu cuma tampilan luarnya!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Namaku King! Seorang juara yang lebih kuat dari siapapun! Dengan \nmasa depan cerah, aku Uma Musume yang akan bernyanyi dan menari selamanya!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Oke, Trainer, berapa skorku? \nJangan cuma melongo, kasih nilai yang bener!",
+            "choice_data_list": [
+                "Tim <Ascella>, +5……"
+            ]
+        },
+        {
+            "name": "Daring Heart",
+            "text": "Tunggu dulu!? Bukannya kamu udah diatur-atur? \nDan tiga orang itu nggak adil…… Tapi kami nggak bakal kalah!"
+        },
+        {
+            "text": "Dan begitu, kompetisi dance berlanjut dengan King Halo. Sampai \nakhir, pertarungannya sengit dan semua orang keliatan senang."
+        },
+        {
+            "text": "Lalu, saat malam hari――"
+        },
+        {
+            "name": "Daring Heart",
+            "text": "Jadi, semuanya. Rencana musim gugur nanti apa? \nUdah diputusin belum?"
+        },
+        {
+            "text": "Sambil menikmati barbekyu, \ntopiknya sampai ke masa depan."
+        },
+        {
+            "name": "Air Messiah",
+            "text": "Untuk aku――Nggak usah ditanya, 『Shuuka Sho』. \nIni kesempatan terakhir buat wujudin impianku."
+        },
+        {
+            "name": "Daring Heart",
+            "text": "Begitu ya, kayaknya aku juga. \nKamu gimana, Kraft?"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Tentu aja, aku juga mau ikut 『Shuuka Sho』! \nKamu juga kan, Cesario?"
+        },
+        {
+            "name": "Cesario",
+            "text": "Kalau aku……"
+        },
+        {
+            "text": "Cesario melirik ke arahku. Dengan kemenangannya di \n『American Oaks』, jalan baru terbuka lebar untuknya."
+        },
+        {
+            "text": "Cesario mungkin akan lari di G1 Amerika lainnya."
+        },
+        {
+            "text": "Cesario mungkin akan lari di G1 Amerika lainnya."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Eh, G1 Amerika……"
+        },
+        {
+            "name": "King Halo",
+            "text": "Jadi gini, di bulan Oktober, ada festival balapan \ndi mana banyak G1 diadakan berdekatan. Dia \nditanya apa mau ikut salah satunya."
+        },
+        {
+            "text": "Kita mau pertimbangkan serius, sebagai tim."
+        },
+        {
+            "text": "Kita mau pertimbangkan serius, sebagai tim."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Oh gitu ya. Festival Balapan Amerika…… \nKalau jadi, pasti bakal rame lagi!"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Tapi kamu juga mau ikut 『Shuuka Sho』 kan? \nLumayan langka nih nemu dilema kayak gini!"
+        },
+        {
+            "name": "Cesario",
+            "text": "Iya……bener sih."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Cesario, apa……isi hatimu yang sebenernya? \nAmerika? Atau 『Shuuka Sho』?"
+        },
+        {
+            "name": "Cesario",
+            "text": "Jujur……aku pengen ikut keduanya. \nDan aku――pengen menang di keduanya. Kayaknya aku bisa menang."
+        },
+        {
+            "name": "Cesario",
+            "text": "Sekarang, rasanya apapun bisa ku gapai."
+        },
+        {
+            "name": "Cesario",
+            "text": "Di hari itu, aku menang 『American Oaks』. \nAku mencapai sesuatu yang bisa nandingin Kraft. Dan sekarang――"
+        },
+        {
+            "name": "Penyelenggara Acara",
+            "text": "Hari ini, kita kedatangan Super Star \n『American Oaks』 Cesario!!"
+        },
+        {
+            "name": "Anak-anak",
+            "text": "Cesario! \nAjarin kami! Ajarin kami cara lari!"
+        },
+        {
+            "name": "Cesario",
+            "text": "Pilihan yang tersedia untukku udah meluas. Bahwa \nada yang minta tolong padaku……dan aku sampai \npada titik di mana aku bisa yang membimbing mereka."
+        },
+        {
+            "name": "Daring Heart",
+            "text": "Wah... Cesario, kamu jadi agak menakutkan. \nApa kamu dewi?"
+        },
+        {
+            "text": "Bener sih, Cesario kayaknya dapet wawasan yang besar. \nSetelah 『American Oaks』 dia mungkin udah tumbuh secara mental."
+        },
+        {
+            "name": "Cesario",
+            "text": "Haa, haa, haa, haa……"
+        },
+        {
+            "name": "Cesario",
+            "text": "(Rasanya……aku bisa melakukan apapun! \nTapi justru karena itu, aku nggak tau harus raih apa berikutnya)"
+        },
+        {
+            "name": "Cesario",
+            "text": "(Ini masalah yang mewah sih. Aku agak takut. \nTapi untuk sekarang, kita perlahan bergerak menuju musim gugur yang tak terduga……!)"
+        },
+        {
+            "name": "Cesario",
+            "text": "Haa, haa, haa, haa……!"
+        },
+        {
+            "name": "Cesario",
+            "text": "――!?"
+        },
+        {
+            "name": "Cesario",
+            "text": "……Eh? ……Aduh."
+        }
+    ]
+}

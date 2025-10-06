@@ -1,0 +1,315 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "――Oke deh. Kayaknya semua barang udah keload semua.",
+      "name": "<username>",
+      "choice_data_list": [
+        "King, coba cek lagi ya?",
+        "King, coba cek lagi ya?"
+      ]
+    },
+    {
+      "text": "Baiklah. ……Oke, Tim <Ascella>! Semua udah kumpul kan?\nKita cek terakhir sebelum berangkat!",
+      "name": "King Halo"
+    },
+    {
+      "text": "Okaaa~ay, Anggota Tim #1 hadir~.\nSemua barang aku udah dimasukin~.",
+      "name": "Gadis kuda A"
+    },
+    {
+      "text": "Aku juga udah kelar! Oh iya, aku bawa banyak camilan,\nnanti kita makan di jalan ya!",
+      "name": "Gadis kuda B"
+    },
+    {
+      "text": "Pantes aja bawaanmu banyak banget…… Hadeh.\n……Terus, gimana dengan dua anggota baru? Udah siap semua?",
+      "name": "King Halo"
+    },
+    {
+      "text": "Iya. Cesario siap, nggak ada masalah.",
+      "name": "Cesario"
+    },
+    {
+      "text": "Rhein Kraft juga! A-aku……umm,\nkayaknya sih nggak ada yang ketinggalan.",
+      "name": "Rhein Kraft"
+    },
+    {
+      "text": "K-kayaknya nggak ada? Kalau nanti ada yang ketinggalan,\njangan sungkan bilang aja ya……?",
+      "name": "<username>"
+    },
+    {
+      "text": "Betul. Soalnya――Kraft.\nPerjalanan kali ini emang buat kamu.",
+      "name": "King Halo"
+    },
+    {
+      "text": "Oke deh, kita berangkat sekarang! Semua, masuk mobil!",
+      "name": "<username>"
+    },
+    {
+      "text": "Dan kita meluncur, ke 『Hanshin JF』-nya Rhein Kraft!",
+      "name": "<username>"
+    },
+    {
+      "text": "Uoooouu!!",
+      "name": "Team Members"
+    },
+    {
+      "text": "Aku nggak sabar! G1 pertamaku……\nDengan dukungan semua orang, aku pasti bakal kasih yang terbaik!",
+      "name": "Rhein Kraft"
+    },
+    {
+      "text": "Terus, yang lebih penting, kamu beneran sehat kan?\nTidurmu cukup nggak kemarin? Atau itu kantong mata di bawah matamu\ncuma perasaan aku aja?",
+      "name": "King Halo",
+      "choice_data_list": [
+        "A-aku baik-baik aja! Tidurnya nyenyak kok!",
+        "A-aku baik-baik aja! Tidurnya nyenyak kok!"
+      ]
+    },
+    {
+      "text": "……Kayaknya sih kamu tegang sampe susah tidur.\nAduh, emang keras kepala banget!",
+      "name": "King Halo"
+    },
+    {
+      "text": "Pokoknya, ke penginapan deket arena Hanshin butuh sekitar 8 jam,\ntermasuk istirahat! Pastikan nyetirnya bener ya.",
+      "name": "King Halo"
+    },
+    {
+      "text": "Kalau kamu mulai ngantuk, aku bakal duduk di sampingmu\nbuat cubit paha biar melek.",
+      "name": "King Halo",
+      "choice_data_list": [
+        "Haha……jangan keras-keras ya……"
+      ]
+    },
+    {
+      "text": "Eh, kayaknya udah waktunya pindah ke jalur kanan.",
+      "name": "King Halo",
+      "choice_data_list": [
+        "Oh! Makasih, King",
+        "Oh! Makasih, King"
+      ]
+    },
+    {
+      "text": "Iya iya, tetap fokus. ……Tapi coba liat,\nsemua orang udah pada tidur.\nKayaknya mereka juga kurang tidur semalam.",
+      "name": "King Halo",
+      "choice_data_list": [
+        "Kalau kamu ngantuk tidur aja",
+        "Kalau kamu ngantuk tidur aja"
+      ]
+    },
+    {
+      "text": "Aku melek buat jagain kamu, dasar.\nIni tanggung jawab besar lho.",
+      "name": "King Halo"
+    },
+    {
+      "text": "……Bener juga ya, sekarang anggota baru kita banyak banget.\nPernah kebayang nggak, mobil ini bisa penuh secepet ini?",
+      "name": "King Halo"
+    },
+    {
+      "text": "Kayaknya sih nggak. ……Waktu ayahku masih jadi Trainer,\nmobil ini aja nggak cukup lho――",
+      "name": "<username>"
+    },
+    {
+      "text": "<username>. Mulai sekarang,\naku serahin peran Trainer Tim <Ascella> ke kamu.\n……Ngerti kan? Kerjain baik-baik.",
+      "name": "Father"
+    },
+    {
+      "text": "Sejak aku ambil alih tim, jumlah anggota malah berkurang ya?\nKalau dipikir lagi, dulu pernah juga kan cuma tinggal kita berdua……",
+      "name": "<username>"
+    },
+    {
+      "text": "Iya juga ya. ……Agak nostalgia.\nDan sekarang timnya udah segede ini――",
+      "name": "King Halo"
+    },
+    {
+      "text": "Apalagi, dua rookie berbakat yang bisa ikut balap G1 juga gabung.\n……Tim kita udah jadi keren banget, setuju kan?",
+      "name": "King Halo",
+      "choice_data_list": [
+        "Setuju……!",
+        "Setuju……!"
+      ]
+    },
+    {
+      "text": "Rhein Kraft dan Cesario bener-bener bikin Tim <Ascella> hidup lagi.\nAku masih inget jelas pertama kali ketemu mereka――",
+      "name": "<username>"
+    },
+    {
+      "text": "Sekarang semua Uma Musume udah masuk ke gate.\nMasing-masing siap banget nunjukin kemampuan biar dilirik trainer――",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Persiapan selesai.\nDan sekarang, balapan Seleksi dimulai!!",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Yaaa……!!",
+      "name": "Rhein Kraft"
+    },
+    {
+      "text": "Langsung ngambil posisi bagus, Rhein Kraft!\nStartnya mantap banget!",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Uooooh, mantap! Baru mulai aja udah kasih tontonan keren~……!\nKayak yang dibilang, Rhein Kraft emang punya bakat luar biasa!",
+      "name": "Rookie Trainer A",
+      "choice_data_list": [
+        "Iya, bener banget……!"
+      ]
+    },
+    {
+      "text": "(Bisa ngebut sampe top speed secepet itu……\ndia emang punya bakat kecepatan!)",
+      "name": "<username>"
+    },
+    {
+      "text": "(Fokus banget, nggak telat start,\nbisa milih posisi terbaik……\nbener-bener keliatan potensinya……!)",
+      "name": "<username>"
+    },
+    {
+      "text": "Haa, haa, haa……!\nAku masih bisa lanjut……kayak gini……!!",
+      "name": "Rhein Kraft",
+      "choice_data_list": [
+        "Rhein Kraft……hebat banget……!",
+        "Rhein Kraft……hebat banget……!"
+      ]
+    },
+    {
+      "text": "Oke, dia kayaknya bisa ngatur pace dengan baik!\nBisa jadi dia menang langsung nih!?",
+      "name": "Trainer pemula A"
+    },
+    {
+      "text": "……Nggak juga sih.\nLiat aja, sekarang udah masuk paruh kedua――!!",
+      "name": " Trainer menengah A"
+    },
+    {
+      "text": "――Fuuu……!!",
+      "name": "Cesario"
+    },
+    {
+      "text": "Tinggal 400m lagi, Cesario maju!\nNgebut banget!!\nDia tembus dari belakang dan langsung melesat!!",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Gila cepet banget!\nDia ninggalin yang lain dengan mudah!\nCesario, dengan sprint itu,\nlangsung ngejar Rhein Kraft yang di depan!!",
+      "name": "Penyiar",
+      "choice_data_list": [
+        "Finishnya gokil banget……!",
+        "Finishnya gokil banget……!"
+      ]
+    },
+    {
+      "text": "(Pasti dari tadi dia nahan tenaga,\ntapi coba liat formnya!\nBukan cuma menonjol…… dia ada di level yang beda banget!!!)",
+      "name": "<username>"
+    },
+    {
+      "text": "Haaaaaaaaaa!!",
+      "name": "Cesario"
+    },
+    {
+      "text": "! Udah kuduga kamu bakal nyusul……!\nTapi! Yaaaaaaaaaー!!",
+      "name": "Rhein Kraft"
+    },
+    {
+      "text": "(Dia berhasil nyusul……! Apa Cesario bakal terus maju!?\nNggak, Rhein Kraft masih belum nyerah!)",
+      "name": "<username>"
+    },
+    {
+      "text": "(Yang lain udah nggak bisa ngikutin!\nSekarang tinggal duel mereka berdua……!!)",
+      "name": "<username>"
+    },
+    {
+      "text": "Aaaaaaaaaaah!",
+      "name": "Kraft & Cesario"
+    },
+    {
+      "text": "……!!",
+      "name": "<username>"
+    },
+    {
+      "text": "Sorakan penonton, suara penyiar.\nTapi semuanya kayak kedengeran jauh.\nSegitu kagumnya aku sama Rhein Kraft dan Cesario!",
+      "choice_data_list": [
+        "<size=41>Gila……mereka berdua gila banget……!!</size>",
+        "<size=41>Gila……mereka berdua gila banget……!!</size>"
+      ]
+    },
+    {
+      "text": "(Udah pasti semua tim pengen ngerekrut mereka.\nBahkan trainer paling 『berbakat』 di angkatanku mikir gitu)",
+      "name": "<username>",
+      "choice_data_list": [
+        "(Tapi, mereka berdua――)"
+      ]
+    },
+    {
+      "text": "Senang kenalan, Trainer!\nAku Rhein Kraft!",
+      "name": "Rhein Kraft"
+    },
+    {
+      "text": "Namaku Cesario.\nMakasih banget udah dateng liat Balapan Seleksi ini.",
+      "name": "Cesario"
+    },
+    {
+      "text": "Umm, kita berdua bakal kasih yang terbaik!\nDan――kami pengen gabung ke Tim <Ascella>!",
+      "name": "Rhein Kraft"
+    },
+    {
+      "text": "Maukah kamu jadi trainer kami?\n……Aku nggak sabar buat kerja bareng kamu.",
+      "name": "Cesario",
+      "choice_data_list": [
+        "……Eh!?"
+      ]
+    },
+    {
+      "text": "――Aku bener-bener nggak nyangka mereka berdua malah datengin aku duluan,\nkaget banget.\nSampai sekarang aku masih heran kenapa mereka pilih tim kita.",
+      "name": "<username>"
+    },
+    {
+      "text": "Tapi yaudah, sejak mereka gabung……\naku pengen bantu mereka menang.\nMereka udah berbakat, aku harus usaha lebih keras biar seimbang.",
+      "name": "<username>"
+    },
+    {
+      "text": "Bener juga. ……Terus gimana menurutmu soal hasil kerja keras kita?\n『Hanshin JF』-nya Kraft, kira-kira ada peluang menang nggak?",
+      "name": "King Halo",
+      "choice_data_list": [
+        "Iya. Aku yakin kita bisa menang.",
+        "Iya. Aku yakin kita bisa menang."
+      ]
+    },
+    {
+      "text": "Dia menang debut, dan balapan besar bulan lalu.\nLatihannya juga bisa dibilang sempurna.\nMenurutku kita udah siap banget.",
+      "name": "<username>",
+      "choice_data_list": [
+        "<size=41>G1 pertamanya. Semoga dia nggak tegang――</size>",
+        "<size=41>G1 pertamanya. Semoga dia nggak tegang――</size>"
+      ]
+    },
+    {
+      "text": "Kayaknya sih dia baik-baik aja.\nDi mobil aja dia tidur nyenyak banget.\nTahan banting banget……mungkin malah salah satu yang terkuat.",
+      "name": "King Halo"
+    },
+    {
+      "text": "Bisa jadi.\nIni kan balapan junior kelas atas……\ntapi kalau Rhein Kraft sih――!",
+      "name": "<username>"
+    },
+    {
+      "text": "Setelah perjalanan panjang, dan malam singkat――\nakhirnya tiba waktunya.\nHari 『Hanshin JF』-nya Rhein Kraft……"
+    },
+    {
+      "text": "Suuu……――Huuuu.\n……Oke, siap!",
+      "name": "Rhein Kraft",
+      "choice_data_list": [
+        "Kraft, kamu baik-baik aja?",
+        "Kraft, kamu baik-baik aja?"
+      ]
+    },
+    {
+      "text": "Iya! Trainer, liat aja.\nAku pasti menang.",
+      "name": "Rhein Kraft"
+    },
+    {
+      "text": "Aku bakal buktiin di sini!\nKalau aku pantas ada di tim ini.",
+      "name": "Rhein Kraft"
+    },
+    {
+      "text": "Kraft……iya.\nDi panggung G1 ini, tunjukin semua kemampuanmu!",
+      "name": "<username>"
+    }
+  ]
+}

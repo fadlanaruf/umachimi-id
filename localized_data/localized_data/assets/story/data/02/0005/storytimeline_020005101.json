@@ -1,0 +1,256 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Hari ini kamu semangat banget pas latihan lagi, Suzuka-san! \nTrainer-san juga kelihatan antusias banget!",
+            "name": "Special Week"
+        },
+        {
+            "text": "Iya, aku juga pengen lebih tinggi lagi, \nsoalnya Trainer-san pengen liat itu juga.",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "Aku juga bakal ikut [Takarazuka Kinen] selanjutnya.",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "Air Groove-san juga ikut, kan? Akhirnya, showdown antara rival~! Aku pasti bakal dukung kamu!",
+            "name": "Special Week"
+        },
+        {
+            "text": "…Oh, iya! Suzuka-san, aku bakal pijet kamu lagi hari ini! Kita nggak boleh bikin capekmu ngerembet ke besok!",
+            "name": "Special Week"
+        },
+        {
+            "text": "Hyaa~… Suzuka-san, kakimu kaku banget kayak papan! Aku harus pijet habis-habisan nih!",
+            "name": "Special Week"
+        },
+        {
+            "text": "Sekalipun aku lari seberapa pun, rasanya aku bisa terus jalan…",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "Setiap aku lari, rasanya aku nggak sendirian. Kayak ada dorongan lembut di punggungku yang terus membimbingku maju.",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "Spe-chan, semua anggota ＜Sirius＞… dan Trainer-san juga, \nmungkin karena dukungan kalian semua.",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "Ehehe…! Kita semua bakal terus dukung Suzuka-san! Makanya, Suzuka-san, terus tunjukin lari hebatmu ke kita!",
+            "name": "Special Week"
+        },
+        {
+            "text": "Oke! Aku bakal pijet kakimu sampai lunak semua! Aku bakal tunjukin kekuatan yang aku dapet dari ngerawat sapi!",
+            "name": "Special Week"
+        },
+        {
+            "text": "S-sapi…?",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "Silence Suzuka meraih kemenangan menakjubkan di [Kinko Sho]. \nSetelah itu, kondisinya terus membaik."
+        },
+        {
+            "text": "Demi tantangan selanjutnya, [Takarazuka Kinen], \nsaya menuju lintasan latihan saat-"
+        },
+        {
+            "text": "(crinkle crinkle)"
+        },
+        {
+            "text": "(Eh…? A-apa ini…?! Kenapa tiba-tiba gelap…?!)",
+            "name": "<username>"
+        },
+        {
+            "text": "Heave-ho, Heave-ho.",
+            "name": "???"
+        },
+        {
+            "text": "(Ehh, aku dibawa…? Pikiran nggak bisa ngekejar?!)",
+            "name": "<username>"
+        },
+        {
+            "text": "Selamat datang, Trainer. \nAku sungguh menyambutmu.",
+            "name": "???"
+        },
+        {
+            "text": "D-dimana aku?! Kamu siapa…?!",
+            "name": "<username>"
+        },
+        {
+            "text": "Namaku Agnes Tachyon. Aku cuma pengen ngobrol sebentar, \nmakanya aku ngajak kamu ikut sama aku.",
+            "name": "Agnes Tachyon"
+        },
+        {
+            "text": "Senyum tipis muncul di bibir gadis kuda bernama Agnes Tachyon ini. \nKarung goni di kaki- apa dia bawa aku pakai itu?",
+            "choice_data_list": [
+                "Terlalu mencurigakan…!"
+            ]
+        },
+        {
+            "text": "Mencurigakan agak kasar. Meski aku mungkin sedikit kasar, aku punya alasan jelas buat ngajakmu ke sini.",
+            "name": "Agnes Tachyon"
+        },
+        {
+            "text": "Sejujurnya, mengenai kamu dan muridmu, Silence Suzuka-kun, aku pengen ngobrol dan tanya beberapa hal.",
+            "name": "Agnes Tachyon"
+        },
+        {
+            "text": "Ngobrol sama kita?",
+            "name": "<username>"
+        },
+        {
+            "text": "Iya. Pernah nggak, kamu mikir sebentar soal eksistensi \"gadis kuda\"?",
+            "name": "Agnes Tachyon"
+        },
+        {
+            "text": "Misalnya, pernah kepikiran kenapa mereka mirip manusia tapi punya kemampuan fisik jauh lebih tinggi?",
+            "name": "Agnes Tachyon"
+        },
+        {
+            "text": "Gadis kuda masih punya banyak misteri tersembunyi. Aku pengen mengungkap misteri itu, makanya aku terus teliti tentang mereka.",
+            "name": "Agnes Tachyon"
+        },
+        {
+            "text": "…misteri gadis kuda dan hubungan mereka dengan manusia?",
+            "name": "<username>"
+        },
+        {
+            "text": "Dengan kecepatan luar biasa itu, dari start sampai finish—apa yang kamu coba capai bikin aku penasaran!",
+            "name": "Agnes Tachyon"
+        },
+        {
+            "text": "Kalau dia terus begini dan sempurnain gaya itu, bisa bikin gadis kuda lainnya berkembang ke tahap berikutnya.",
+            "name": "Agnes Tachyon"
+        },
+        {
+            "text": "Untuk gaya lari yang belum dikenal ini berkembang, kalian berdua siap sepenuhnya? Itu yang pengen aku denger.",
+            "name": "Agnes Tachyon"
+        },
+        {
+            "text": "…jadi maksudmu, kalian cuma ngelakuin hal normal banget?",
+            "name": "Agnes Tachyon"
+        },
+        {
+            "text": "Bukan latihan khusus, dan nggak ada hal nggak masuk akal juga.",
+            "name": "<username>"
+        },
+        {
+            "text": "Jadi kalian nggak latihan fisik super manusia, gaya lari misterius itu cuma kualitas unik Suzuka-kun-",
+            "name": "Agnes Tachyon"
+        },
+        {
+            "text": "Mungkin kita harus mikir, ada aspek spiritual yang mulai memengaruhi fisiknya…",
+            "name": "Agnes Tachyon"
+        },
+        {
+            "text": "Aspek spiritual…?",
+            "name": "<username>"
+        },
+        {
+            "text": "Gadis kuda adalah makhluk hidup yang membawa banyak \"perasaan\" saat lari.",
+            "name": "Agnes Tachyon"
+        },
+        {
+            "text": "Di alun-alun tengah, ada patung 3 Dewi. Konon, itu tempat gadis kuda mewarisi \"perasaan\" itu.",
+            "name": "Agnes Tachyon"
+        },
+        {
+            "text": "Sebagai peneliti, mungkin kamu pikir ini nggak masuk akal, tapi aku sendiri, aku gadis kuda-",
+            "name": "Agnes Tachyon"
+        },
+        {
+            "text": "Kadang pas lari, aku bisa ngerasain dorongan dari sesuatu yang nggak diketahui mendorongku maju.",
+            "name": "Agnes Tachyon"
+        },
+        {
+            "text": "Apa yang Agnes Tachyon omongin, mungkin aja itu harapan dan dukungan yang dirasakan gadis kuda…?"
+        },
+        {
+            "text": "Tidak, maaf… itu bukan inti masalah. Tapi kalau iya, rencanaku agak meleset.",
+            "name": "Agnes Tachyon"
+        },
+        {
+            "text": "Kalau aku benar, masa depan kalian sedikit menakutkan.",
+            "name": "Agnes Tachyon",
+            "choice_data_list": [
+                "Masa depan yang kita tuju…?",
+                "Masa depan yang kita tuju…?"
+            ]
+        },
+        {
+            "text": "Gaya lari yang kalian tuju itu sangat misterius. Bisa jadi itu di luar batas kemampuan gadis kuda.",
+            "name": "Agnes Tachyon"
+        },
+        {
+            "text": "Kalau begitu, saat itu kakinya…",
+            "name": "Agnes Tachyon"
+        },
+        {
+            "text": "Sisa kata-kata itu nggak keluar dari bibir Agnes Tachyon. Tapi yang terjadi pasti-"
+        },
+        {
+            "text": "…akan gagal. Maksudmu begitu?",
+            "name": "<username>"
+        },
+        {
+            "text": "Aku nggak tau. Aku cuma spekulasi satu kemungkinan. Apakah ada batas, aku juga nggak tau.",
+            "name": "Agnes Tachyon"
+        },
+        {
+            "text": "Seperti aku bilang tadi, gadis kuda penuh misteri. Kalau bikin kalian nggak nyaman, aku minta maaf.",
+            "name": "Agnes Tachyon"
+        },
+        {
+            "text": "Bagaimanapun, mengenai gaya lari luar biasa kalian berdua- Aku berharap tinggi kalian tunjukin tahap selanjutnya dari gadis kuda.",
+            "name": "Agnes Tachyon"
+        },
+        {
+            "text": "Oke, selanjutnya aku latihan tanjakan, ya?",
+            "name": "Winning Ticket"
+        },
+        {
+            "text": "Aku juga latihan tanjakan, abis itu lari lurus, kan?",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "Silence Suzuka latihan dengan tekun."
+        },
+        {
+            "text": "Isi latihannya kelihatan normal, nggak beda sama gadis kuda biasa."
+        },
+        {
+            "text": "Tapi gaya larinya nggak normal, unik. Apa yang nunggu di ujung jalur itu-"
+        },
+        {
+            "text": "Gaya lari yang kalian tuju itu sangat misterius. Bisa jadi di luar batas gadis kuda.",
+            "name": "Agnes Tachyon"
+        },
+        {
+            "text": "Trainer-san…?",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "Oke, tanjakan dan lari lurus nggak masalah.",
+            "name": "<username>"
+        },
+        {
+            "text": "Lalu, aku pamit dulu.",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "Gaya lari Silence Suzuka adalah gaya ideal bagi gadis kuda."
+        },
+        {
+            "text": "Gaya lari yang nggak bisa dicapai orang lain, tapi cuma dia yang bisa-"
+        },
+        {
+            "text": "(Apa ini artinya dia bakal tembus batas…?)",
+            "name": "<username>"
+        },
+        {
+            "text": "Sedikit rasa nggak enak mulai muncul di hati, aku coba keras-keras nggak mikirin itu."
+        }
+    ]
+}

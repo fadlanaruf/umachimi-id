@@ -1,0 +1,200 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Rice Shower",
+      "text": "Ehh!? McQueen-san mau keluar dari tim!?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Cuma sementara kok.\nAku harus ngurus keluarga Mejiro karena ada urusan."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Hiks!! Kalau kamu pergi, siapa lagi yang bisa aku jahilin nanti!!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Dari awal juga tolong jangan libatkan aku dalam hal itu!!"
+    },
+    {
+      "name": "Gadis kuda dengan poni lurus",
+      "text": "Tapi tetep aja, kita bakal kangen kamu."
+    },
+    {
+      "name": "Gadis kuda bermata sayu",
+      "text": "Hiks… Ace～…"
+    },
+    {
+      "name": "Gadis kuda berambut bob hitam",
+      "text": "McQueen-chan, cepetan balik ya!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Iya, aku masih pengen terus berlari.\nAku bakal balik secepatnya."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Tim ini adalah tempat di mana kalian bisa saling dukung\n dan lari bareng menuju mimpi."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Tolong jaga baik-baik ikatan ini."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Dan, Rice-san."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Eh, iya…"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Aku harap kamu bisa wujudin mimpimu buat bikin semua orang bahagia.\nJadilah gadis kuda berambut bob hitam yang kayak gitu ya."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hiks… Huaa! McQueen-san!!"
+    },
+    {
+      "text": "Dan untuk sementara, McQueen pun meninggalkan tim."
+    },
+    {
+      "text": "Beberapa bulan setelah itu, Rice Shower terus berjuang."
+    },
+    {
+      "name": "Komentator",
+      "text": "Yang pertama Biwa Hayahide! Biwa Hayahide sampai di garis finis!\nRice Shower yang dulu pernah menghentikan pencapaian McQueen kini ada di posisi 5!"
+    },
+    {
+      "name": "Penonton A",
+      "text": "Rice Shower kok makin sering kalah ya."
+    },
+    {
+      "name": "Penonton B",
+      "text": "Padahal dulu pas dia ngeblok Bourbon sama McQueen,\nkeliatan banget dia berusaha keras."
+    },
+    {
+      "text": "Kata-kata kayak gini sering terdengar di mana-mana.\nKemana perginya Rice Shower yang dulu itu?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Heh… heh… heh…! heh…"
+    },
+    {
+      "text": "Gerakan di trek lurus terakhir sebenernya nggak jelek, Rice.\nKamu masih ada semangat buat lari?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Aku kebayang bisa nyusul ke depan dan aku yakin stamina-ku kuat.\nTapi…"
+    },
+    {
+      "text": "Jujur aja, nggak ada alasan jelas kenapa Rice Shower nggak bisa menang."
+    },
+    {
+      "text": "Waktu dia menang di “Emperor Award” musim semi,\nperasaannya jelas lebih positif."
+    },
+    {
+      "text": "Tapi meski udah ikut banyak balapan lagi,\nhasilnya tetap nggak ada."
+    },
+    {
+      "text": "Apa jangan-jangan cemoohan orang-orang yang bikin dia tertekan?",
+      "choice_data_list": [
+        "Apa kamu mau istirahat dulu sebentar dari balapan?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Nggak, aku tetap akan lari.",
+            "choice_data_list": [
+                "Kamu yakin rice ?"
+            ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Walaupun kalah berkali-kali, aku udah mutusin buat lari dengan kepala tegak.\nBiarpun orang lain marah sekalipun."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Dan aku udah janji sama McQueen,\nkalau suatu hari nanti aku bakal jadi gadis kuda \nberambut hitam yang bisa bikin semua orang bahagia."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Trainer-san, aku mau lari 1 putaran lagi!"
+    },
+    {
+      "text": "Tapi, kekalahan beruntunnya tetap berlanjut."
+    },
+    {
+      "name": "Komentator",
+      "text": "Berikutnya giliran Rice Shower, yang lagi-lagi terus kalah.\nApa kali ini dia bisa bangkit?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "……"
+    },
+    {
+      "name": "Penonton A",
+      "text": "Paling hari ini juga dia bakal kalah lagi."
+    },
+    {
+      "name": "Penonton B",
+      "text": "Tapi… gimana ya, dia tetep keliatan berusaha banget sih."
+    },
+    {
+      "name": "Penonton A",
+      "text": "Iya juga, walau kalah terus, dia nggak pernah nyerah."
+    },
+    {
+      "name": "Komentator",
+      "text": "Rice Shower ada di posisi ke-6!"
+    },
+    {
+      "name": "Komentator",
+      "text": "Kemana perginya Rice Shower yang dulu berhasil ngalahin Mihono Bourbon dan Mejiro McQueen?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hah.",
+      "choice_data_list": [
+        "Kerja bagus, Rice."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Oh, Trainer-san."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hehe… Hari ini aku nggak bisa menang lagi."
+    },
+    {
+      "text": "Meski Rice Shower maksa senyum,\nmatanya udah basah sama air mata yang siap jatuh.",
+      "choice_data_list": [
+        "Jangan dipendam, kalau mau nangis ya nangis aja."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Nggak, aku nggak mau nangis.\nKalau nangis itu lebih baik pas lagi bahagia.",
+            "choice_data_list": [
+                "Yakin gapapa ? istirahat aja ...."
+            ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Sekarang kita harus kerja keras lagi dan latihan!\nAyo, Trainer-san!"
+    },
+    {
+      "text": "Saat Rice Shower berlari keluar,\nlangkahnya ringan banget sampai nggak nyangka kalau barusan dia kalah."
+    },
+    {
+      "text": "Supaya dia bisa nangis karena bahagia… apa yang harus aku lakukan?",
+            "name": "Monolog"
+    },
+        {
+            "text": "Agar dia bisa meneteskan air mata karena bahagia…\nsebenarnya, apa yang harus kulakukan untuknya?"
+        }
+  ]
+}

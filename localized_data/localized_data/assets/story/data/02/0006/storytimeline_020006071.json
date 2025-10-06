@@ -1,0 +1,347 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Baiklah semuanya, sambil kita doakan terus kesuksesan \nkeluarga Mejiro, mari nikmati pesta Tahun Baru hari ini.",
+      "name": "Party MC"
+    },
+    {
+      "text": "Oke! Ayo kita nikmati pestanya, McQueen! \nMulai dari sushi?! Atau kepiting dulu?! \nAduh bingung!",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "Aku heran kenapa kamu ada di sini. \nIni kan pesta Tahun Baru keluarga Mejiro.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Alaaah jangan kaku gitu dong! \nKita kan udah pernah tukeran minuman olahraga― \nitu artinya udah kayak keluarga!",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "Ayo, sebelum semua seafood segar itu kabur balik ke laut dalam, \nkita tangkap pakai jaring bernama perut kita!",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "Aku sama sekali nggak ngerti maksudmu…",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Selamat Tahun Baru, McQueen.",
+      "name": "Mejiro Ryan"
+    },
+    {
+      "text": "Ryan, Dober, Selamat Tahun Baru. \nTahun ini juga aku harap kita bisa kerja sama dengan baik.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Iya, sama-sama. Tahun ini juga mari kita lakukan yang terbaik.",
+      "name": "Mejiro Dober"
+    },
+    {
+      "text": "Tahun lalu, Dober nutup dengan kemenangan G1, \njadi dia punya momentum buat tahun ini. \nAku juga dengar banyak rumor, jadi ekspektasiku tinggi.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Ehehe, kamu populer banget ya? \nSebagai sesama Mejiro aku juga ikut senang.",
+      "name": "Mejiro Ryan"
+    },
+    {
+      "text": "B-bukan aku mau populer! \nAku cuma masuk lomba yang pengen aku menangkan!",
+      "name": "Mejiro Dober"
+    },
+    {
+      "text": "Lagipula, kalau ngomong soal ekspektasi tinggi, \nbukannya ada orang lain yang lebih pantas disebut?",
+      "name": "Mejiro Dober"
+    },
+    {
+      "text": "Ah, tadi aku sempat lihat dia sih…",
+      "name": "Mejiro Ryan"
+    },
+    {
+      "text": "Bright-ojousama, sebentar lagi giliran pidato Anda. \nSilakan naik ke panggung.",
+      "name": "Party MC"
+    },
+    {
+      "text": "…Pidato?",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Tentang prestasi tahun lalu! \nAku kan sudah bilang ke kamu tadi!",
+      "name": "Party MC"
+    },
+    {
+      "text": "Hmmmmm～…",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "…Oh, maksudmu pidato itu ngomong di depan. \nBaiklah, aku paham～",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Tolong banget yaaa～…",
+      "name": "Party MC"
+    },
+    {
+      "text": "Oh, Ryan-oneesama. Dan McQueen-sama, Dober juga. \nApa kabar～?",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Seperti biasa, Ryan dapat panggilan oneesama tuh.",
+      "name": "Mejiro Dober"
+    },
+    {
+      "text": "Ahaha… iya, soalnya dulu aku sering jagain dia waktu kecil.",
+      "name": "Mejiro Ryan"
+    },
+    {
+      "text": "Bright, kemenanganmu di [Spring Tenno Sho] luar biasa banget. \nDan aku dengar kamu juga dapat penghargaan URA.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Tenno Sho itu emang balapan yang sangat dekat dengan keluarga Mejiro. \nAku juga merasa terikat dengannya.",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Semua ini berkat Ryan-oneesama yang selalu menyemangatiku sebagai teman setim. \nAku benar-benar berterima kasih.",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Di kelas Classic kamu sempat banyak hasil buruk juga. \nMakanya pas mulai menang di kelas Senior aku ikut bahagia banget.",
+      "name": "Mejiro Ryan"
+    },
+    {
+      "text": "Tapi tahun ini, mari sama-sama terus kejar gelar yang lebih besar lagi!",
+      "name": "Mejiro Ryan"
+    },
+    {
+      "text": "…Tapi tahun ini kayaknya bakal agak susah dapat hasil bagus.",
+      "name": "Mejiro Dober"
+    },
+    {
+      "text": "\"Generasi Emas\"… maksudmu?",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Iya, tahun ini mereka naik ke Senior. \nJadi bakal banyak kesempatan ketemu mereka kan?",
+      "name": "Mejiro Dober"
+    },
+    {
+      "text": "Hmmmmm～…",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Mau lawanku siapa pun, aku cuma akan lakukan apa yang harus aku lakukan.",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Dengan semua kekalahan yang nyesek itu, akhirnya aku bisa sampai ke puncak. \nAku nggak akan gampang menyerahkan posisiku.",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "…Makanya, aku pasti bakal memenuhi ekspektasi itu. \nDengan kemenangan beruntun di [Spring Tenno Sho].",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Buat keluarga Mejiro, Tenno Sho itu balapan spesial. \nMenang beruntun bakal jadi prestasi sehebat McQueen.",
+      "name": "Mejiro Dober"
+    },
+    {
+      "text": "Ehehe, Bright kelihatan kalem gini, tapi dia keras kepala juga lho. \nKalau dia udah mutusin mau menang, dia pasti menang.",
+      "name": "Mejiro Ryan"
+    },
+    {
+      "text": "Aaah, Bright-ojousama! Kamu masih di sini?! \nGiliran pidatomu sebentar lagi!",
+      "name": "Party MC"
+    },
+    {
+      "text": "…Pidato?",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Aduh, bukan lagi～!!",
+      "name": "Party MC"
+    },
+    {
+      "text": "Jadi target Bright musim semi ini [Spring Tenno Sho], ya…?",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Ada apa, McQueen?",
+      "name": "Mejiro Dober"
+    },
+    {
+      "text": "Nggak… memang itu sudah kuduga.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Tuhan, Buddha, dan Shiraoki-sama! \nAku berdoa semoga tahun ini penuh pencapaian besar!",
+      "name": "Special Week"
+    },
+    {
+      "text": "…dan, semoga kue yang aku makan abis makan besar \nggak bikin aku gemuk…!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Tahun ini, Special Week resmi naik ke kelas Senior."
+    },
+    {
+      "text": "Untuk merayakan awal babak baru, bersama anggota tim, \nkami datang ke kuil untuk kunjungan pertama Tahun Baru."
+    },
+    {
+      "text": "Maaf ya udah nunggu lama! Aku udah doain semua hal dengan sungguh-sungguh!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Kelihatannya kamu berdoa serius banget ya. \n…Tapi, siapa itu Shiraoki-sama?",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "Kayaknya kamu kebawa pengaruh Fukukitaru deh…",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Tapi jangan cuma ngandelin doa ya. \nKamu sendiri juga harus usaha beneran.",
+      "name": "<username>"
+    },
+    {
+      "text": "Tentu! Bahkan pas latihan aku bakal usaha lebih keras lagi!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Soalnya, juara lomba itu nggak gampang. \nAku udah bener-bener ngerti sekarang…!",
+      "name": "Special Week"
+    },
+    {
+      "text": "…Akhir-akhir ini lombamu juga banyak yang tipis banget ya.",
+      "name": "Rice Shower"
+    },
+    {
+      "text": "Setelah menang di [Derby], Special Week lanjut ke lomba musim gugur dengan penuh semangat, tapi―"
+    },
+    {
+      "text": "Dia menjauh, makin menjauh! Seiun Sky kabur! \nAkhirnya Special Week datang dari luar! Tapi… Seiun Sky!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Seiun Sky, di [Kikka Sho], nyentuh garis finish duluan!! \nWaktunya― luar biasa 3:03.2! Rekor dunia!",
+      "name": "Komentator"
+    },
+    {
+      "text": "\"Derby Uma Musume\" Special Week finis 3 panjang kuda di belakang, posisi 2!",
+      "name": "Komentator"
+    },
+    {
+      "text": "El Condor, El Condor! Air Groove dan Special Week ngejar! \nTapi pemenangnya El Condor Pasa!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Uma Musume Classic, El Condor Pasa, di antara kumpulan juara di [Japan Cup], \nsukses raih kemenangan gemilang!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Rekan seangkatannya, Special Week, gagal nyusul di trek lurus dan finis ke-3!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Sei-chan sama El-chan bener-bener luar biasa…",
+      "name": "Special Week"
+    },
+    {
+      "text": "Untuk Spe-san yang udah juara [Derby] aja susah menang, \nberarti semua di \"Generasi Emas\" emang kuat banget ya…?",
+      "name": "Rice Shower"
+    },
+    {
+      "text": "Selain itu, tahun ini dia masuk kelas Senior.",
+      "name": "<username>"
+    },
+    {
+      "text": "Lawanmu nanti bukan cuma yang biasa, \njadi biar nggak ketinggalan sama senior maupun junior, ayo kita usaha keras!",
+      "name": "<username>"
+    },
+    {
+      "text": "Iya!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Meski kalah berkali-kali, Special Week tetap positif dan terus berusaha. \nSemangat mimpinya, bahkan di Tahun Baru, nggak pernah berubah."
+    },
+    {
+      "text": "…",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "…kenapa Suzuka, ada apa?",
+      "name": "<username>"
+    },
+    {
+      "text": "Ah… nggak, nggak ada apa-apa…",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Bagus sih dia udah kelas Senior sekarang, \ntapi kamu udah tentuin target Spe musim semi ini?",
+      "name": "Narita Brian"
+    },
+    {
+      "text": "Ah, aku juga penasaran! Trainer-san, menurutmu gimana?",
+      "name": "Special Week"
+    },
+    {
+      "text": "Sejujurnya, aku rasa kemampuan Spe sangat tinggi. \nKhususnya stamina panjangnya yang bisa dimanfaatkan penuh.",
+      "name": "<username>"
+    },
+    {
+      "text": "Makanya aku kepikiran mau bikin target Spe di musim semi adalah [Spring Tenno Sho].",
+      "name": "<username>"
+    },
+    {
+      "text": "[Spring Tenno Sho]…!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Oh, itu keren banget! Aku juga pengen lihat Spe-chan lari di [Spring Tenno Sho]!",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "Kan di tim kita ada banyak juara berpengalaman, \nmereka bisa kasih tips juga buat lomba itu!",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "McQueen-chan sama Rice-san, mereka berdua keren banget pas menang～…",
+      "name": "Gadis kuda A"
+    },
+    {
+      "text": "Iya, iya! Aku dari dulu ngefans sama mereka!",
+      "name": "Gadis kuda B"
+    },
+    {
+      "text": "E-ehehe…",
+      "name": "Rice Shower"
+    },
+    {
+      "text": "Kalau ada yang bisa Rice bantu, Rice bakal bantu. \nSpe-san, ayo berjuang bareng.",
+      "name": "Rice Shower"
+    },
+    {
+      "text": "Makasih banyak～! Tentu, aku tunggu-tunggu juga!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Kalau gitu, ayo kita lihat-lihat stand makanan. \nHari ini traktiranku.",
+      "name": "<username>"
+    },
+    {
+      "text": "Nikmati sepuasnya, dan tahun ini mari kita kerja keras lagi!",
+      "name": "<username>"
+    },
+    {
+      "text": "Iya! Targetnya \"Menang di Tenno Sho\"! \nTargetnya \"Uma Musume nomor 1 Jepang\"～!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Sambil ngomong gitu, Special Week mengangkat tangannya ke udara."
+    },
+    {
+      "text": "Mimpinya memang belum berbentuk jelas, \ntapi aku merasa bisa melihat dia mulai menggenggam mimpi itu."
+    }
+  ]
+}

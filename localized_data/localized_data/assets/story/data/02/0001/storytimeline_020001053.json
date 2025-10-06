@@ -1,0 +1,65 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "McQueen, selamat! \nBalapan tadi… luar biasa banget!",
+            "name": "<username>"
+        },
+        {
+            "text": "…",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "McQueen…?",
+            "name": "<username>"
+        },
+        {
+            "text": "Aku berhasil!!",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "Uwaaah!?",
+            "name": "<username>"
+        },
+        {
+            "text": "Akhirnya aku menang Tennō Shō!! Sekarang aku bisa tunjukin \nplakat ini ke Keluarga Mejiro!!",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "Aku benar-benar kaget \nmelihat ekspresi bahagia McQueen."
+        },
+        {
+            "text": "Kurasa karena beban besar untuk menang \nyang dia pikul akhirnya terangkat juga."
+        },
+        {
+            "text": "Maaf, aku agak kebawa suasana. \nTapi aku benar-benar bahagia.",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "Dan satu-satunya alasan aku bisa mencapai ini \nadalah berkatmu, Trainer-san.",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "Kau sudah mencurahkan segalanya untukku, \ndan aku sangat berterima kasih.",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "Harusnya aku yang berterima kasih. Walau masih belum berpengalaman, \nkau tetap mengikuti arahanku. Dan pada akhirnya, kau kasih aku hadiah \nterindah, kemenangan luar biasa ini."
+        },
+        {
+            "text": "…Tapi kalau aku bilang begitu, dia pasti langsung ngomel, \n“tolong punya sedikit rasa percaya diri pada dirimu.”",
+            "choice_data_list": [
+                "<size=43>Sirius yang lahir kembali ini akan terus menang!</size>",
+                "<size=43>Sirius yang lahir kembali ini akan terus menang!</size>"
+            ]
+        },
+        {
+            "text": "Hehe, aku yakin setelah ini \nkita bakal dapat banyak kemenangan lagi!",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "Yah, sebentar lagi waktunya Winning Live. Aku harus tunjukkan \nrasa terima kasihku pada semua yang sudah datang mendukungku!",
+            "name": "Mejiro McQueen"
+        }
+    ]
+}

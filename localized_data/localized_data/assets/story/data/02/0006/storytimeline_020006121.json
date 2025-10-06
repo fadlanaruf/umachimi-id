@@ -1,0 +1,332 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Fuu... fuu...",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Mantap, Bright. Kayaknya kamu udah dapet irama buat 3200 meter. \nJangan lupa rasanya ya!",
+      "name": "Mejiro Ryan"
+    },
+    {
+      "text": "Iya...! Kalau gini, aku bakal tambah satu lagi putaran!",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Sip, ayo kita push sedikit lagi!",
+      "name": "Mejiro Ryan"
+    },
+    {
+      "text": "...........",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Lagi mantau nih? Kayaknya mereka lagi semangat banget ya?",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "Iya, liat dia gitu bikin keliatan banget kalau dia Uma Musume yang serius. \nDan pastinya kuat juga.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Tapi Spe-chan juga nggak kalah kok. Dia terus latihan tanpa henti.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Ngomong-ngomong, Spe nggak keliatan di sini ya?",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "Sekarang harusnya dia lagi sama Trainer-san, ngobrolin persiapan buat lomba benerannya.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Ngatur tempo sama strategi ya?",
+      "name": "Special Week"
+    },
+    {
+      "text": "Betul, selain mikirin stamina sendiri, penting juga nebak gimana lawan pake stamina mereka.",
+      "name": "<username>"
+    },
+    {
+      "text": "Oh gitu... kedengarannya ribet juga ya...",
+      "name": "Special Week"
+    },
+    {
+      "text": "Tapi aku harus bisa! \nDi panggung gede gini, hasilnya harus bagus, kan?!",
+      "name": "Special Week"
+    },
+    {
+      "text": "(Tok tok tok...)"
+    },
+    {
+      "text": "Permisi masuk.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "McQueen-san? Ada urusan sama Trainer-san ya?",
+      "name": "Special Week"
+    },
+    {
+      "text": "Lebih tepatnya aku mau ngobrol sama kalian berdua.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Katanya lagi bahas lomba, jadi kupikir aku bisa ikut kasih masukan.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "McQueen kan udah menang [Spring Tenno Sho] berturut-turut, jadi silakan banget gabung.",
+      "name": "<username>"
+    },
+    {
+      "text": "Senang sekali kalau begitu.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Waaah! Makasih banyak!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Tok tok tok!! Aku masuk ya!",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "Aku pengen bantuin Spe-chan bikin strategi... \neh? McQueen juga ada ternyata.",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "Eh, maaf... hah? McQueen-san sama Ticket-san?",
+      "name": "Rice Shower"
+    },
+    {
+      "text": "...kayaknya aku jadi nggak perlu dateng deh...",
+      "name": "Narita Brian"
+    },
+    {
+      "text": "Eeeeh?! Jadi rame banget tiba-tiba...!?",
+      "name": "Special Week"
+    },
+    {
+      "text": "Haaah~ strategi lomba, posisi, irama... berasa belajar seumur hidup deh.",
+      "name": "Special Week"
+    },
+    {
+      "text": "Tapi karena banyak banget yang kasih masukan, aku jadi ngerasa pasti bisa menang!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Iya, semangat ya...",
+      "name": "Rice Shower"
+    },
+    {
+      "text": "Kami dukung kamu kok, jadi menangkan lombanya!",
+      "name": "Gadis kuda B"
+    },
+    {
+      "text": "Nggak kerasa, semua tim udah ngumpul buat dukung Special Week."
+    },
+    {
+      "text": "Ngedukung Uma Musume biar bisa raih mimpinya― semua punya perasaan yang sama. \nAku bener-bener seneng banget."
+    },
+    {
+      "text": "Oh iya, Trainer-san! Aku tadi ambil ini pas ke ruang pelatih!",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "Nih, kuesioner buat artikel.",
+      "name": "Winning Ticket",
+      "choice_data_list": [
+        "Artikel...?"
+      ]
+    },
+    {
+      "text": "Bukannya Tazuna-san udah pernah bilang soal ini ya?",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Oh iya juga ya...",
+      "name": "<username>"
+    },
+    {
+      "text": "Biar nggak keliatan panik, aku langsung baca kuesionernya. \nAda satu pertanyaan yang nyangkut di kepala."
+    },
+    {
+      "text": "[Buat kamu, lomba apa yang paling punya arti emosional?] ―"
+    },
+    {
+      "text": "Kolom jawabannya kebanyakan ditulis [Japan Derby], khas banget Ticket, \ntapi di pojokan ada yang beda..."
+    },
+    {
+      "text": "[Spring Tenno Sho]...?",
+      "name": "<username>"
+    },
+    {
+      "text": "Kamu nulis selain Derby? Aneh juga ya. \nJangan-jangan makan yang aneh-aneh?",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "Ahaha, enggak kok, aku nggak makan aneh-aneh.",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "Memang nggak ngalahin Derby sih, tapi ini kan kuesioner buat ＜Sirius＞ ya?",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "Pas lagi mikirin tim, tiba-tiba aku langsung keinget sesuatu!",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "Pertama kali aku denger jelas soal ＜Sirius＞ itu waktu McQueen pertama kali menang [Spring Tenno Sho]!",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "Lomba aku...?",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Waktu itu aku masih belum ngerti banyak soal tim, cuma mikir 'wah keren juga lombanya'... \ntapi ternyata...",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "Pas tahu kalau itu lomba impian McQueen, dan masa depan tim dipertaruhkan di situ...",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "Uwoooooon! Aku beneran bersyukur bisa liat [Spring Tenno Sho] waktu itu!!",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "Aku juga, abis liat lomba itu langsung tergerak banget, makanya aku gabung tim!",
+      "name": "Gadis kuda A"
+    },
+    {
+      "text": "Siapa sangka waktu itu McQueen-san masih sendirian, tapi sejak itu tim makin gede～",
+      "name": "Gadis kuda B"
+    },
+    {
+      "text": "...buat Rice juga, [Spring Tenno Sho] itu lomba penting banget.",
+      "name": "Rice Shower"
+    },
+    {
+      "text": "Pertama kali aku bener-bener nekat buat menang, \ndan pertama kali aku ngerasain bahagianya menang, ya di lomba ini.",
+      "name": "Rice Shower"
+    },
+    {
+      "text": "...Buatku, [Spring Tenno Sho] bisa dibilang targetku.",
+      "name": "Narita Brian"
+    },
+    {
+      "text": "Cidera bikin gagal di percobaan pertama, percobaan berikutnya juga kurang dikit lagi... \nambisiku kuat banget sih ternyata.",
+      "name": "Narita Brian"
+    },
+    {
+      "text": "Alasannya beda-beda, tapi keliatan banget kalau [Spring Tenno Sho] punya ikatan dalam buat semuanya."
+    },
+    {
+      "text": "Dan itu juga berlaku buat aku."
+    },
+    {
+      "text": "Itu memang target McQueen, tapi juga kemenangan G1 pertamaku."
+    },
+    {
+      "text": "Sebagai penerus ＜Sirius＞, itu pertama kalinya aku bisa bantu Uma Musume \nyang aku latih buat meraih mimpinya."
+    },
+    {
+      "text": "Buatku juga, itu lomba penuh kenangan seumur hidup.",
+      "name": "<username>"
+    },
+    {
+      "text": "Buatku juga, itu lomba penuh kenangan seumur hidup.",
+      "name": "<username>"
+    },
+    {
+      "text": "Buat semua orang, lomba ini emang nggak tergantikan kan～! Oh nonononn!!",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "...........",
+      "name": "Special Week"
+    },
+    {
+      "text": "Umm, Trainer-san. Kalau aku menang di [Spring Tenno Sho], kamu bakal seneng nggak?",
+      "name": "Special Week"
+    },
+    {
+      "text": "Tentu aja. Itu kan target musim semi kamu, jadi aku pengen Spe bisa menang―",
+      "name": "<username>"
+    },
+    {
+      "text": "Aah, bukan! Maksudku bukan soal targetku...",
+      "name": "Special Week"
+    },
+    {
+      "text": "Buat Trainer-san sama semuanya, lomba ini kan punya arti spesial, kan?",
+      "name": "Special Week"
+    },
+    {
+      "text": "Makanya aku juga pengen bikin lomba ini jadi spesial buat aku!",
+      "name": "Special Week"
+    },
+    {
+      "text": "＜Sirius＞ itu... rasanya udah kayak rumah kedua buatku...",
+      "name": "Special Week"
+    },
+    {
+      "text": "Tempat kita saling dukung, kayak keluarga. Tim ini bener-bener luar biasa.",
+      "name": "Special Week"
+    },
+    {
+      "text": "Makanya, sama kayak semua di sini, aku pengen menang di [Spring Tenno Sho] sebagai anggota tim!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Sebagai anggota tim... ya?",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Fufuu, kalau gitu aku minta tolong deh. \nTolong rebut piala musim semi yang jadi titik awal tim ini.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Iya, Rice juga pengen liat piala Tenno Sho.",
+      "name": "Rice Shower"
+    },
+    {
+      "text": "Aku juga! Jadi, Spe-chan tolong ya!",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "...Bisa kan, Spe?",
+      "name": "Narita Brian"
+    },
+    {
+      "text": "Iya, serahin aja ke aku!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Trainer-san juga, gimana kalau ikut nitipin perasaanmu ke Special Week-san?",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Trainer-san, [Spring Tenno Sho] bakal aku menangkan!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Anak dari Hokkaido yang dulu masih polos, \nsekarang tatapannya makin mantap dan kuat."
+    },
+    {
+      "text": "Dia makin deket sama mimpinya jadi 'Uma Musume nomor 1 Jepang'― \nngeliatnya aja bikin aku yakin.",
+      "choice_data_list": [
+        "Tolong menang ya, Spe!",
+        "Tolong menang ya, Spe!"
+      ]
+    },
+    {
+      "text": "Ehehe, iya!",
+      "name": "Special Week"
+    }
+  ]
+}

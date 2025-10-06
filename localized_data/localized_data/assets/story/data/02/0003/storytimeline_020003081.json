@@ -1,0 +1,244 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Menjelang ‘SatsukiShou’, latihan Winning Ticket ditingkatkan\njadi lebih fokus ke persiapan balapan."
+    },
+    {
+      "text": "Buat ngehias classic race penting pertama dengan bintang putih,\npas lagi mikirin menu latihan, Winning Ticket datang menghampiri."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Sorry ganggu ya. Santai aja, kamu lanjut kerja aja."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Kayaknya sih nyampur sama bahan-bahan pameran～…",
+      "choice_data_list": [
+        "Lagi nyari apa?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ahh～, ini buku catatan lama～."
+    },
+    {
+      "text": "Pas aku mau bantu Winning Ticket nyari…"
+    },
+    {
+      "text": "(Kring, Kring)"
+    },
+    {
+      "text": "Telepon masuk dari guru pelatih."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Guru…? Ah iya, yang pernah dapet penghargaan URA itu kan!"
+    },
+    {
+      "text": "Udah lama nggak kontak setelah ngucapin selamat waktu itu.\nAda apa ya… Halo?"
+    },
+    {
+      "name": "Chief Trainer",
+      "text": "“Hei, gimana kabarnya? Kamu sama anak baru ini kayaknya rame banget,\nmakanya aku kepikiran buat nelpon.”"
+    },
+    {
+      "text": "Oh, Tickezou… Jadi tentang Winning Ticket rupanya."
+    },
+    {
+      "name": "Chief Trainer",
+      "text": "“Gimana, kira-kira bisa menang nggak?\nDerby itu puncak semua balapan, soalnya semua kuda terkuat kumpul di situ.”"
+    },
+    {
+      "text": "Tentu aja kita bakal menang.\nWarisan yang kamu tinggalin di Derby udah nurun ke tim <Sirius>."
+    },
+    {
+      "name": "Chief Trainer",
+      "text": "“Haha! Itu juga yang aku bilang pas upacara penghargaan.”"
+    },
+    {
+      "text": "Perasaannya buat Derby emang luar biasa.\nDari kecil dia udah mikirin Derby terus."
+    },
+    {
+      "name": "Chief Trainer",
+      "text": "“Betul, kekuatan perasaan itu penting buat Derby.”"
+    },
+    {
+      "name": "Chief Trainer",
+      "text": "“Aku nggak mau ngomong soal spiritual sih,\ntapi menurutku Derby itu balapan di mana kekuatan sama perasaan saling tabrakan.”"
+    },
+    {
+      "text": "Iya… aku udah cukup sering nonton Derby langsung,\nsampe bener-bener kebawa suasananya."
+    },
+    {
+      "name": "Chief Trainer",
+      "text": "“Yah, ujung-ujungnya aku memang nggak menang,\ntapi perjalanan sampe ke sana nggak sia-sia.”"
+    },
+    {
+      "name": "Chief Trainer",
+      "text": "“Aku harap tahunmu bakal bagus, apalagi dengan Derby ini.”"
+    },
+    {
+      "text": "Setelah ngobrol soal tim sama anggota lain,\nakhirnya telepon pun selesai."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Wah～ aku kaget.\nTiba-tiba nama aku disebut, kupikir ada apa."
+    },
+    {
+      "text": "Dia bilang, “Sampaikan salam buat Tickezou.”\nDia tahu tentang kita, dan kalau kamu bakal bikin aku jadi Horse Girl Derby."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ehehe～, serahin aja ke aku!\nSama kayak kamu, Trainer-san, kamu juga harus bikin aku jadi Horse Girl Derby!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Eh? Aku yang harus menang, atau kamu yang bikin aku menang,\naku jadi bingung deh."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ya udah lah, balik lagi cari!\nKayaknya aku taruh di sekitar sini waktu pameran～…"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ahh! Nih-nih! Catatan Derby!",
+      "choice_data_list": [
+        "Catatan Derby?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Iya! Kayaknya nyampur sama bahan pameran."
+    },
+    {
+      "text": "Pas dia nunjukin bukunya, aku lihat cerita tentang Derby\nditulis rapi pake huruf Hiragana anak-anak."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Lihat deh, ini semua tentang yang aku pikirin soal Derby selama ini,\nsama perasaan aku juga, terusー"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Jalan buat bisa lari di Derby aku tulis juga."
+    },
+    {
+      "text": "Habis ngomong gitu, Winning Ticket nempelin foto cetakan ke bukunya."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Yes, sekarang jadi deh!"
+    },
+    {
+      "text": "Winning Ticket, Biwa Hayahide, Narita Taishinー\nkenangan berharga bareng sahabat sekarang ikut nempel di buku itu."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Nanti di akhir catatan ini bakal ada foto kemenanganku di Derby… Ehehe～."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Dulu waktu kecil, badanku gampang panas banget."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ibu khawatir sama aku, makanya aku sering diajak nonton berbagai macam olahraga\nbiar aku suka salah satunya."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "“Olahraga bikin badan sama pikiran jadi kuat!”\nitu kata-kata Ibu… bener-bener Ibu yang hebat ya?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Terus, balapan pertama yang aku tonton langsung sama Ibu itu Derby.\nUdah pernah aku cerita kan, rasanya keren banget."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ada yang bahagia menang, ada yang tetap lari sampe akhir tanpa nyerah,\ndan sorakan orang-orang yang ngehargain balapan ituー"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Pulangnya, kepalaku cuma kepikiran soal lari.\nAku sempet ikut berbagai kelas olahraga,\ntapi akhirnya bilang ke Ibu kalau aku mau berhenti semuanya."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Kalau dipikir sekarang, aku ngomongnya masih agak bingung sih,\ntapi Ibu malah bilang, “Kalau gitu, Ibu harus beliin tapal kuda buatmu.”"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Aku nggak jago belajar, tapi aku bisa terus lari.\nGara-gara Derby, aku bisa ketemu teman-teman sama Trainer-san!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Makanya… aku pasti bakal menang Derby!"
+    },
+    {
+      "text": "Mimpi yang dilihat waktu kecil, nggak gampang buat terus dikejar."
+    },
+    {
+      "text": "Tapi Winning Ticket tetap terus ngejar mimpinya.\nDerby yang dia lihat waktu itu ngasih warna baru buat hidupnya.",
+      "choice_data_list": [
+        "Ayo kita tulis nanti kalau menang di buku ini!"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Iya!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Maaf ya bikin kamu lembur, Trainer-san.\nSoalnya kalau udah ngomongin Derby, aku suka kebawa."
+    },
+    {
+      "text": "Kamu emang bener-bener cinta Derby ya, Tickezou."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ehehe, jelas dong!\nKalau soal perasaanku buat Derby, aku nggak bakal kalah!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Oh iya, tadinya mau aku bawa pulang,\ntapi mending aku kasih ke kamu aja, Trainer-san."
+    },
+    {
+      "text": "Habis ngomong gitu, Winning Ticket ngasihin ‘Catatan Derby’."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Aku udah tulis semuanya tentang Derby di sini, jadi baca ya!\nAku yakin perasaanmu ke Derby juga bakal makin kuat!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Oke deh, sampai ketemu lagi!\nSemangat latihannya!"
+    },
+    {
+      "text": "Setelah nganter Winning Ticket, aku buka buku yang dia kasih."
+    },
+    {
+      "text": "“Catatan Derby” ditulis gede dengan tulisan anak-anak di sampulnya.\nJustru keliatan sederhana, tapi nunjukin kuatnya perasaan dia."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Heh… heh… heh… heh…!"
+    },
+    {
+      "text": "Oh…? Itu…"
+    },
+    {
+      "text": "Malam udah gelap.\nTapi ada Horse Girl yang tetap lari ke lintasan latihan."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Aah… baiklah, mulai dari 10 sprint dulu."
+    },
+    {
+      "text": "Taishin… tetap latihan meski udah larut."
+    },
+    {
+      "text": "Bukan cuma Winning Ticket yang pengen menang.\nBuat seorang Horse Girl, Derby itu mimpi sekaligus lambang kejayaan."
+    },
+    {
+      "text": "Sambil ngeliatin Taishin lari di kegelapan malam,\naku kepikiran soal itu."
+    }
+  ]
+}

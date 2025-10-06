@@ -1,0 +1,322 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "narasi",
+      "text": "Sejak hari Winning Ticket kabur dari latihan publik, kondisinya kelihatan menurun."
+    },
+    {
+      "name": "narasi",
+      "text": "Dia kelihatan syok banget.\nDalam keadaan begitu, Derby tinggal hitungan hari."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Siarnya langsung bikin aku tegang.\nAku harus pastiin jangan gagal lagi kayak di “SatsukiShou”."
+    },
+    {
+      "name": "narasi",
+      "text": "Hari ini ada konferensi pers untuk para Uma Musume yang bakal turun di Derby."
+    },
+    {
+      "name": "narasi",
+      "text": "Winning Ticket nonton para Uma Musume lain di TV sambil nunggu namanya dipanggil.",
+      "choice_data_list": [
+        "Udah kepikiran mau ngomong apa?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Hmm… untuk sementara sih…"
+    },
+    {
+      "name": "narasi",
+      "text": "Ticket jawab seadanya sambil tetap mantengin TV."
+    },
+    {
+      "name": "Host",
+      "text": "Derby penuh sama kuda-kuda hebat.\nBisa ceritakan semangatmu?"
+    },
+    {
+      "name": "Participant Horse Girl",
+      "text": "Tentu aja kami ngikutin semua balapan rival.\nBanyak banget yang berbakat."
+    },
+    {
+      "name": "Participant Horse Girl",
+      "text": "Tapi akhirnya aku bisa sampai di panggung seumur hidup sekali ini.\nYang ada di kepalaku cuma satu: lewat garis finis paling depan."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Keren ya, tatapannya lurus banget.\nKayaknya itu benar-benar perasaan tulusnya."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "…Aku juga selalu mikir, “Derby itu balapan impianku, aku harus menang dan jadi Uma Musume Derby.”"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Tapi… itu bukan perasaan asliku.\nAslinya, aku takut kalah, sampai nggak bisa tenang.",
+      "choice_data_list": [
+        "Tickezou…"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Hehe, maaf jadi ngeluh terus.\nAku payah banget ya…"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Semua orang ngomong dengan semangat membara soal Derby,\ntapi aku satu-satunya yang malah takut…"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Sampai sekarang kakiku kaku banget,\nrasanya kayak bukan kakiku sendiri…"
+    },
+    {
+      "name": "narasi",
+      "text": "Ya, jelas banget kalau kamu memang lebih takut dari siapa pun."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "…Ahaha, bener juga.\nKalau aku ikut konferensi pers, pasti diketawain."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Kalau aku ikut Derby, aku nggak bakal menang.\nMungkin sebaiknya aku berhenti ajaー",
+      "choice_data_list": [
+        "ーNggak, kamu bisa menang",
+        "ーNggak, kamu bisa menang"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Eh… Menang…?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Apa maksudmu!?\nTrainer-san, kamu sendiri kan ngaku aku ini paling takut!\nLebih lemah dari siapa punー"
+    },
+    {
+      "name": "narasi",
+      "text": "Justru itu kenapa kamu bisa menang!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Nggak mungkin!\nDi panggung sebesar ini, nggak bisa menang kalau cuma pengecut…!"
+    },
+    {
+      "name": "narasi",
+      "text": "Aku rasa alasan kamu lebih takut dari siapa pun,\nkarena kamu punya keinginan menang Derby yang lebih kuat dari siapa pun juga."
+    },
+    {
+      "name": "narasi",
+      "text": "Aku pengen menang Derby lebih serius dari siapa pun,\nsampai-sampai kakiku gemetaran tiap mikirin kalah."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "……"
+    },
+    {
+      "name": "narasi",
+      "text": "Guru aku juga pernah bilang,\n“Kekuatan dari perasaan itu penting buat Derby”."
+    },
+    {
+      "name": "narasi",
+      "text": "Kamu udah ngumpulin perasaan itu lebih banyak dari siapa pun.\nDari sejak pertama kali kamu lihat Derby waktu kecil…!"
+    },
+    {
+      "name": "narasi",
+      "text": "Setelah aku ngomong gitu ke Ticket, aku kasih dia “Catatan Derby”."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ah… Buku catatanku."
+    },
+    {
+      "name": "narasi",
+      "text": "Perasaan yang terkumpul itu bakal jadi tenaga buat bertahan di saat sulit!\nJadi kekuatan buat menang, yang bisa diandalkan lebih dari siapa pun!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Aku bisa lebih baik dari siapa pun…\nBisa lebih mengandalkan ini dari siapa pun…!"
+    },
+    {
+      "name": "narasi",
+      "text": "Terus, tulis ini di buku catatan ituー",
+      "choice_data_list": [
+        "Nama kita kalau menang Derby!",
+        "Nama kita kalau menang Derby!"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Hiks… Derby… aku udah ngimpiin kamu seumur hidup… Derby…!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Aku pengen menang!\nItu mimpi sejak kecil!\nAku takut, tapi aku nggak bisa nyerah!!\nWaaaaa～～!!!!"
+    },
+    {
+      "name": "narasi",
+      "text": "Setiap kali ngomongin Derby, Ticket nangis keras-keras."
+    },
+    {
+      "name": "narasi",
+      "text": "Dengerin tangisannya yang dalam, aku merasa dia akhirnya balik lagi."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Uwaa～, aku nangis banyak banget!\nAku emang cengeng, tapi kali ini nangisku beda, hehe."
+    },
+    {
+      "name": "narasi",
+      "text": "Udah mutusin mau ngomong apa di konferensi pers?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Aku takut kalah, tapi aku bakal bilang “Aku akan berusaha sekuatnya”!\nKarena aku punya sekutu yang namanya perasaan yang udah aku kumpulin!",
+      "choice_data_list": [
+        "Kamu harus nyampein perasaan itu ke semua orang",
+        "Kamu harus nyampein perasaan itu ke semua orang"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Iya! Oke, aku bakal ngomong dengan sepenuh tenaga!\nDer～～, by～～～～!!!!"
+    },
+    {
+      "name": "narasi",
+      "text": "(Tok-tok)"
+    },
+    {
+      "name": "Hayakawa Tazuna",
+      "text": "Permisi. Winning Ticket-san, giliranmu sebentar lagi."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Siap! Terima kasih!"
+    },
+    {
+      "name": "narasi",
+      "text": "Dan, saat ituーAda nama familiar yang keluar dari TV."
+    },
+    {
+      "name": "Host",
+      "text": "Selanjutnya, Narita Taishin-san."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ah, Taishin!\nTazuna-san, bentar!\nBoleh nonton dulu sebentar aja!?"
+    },
+    {
+      "name": "Hayakawa Tazuna",
+      "text": "Hmm, kalau sebentar sih…"
+    },
+    {
+      "name": "Host",
+      "text": "Taishin-san, kabarnya latihan kerasmu terus berlanjut.\nPadahal sudah menang di “SatsukiShou”, tapi tetap waspada ya."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Tentu.\nRival yang kalah di “SatsukiShou” nggak bakal diam aja.\nAku nggak masalah, soalnya aku nggak ada niat buat nahan diri."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Bahkan di Derby, aku bakal pastiin rival-rivalku lihat punggungku."
+    },
+    {
+      "name": "narasi",
+      "text": "Taishin bakal jadi lawan terkuatmu kali ini juga."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Iya, tapi kali ini aku yang bakal nunjukkin punggungku ke dia!"
+    },
+    {
+      "name": "Host",
+      "text": "Selanjutnya, Biwa Hayahide-san."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Hayahide…! Tazuna-san! Sedikit lagi aja!!"
+    },
+    {
+      "name": "Hayakawa Tazuna",
+      "text": "Eh～!? Tapi giliranmu langsung setelah Biwa Hayahide-san!"
+    },
+    {
+      "name": "narasi",
+      "text": "Kalau Uma Musume lari, secepat kilat udah sampai ruang siaran!"
+    },
+    {
+      "name": "Hayakawa Tazuna",
+      "text": "Eh, Trainer-san ikut juga!? Padahal ini siaran langsung!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ada beberapa rival yang sama-sama berhasil sampai Derby bersamaku."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Kalau rivalku maju 1 langkah, aku bakal coba maju 2 langkah.\nJadi kita bisa sampai sejauh ini berkat usaha bareng-bareng."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Tapi, bisa sampai sini bukan tujuan akhirnya.\nTujuanku adalah lari dan menang lawan rival-rivalku."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Hehe, ayo kita lari bareng, Hayahide!",
+      "choice_data_list": [
+        "Ayo kejar mereka berdua dan salip mereka!"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Iya! Aku bakal lari sekuat tenaga!\nBiar Derby kita jadi Derby paling keren!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Kalau gitu, aku harus gerak sekarang!\nMaaf, Tazuna-san!\nAku skip konferensi pers!!"
+    },
+    {
+      "name": "Hayakawa Tazuna",
+      "text": "Hah!? Tunggu, Winning Ticket-san!?"
+    },
+    {
+      "name": "narasi",
+      "text": "Maaf, udah nggak ada cukup waktu lagi buat siap 100%."
+    },
+    {
+      "name": "Hayakawa Tazuna",
+      "text": "Hadeh, kenapa bilangnya mendadak gini～!!"
+    },
+    {
+      "name": "narasi",
+      "text": "Dan akhirnya, demi Derby, Ticket mulai berlari lagi."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Waaaaaaaaaa～～!!\nLebih cepet!!\nLebih-lebih cepet lagi!!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Dasar… Kukira dia nggak datang ke konferensi pers,\nternyata malah lari."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "… Atau lebih tepatnya,\nkenapa kamu lari pakai seragam sekolah?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Hehe, emang dia begitu.\nKalau soal Derby, apa pun dikejar sampai nekat."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Aku pasti menang～～!!\nDeeeeeeeeeerbyyyyyyyyyyy!"
+    },
+    {
+      "name": "narasi",
+      "text": "Perasaannya buat Derby terasa jelas lewat langkah kakinya yang menggema di lintasan."
+    }
+  ]
+}

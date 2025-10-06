@@ -1,0 +1,242 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Beberapa hari setelah [Japan Derby] selesai-"
+    },
+    {
+      "text": "Spe, latihan udah kelar loh.",
+      "name": "<username>"
+    },
+    {
+      "text": "Fue…?! Uwaaa, udah kelar aja?!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Akhir-akhir ini, konsentrasi Special Week gampang pecah. \nKayaknya gara-gara matanya lagi fokus sama sesuatu-"
+    },
+    {
+      "text": "Haa… Haa… satu putaran lagi aja!",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Ternyata, kamu lagi khawatir sama Silence Suzuka ya?",
+      "name": "<username>"
+    },
+    {
+      "text": "Iya, pas Suzuka-san fokus lomba dan kerja keras, \naku mikir dia keren banget… Tapi belakangan ini…",
+      "name": "Special Week"
+    },
+    {
+      "text": "Eh…? Kamu juga ngerasain gitu, Trainer-san…?",
+      "name": "Special Week"
+    },
+    {
+      "text": "Akhir-akhir ini kalo aku liat lombanya, entah kenapa \nkayaknya dia nggak nyaman. Kayak nggak nikmatin lari.",
+      "name": "<username>"
+    },
+    {
+      "text": "…Um! Boleh nggak aku di sini sebentar lagi? \nAku pengen nemenin Suzuka-san latihan!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Ngurusin urusan Gadis kuda di tim lain mungkin nggak masalahku. \nTapi kadang, aku beneran nggak bisa diem aja-"
+    },
+    {
+      "text": "Kalau gitu, aku ikut sama kamu. Ayo kita ajak ngobrol dia.",
+      "name": "<username>"
+    },
+    {
+      "text": "Fuuu~! \nMakasih banget buat latihan pacingnya!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Maaf tiba-tiba ngajak kamu gabung.",
+      "name": "<username>"
+    },
+    {
+      "text": "Nggak kok, aku juga seneng banget.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Sayangnya aku di tim lain, tapi kalo kita begini masih bisa latihan bareng… ehehe!",
+      "name": "Special Week"
+    },
+    {
+      "text": "…",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Um, Suzuka-san… Kamu masih ingat waktu pertama kita ketemu? \nAku tiba-tiba manggil kamu tanpa mikir apa-apa.",
+      "name": "Special Week"
+    },
+    {
+      "text": "Waktu itu, aku baru dateng sendiri dari Hokkaido, \naku takut semuanya nggak bakal berjalan lancar. Aku beneran khawatir.",
+      "name": "Special Week"
+    },
+    {
+      "text": "Tapi waktu liat Suzuka-san lari dengan senang banget, \nsemua kekhawatiranku hilang! Aku mikir, waktuku di akademi pasti bakal seru!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Tapi Suzuka-san sekarang kayak beda dari dulu…",
+      "name": "Special Week"
+    },
+    {
+      "text": "Pas Debut-mu dulu, pasti kayak gitu. Lari ke garis finish dari depan, \nkamu keliatan seneng banget.",
+      "name": "<username>"
+    },
+    {
+      "text": "…Sekarang aku nggak terlalu tau. \nAku pasti ngejar mimpiku sekuat tenaga.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Tapi, meski ngejar terus, mimpiku rasanya makin jauh…",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Sejak kecil, aku suka banget lari. Yang kedengeran cuma langkah kakiku, \ndan angin yang nyapu.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Aku nggak bisa lupain kata-katamu waktu itu, sampai sekarang aku ngejar itu…",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Special Week-san, kamu bilang aku keliatan seneng lari… tapi sebenernya kebalikannya.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Special Week-san selalu lurus ngejar mimpi, polos, dan bersinar… tapi aku…",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Pas kita terus-terusan latihan, kadang jadi kaku itu biasa."
+    },
+    {
+      "text": "Tapi itu bukti keseriusannya. Kalo perasaannya sekuat itu, pasti ada cara lain-",
+      "choice_data_list": [
+        "Nggak apa-apa kan kalo lari sesuka hati?",
+        "Nggak apa-apa kan kalo lari sesuka hati?"
+      ]
+    },
+    {
+      "text": "Sesuka hatiku…?",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Ngomong gitu mungkin nggak cocok buat pelatih, tapi lupakan soal menang atau hal berat lainnya. \nDan lari aja.",
+      "name": "<username>"
+    },
+    {
+      "text": "Jangan mikirin pacing. Kalo capek di tengah jalan, nggak apa-apa. \nPokoknya lari aja sesuka hati, coba lari sesuai keinginanmu.",
+      "name": "<username>"
+    },
+    {
+      "text": "Lari sesuka hati… sesuai keinginanku…",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Suzuka-san! Satu putaran lagi yuk! Lupakan semua hal ribet, lari aja 'whooooosh'!",
+      "name": "Special Week"
+    },
+    {
+      "text": "…Baik. Aku coba.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "(Anginnya enak, suara sepatu kudaku bikin nyaman… nggak ada suara ribet, nggak ada halangan di jalan)"
+    },
+    {
+      "text": "(Aku cuma lari, tapi dibanding balapan, ini…)",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "(Pemandangan jauh lebih indah-)",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Hyaaaa~!? Suzuka-san, cepet banget!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Mau lagi, pemandangan kayak gini…!",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Ueeeehhh~?! Kamu ngebut lagi?!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Kerja bagus kalian berdua. \nLari sesuai keinginan kalian, gimana rasanya?",
+      "name": "<username>"
+    },
+    {
+      "text": "L-liat kita… kita berdua… capek banget…",
+      "name": "Special Week"
+    },
+    {
+      "text": "…bener sih kita capek… tapi…",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "…Aku merasa liat itu, yang aku kejar selama ini. \nPemandangan yang selalu pengen aku liat.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Kayaknya kamu bener-bener suka lari ya?",
+      "name": "<username>"
+    },
+    {
+      "text": "Eh…?",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Pas kamu lari sekuat tenaga, kamu liat yang kamu kejar, kan?",
+      "name": "<username>"
+    },
+    {
+      "text": "Ngejar cuma buat menang nggak bakal nganterin kamu ke mimpi. \nNgejar buat senang lari, pasti bisa sampai.",
+      "name": "<username>"
+    },
+    {
+      "text": "Senang-senang pas lari, itu yang bakal bawa aku ke mimpi…",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Fufuu… oke!",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Beberapa hari setelah itu-"
+    },
+    {
+      "text": "Allllright! Hari ini kita usaha lagi buat jadi \"Gadis Kuda nomor 1 di Jepang\", Spe! \nPertama, kita ke hutan bambu cari rebung!",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "Itu jelas bukan latihan!",
+      "name": "Special Week"
+    },
+    {
+      "text": "…Permisi.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "H-hah? Suzuka-san?",
+      "name": "Special Week"
+    },
+    {
+      "text": "Ada apa? Kalo nggak salah, \ntimmu mau mulai latihan…",
+      "name": "<username>"
+    },
+    {
+      "text": "…",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Aku mau minta pindah ke tim ini.",
+      "name": "Silence Suzuka"
+    }
+  ]
+}

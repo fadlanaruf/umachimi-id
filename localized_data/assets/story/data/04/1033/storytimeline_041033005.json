@@ -6,61 +6,61 @@
             "name": "Admire Vega"
         },
         {
-            "text": "I'm not finished yet. \nI… I need to run more.",
+            "text": "Aku masih belum selesai.\nAku...butuh berlari lagi.",
             "name": "Admire Vega"
         },
         {
-            "text": "It has been a few days since I became her trainer.",
+            "text": "Sudah beberapa hari sejak aku menjadi Trainer-nya.",
             "choice_data_list": [
-                "<i>I'm still a little soft with her, so…</i>"
+                "<i>Aku masih lembut padanya, sih...</i>"
             ]
         },
         {
-            "text": "I'm currently taking notes on how Admire Vega runs. \nI will use this as a basis for her training going forward, but…"
+            "text": "Aku membuat catatan bagaimana Admire Vega berlari.\nAku akan menggunakan ini sebagai basis latihan kedepannya, tapi..."
         },
         {
-            "text": "Will she actually listen to me?"
+            "text": "Akahkah dia mendengarkanku?"
         },
         {
-            "text": "She does listen to light advice, but when it \ncomes to training that requires us to work together…"
+            "text": "Dia bisa menerima saran kecil, tapi saat  \nlatihan yang membutuhkan dua orang…"
         },
         {
-            "text": "I'm… fine being alone. \nI… prefer being alone.",
+            "text": "Aku...tidak apa-apa sendiri.\nAku...lebih suka sendiri.",
             "name": "Admire Vega"
         },
         {
-            "text": "If I don't have a trainer, I won't be able to enter the \nTwinkle Series. So either way, I'd need one eventually…",
+            "text": "Mau bagaimanapun, jika aku tidak dapat Trainer, \naku tidak bisa memasuki Twinkle Series.",
             "name": "Admire Vega"
         },
         {
-            "text": "It's hard to get her to do training \nthat requires her to cooperate with me…",
+            "text": "Bakal susah menyakinkan dia untuk \nlatihan yang membutuhkan bantuanku.",
             "choice_data_list": [
-                "<i>But…</i>"
+                "<i>Tapi…</i>"
             ]
         },
         {
-            "text": "I am her trainer. I told her that I would support \nher no matter what, so I have to prove that to―"
+            "text": "Aku adalah Trainer-nya. Aku bilang ke dia untuk membuktikan \nbahwa aku bisa membantunya apapun itu-"
         },
         {
-            "text": "I'm going to run somewhere else…",
+            "text": "Aku mau lari dulu…",
             "name": "Admire Vega",
             "choice_data_list": [
                 "Eh?"
             ]
         },
         {
-            "text": "Don't… wait for me.",
+            "text": "Jangan tunggu aku.",
             "name": "Admire Vega"
         },
         {
-            "text": "She ran off before I had a chance to react. \nI wanted to chase after her, but she was just too quick."
+            "text": "Dia sudah keluar sebelum aku bereaksi. \nAku ingin mengejarnya, tapi dia terlalu cepat."
         },
         {
             "text": "Hahh, hah, haa…!",
             "name": "Admire Vega"
         },
         {
-            "text": "<i>It's fine, I can still run much more today. If I continue at this \npace, one day I'll reach those far away stars, all by myself.</i>",
+            "text": "<i>Tidak apa, aku masih bisa berlari lagi hari ini. Jika aku meneruskan ini, \nsuatu hari aku bisa mencapai bintang itu sendiri.</i>",
             "name": "Admire Vega"
         },
         {
@@ -68,58 +68,58 @@
             "name": "Admire Vega"
         },
         {
-            "text": "All… by myself.",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "Dengan....diriku sendiri."
         },
         {
-            "text": "I was so busy organizing my notes \nthat I didn't realize it was already nighttime.",
+            "text": "Aku sangat sibuk menata catatanku sampai aku tidak sadar sudah malam.",
             "choice_data_list": [
-                "But there's only a little left to do…"
+                "Tapi, tinggal sedikit lagi..."
             ]
         },
         {
-            "text": "I hope I can get my feelings across to Admire Vega \ntomorrow. And I hope that I can be useful to her too."
+            "text": "Aku berharap perasaanku bisa mencapai Admire Vega besok.\nDan berharap aku bisa menjadi berguna buat dia juga."
         },
         {
-            "text": "You're here again.",
+            "text": "Kamu disini lagi.",
             "name": "Admire Vega"
         },
         {
-            "text": "Trainer-san, you'll catch a cold if you \ncontinue to sleep here. You should go home.",
+            "text": "Trainer-san, kamu akan kedinginan jika tidur disini. Segeralah pulang.",
             "name": "Admire Vega"
         },
         {
-            "text": "And you left your computer on, and these notes…",
+            "text": "Dan komputermu malah nyala dan catatannya terbuka――",
             "name": "Admire Vega"
         },
         {
-            "text": "\"She seems to like stars.\" \"Should I change \nthe training start time?\" \"Where's a good area \nto stargaze?\" \"I'll ask Tazuna about it.\""
+            "text": "\"Dia sepertinya suka bintang.\" \"Haruskah kuubah waktu latihannya?\" \n\"Tempat yang bagus untuk melihat bintang, ya?\" \"Tanya Tazuna aja, deh.\""
         },
         {
-            "text": "\"She's doing this for 'her'?\""
+            "text": "\"Demi 'dia'――?\""
         },
         {
-            "text": "\"What else can I do for her?\"",
+            "text": "\"Apa yang bisa kuperbuat untuk dia\"……？",
             "name": "Admire Vega"
         },
         {
-            "text": "Why is she… doing all of this? I told her so \nmany times… that I prefer doing things alone.",
+            "text": "Kenapa dia melakukan ini semua? Aku\nsudah bilang pada dia bahwa aku bisa sendiri....",
             "name": "Admire Vega"
         },
         {
-            "text": "<i>I thought that all I wanted was to see the stars. \n</i> <i>That all I wanted was to continue running, \nuntil I reached that faraway place.</i>",
+            "text": "<i>Aku pikir yang kuinginkan hanyalah melihat bintang-bintang. \nYang kuinginkan hanyalah terus berlari.</i>",
             "name": "Admire Vega"
         },
         {
-            "text": "<i>But…</i>",
+            "text": "<i>Tapi…</i>",
             "name": "Admire Vega"
         },
         {
-            "text": "She's definitely waiting for you.",
+            "text": "Dia pasti menunggumu, loh.",
             "name": "???"
         },
         {
-            "text": "No… that isn't true. The only reason I \ncame back was because of my curfew. That's it.",
+            "text": "Tidak, itu tidak benar, Alasanku \nkembali cuma karena jam malamku. Itu saja.",
             "name": "Admire Vega"
         },
         {
@@ -127,19 +127,20 @@
             "name": "Admire Vega"
         },
         {
-            "text": "All the effort you're putting into me… \nI don't deserve it.",
+            "text": "Semua usaha yang kamu lakukan untukku...\nAku tak berhak mendapatkannya.",
             "name": "Admire Vega"
         },
         {
-            "text": "<i>There's a different Uma Musume that deserved all of this. \nThe one who was meant to shine like a dazzling star.</i>",
+            "text": "<i>Ada Gadis Kuda yang berbeda yang pantas mendapatkan semua ini. \nYang seharusnya bersinar seperti bintang yang gemerlap.</i>",
             "name": "Admire Vega"
         },
         {
-            "text": "My… beloved sister.",
+            "text": "Adikku...yang, tercinta...",
             "name": "Admire Vega"
         },
         {
-            "text": "It seems like someone covered me in a blanket. I didn't open my \neyes, but in my sleep I could hear the faint sounds of footsteps."
+            "text": "Sepertinya ada seseorang menyelimutiku dengan selimut.\nAku tidak membuka mataku, tapi dalam tidurku, aku\nmendengar langkah kaki yang samar."
         }
-    ]
+    ],
+    "title": "Getaran di Malam yang Berkilau"
 }

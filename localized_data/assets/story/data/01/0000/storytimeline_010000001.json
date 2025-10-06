@@ -2,25 +2,25 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "A certain day in a certain month \nat the Tokyo Racecourse"
+            "text": "Pada suatu hari, di bulan tertentu\nDi Pacuan Kuda Tokyo."
         },
         {
             "name": "???",
-            "text": "New Trainer-san!! I'm over here～!"
+            "text": "Trainer yang baru! Aku di sini~!"
         },
         {
             "name": "???",
-            "text": "The race track is busy today～! \nBe sure not to get lost."
+            "text": "Lintasan balapnya sangat ramai hari ini~!\nHati-hati, jangan sampai tersesat, ya."
         },
         {
             "name": "???",
-            "text": "Well then, let me introduce myself."
+            "text": "Kalau begitu, izinkan aku memperkenalkan diri."
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "I'm Tazuna Hayakawa, and I'm the\nsecretary to the president of Tracen\nAcademy, and also in charge of\ninformation!",
+            "text": "Aku Tazuna Hayakawa, sekretaris Presiden \nTracen Academy, sekaligus penanggung jawab \nbagian informasi.",
             "choice_data_list": [
-                "I look forward to working with you."
+                "Senang bisa bekerja sama denganmu."
             ],
             "color_text_info_list": [
                 "Tracen Academy",
@@ -30,30 +30,30 @@
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Yes ♪ It's an honor to meet a promising \nnew trainer like you!"
+            "text": "Ya ♪ Sangat senang bisa bertemu Trainer baru \nyang berbakat seperti kamu!"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "So let's get started with the school\nguide."
+            "text": "Baiklah, mari kita mulai panduan \nseputar akademi ini."
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "First of all, please take a look, \nthe race is about to begin!"
+            "text": "Pertama-tama, silakan lihat ke sana,\nbalapannya akan segera dimulai!"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Look… can you hear it, those loud\ncheers!"
+            "text": "Lihat… dengarkah kamu? Sorakan yang \nsangat meriah itu!"
         },
         {
-            "text": "(Ahhhhhhhh!!!)"
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "A race where horsegirls compete, which \npeople all over the world love…"
+            "text": "(AHHHHHHHH!!!)"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "It's the fanfare of the opening race, \nthe stage of your dreams, where you \nand your horsegirls will be going!"
+            "text": "Sebuah balapan di mana para 'horsegirl' bertanding, \nyang sangat dicintai oleh orang di seluruh dunia…"
+        },
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "Inilah mars pembukaan balapan, panggung mimpi-mu,\ntempat di mana kamu dan para 'horsegirl'-mu akan berjuang!"
         }
     ]
 }

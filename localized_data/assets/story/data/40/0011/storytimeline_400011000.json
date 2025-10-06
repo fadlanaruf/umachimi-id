@@ -83,7 +83,122 @@
             "text": "Ih Itu Teh Pulau Terpencil ! ---"
         },
         {
-            "name": "Tamamo Cross"
+            "name": "Tamamo Cross",
+            "text": "Ieu téh nu sok disebut ‘TreSen Jang’ nyaah?\nHaaah~ ngan saukur teu aya nanaon kieu gé,\nbeuki ngahudangkeun sumanget atuh!",
+            "color_text_info_list": [
+                "‘TreSen Jang’"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Lautnya, bening banget ya~\nItu… karang kah?"
+        },
+        {
+            "name": "Gold City",
+            "text": "E-eh, maaf… dari arah hutan sana,\nkayaknya… ada suara binatang nggak sih?"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Rasanya kayak lagi perkemahan sekolah, jadi ikutan deg-degan seneng gini~!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Ahaha… ya ampun, kamu ini ada-ada aja~\nSebentar lagi sesi penjelasan bakal mulai, jadi setelah itu aja ya!"
+        },
+        {
+            "text": "Dan begitulah, sambil menunggu dimulainya sesi penjelasan,\naku bersama para Uma Musume yang sepertinya juga peserta proyek ini—"
+        },
+        {
+            "text": "Yoo~ yoo~ yooo!",
+            "name": "???"
+        },
+        {
+            "text": "Insting lo… udah dilepas belooom!?",
+            "name": "???",
+            "choice_data_list": [
+                "?!"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "“Insting… dileupaskeun…?\nHeh, saha atuh manehna ieu!?”"
+        },
+        {
+            "text": "Daaah-haha! Aku adalah Tucker Brian!\nSambil mendoakan lompatan lebih tinggi lagi bagi kalian, para Uma Musume—",
+            "name": "Tucker Brian",
+            "color_text_info_list": [
+                "Tucker Brian"
+            ]
+        },
+        {
+            "text": "Roda keberuntungan berputar~!\nDan akhirnya proyek ini resmi didirikan!\nAkulah penanggung jawab sekaligus pengawas lapangannya!!",
+            "name": "Tucker Brian"
+        },
+        {
+            "text": "Mulai sekarang pasti bakal sering merepotkan kalian!\nJadi, mohon kerjasamanya yaaa!!",
+            "name": "Tucker Brian"
+        },
+        {
+            "text": "Mo-mohon bimbingannya, ya!!",
+            "name": "Umamusume"
+        },
+        {
+            "text": "Baiklah――！\nAku sekarang…… SUNGGUH-SUNGGUH!! BAHAGIA!!\nKenapa begitu……!? ",
+            "name": "Tucker Brian"
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "Pembukaan lahan melawan ALAM RAYA!!\nPembangunan ini jadi perjalanan mencari jawaban!\nKerja teliti, kerja panjang—LET’S GO!!",
+            "color_text_info_list": [
+                "LET’S GO!!"
+            ]
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "Siapa sangka… di awal perjalanan panjang ini, bisa ngumpul SEBANYAK ini Uma Musume!!"
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "Jelas! Urusan teknis biar ahlinya!\nKalian cukup kasih tenaga, cinta balap,\ndan hati polos kalian buat dukung proyek ini"
+        },
+        {
+            "text": "Terdorong oleh semangatnya yang menggebu…\nbriefing Proyek Pulau Tak Berpenghuni pun dimulai!"
+        },
+        {
+            "text": "Baik! Tujuan dari Proyek Pulau Tak Berpenghuni ini adalah membangun fasilitas latihan terkuat",
+            "name": "Tucker Brian"
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "Artinya, lari bebas di padang! Panjat tebing! Seberangi lautan!\nLatih dirimu seirama dengan detak alam!\nKeluarkan kemampuan fisikmu 120%!\""
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "Itulah yang kuinginkan…\nfasilitas latihan terkuat!!"
+        },
+        {
+            "name": "Peserta PJ",
+            "text": "Ooooouuuhhhh......!"
+        },
+        {
+            "text": "Ja-jadi maksudnya… kalau aku naruh wortel di gunung pun… nggak masalah… gitu kah?",
+            "name": "Sakura Chiyono O"
+        },
+        {
+            "text": "“Uma Musume, gunakan tenagamu!\nBantu bangun pulau ini, dan bagikan ilmu dari latihanmu!”",
+            "name": "Tucker Brian"
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "Selain itu, kalian juga bakal jalani Shima Training Alias ‘ShimaTore’ yang bakal terus aku andalkan!!",
+            "color_text_info_list": [
+                "Shima Training",
+                "ShimaTore"
+            ]
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "Singkatnya, itu uji coba fasilitas!\nPakai semuanya, cek hasilnya!!"
         }
     ]
 }

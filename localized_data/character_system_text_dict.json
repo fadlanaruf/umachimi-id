@@ -297,7 +297,9 @@
     },
     "1007": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!"
+        "12": "Umamusume, Pretty Derby!",
+        "20021": "Oi oi, balapan lagi!?\nPikirin juga dong perasaan yang disuruh lari terus!",
+        "20022": "Haaah!? Masih mau disuruh lari lagi!?\nKalo ini diterusin, aku bakal nuntut\npake Undang-Undang Perlindungan Gorushi-chan!!"
     },
     "1008": {
         "11": "Cygames",
@@ -3385,5 +3387,9 @@
     "1134": {
         "20021": "Jika terlalu memaksakan diri—akan ada reaksi balikannya. Untuk mencegah ketidakseimbangan yang buruk—mari berhenti sejenak sekarang.",
         "20022": "——Bolehkah kita bicara dulu? Apakah balapan berturut-turut benar-benar jalan terbaik bagi kita saat ini——mohon, pertimbangkanlah."
+    },
+    "1116": {
+        "20021": "Apa kamu salah paham, mengira kekuatan itu sesuatu yang perlu dipamerkan?",
+        "20022": "Bodoh sekali. Apa kamu pikir cukup berlomba asal-asalan saja?"
     }
 }
